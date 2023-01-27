@@ -1,7 +1,6 @@
 :root {
     --font: 'DM Sans', sans-serif;
     --size: 1em;
-    --color: #1aff8d;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Creepster&family=DM+Sans:wght@400;700&family=DynaPuff:wght@700&family=IBM+Plex+Sans+Condensed:wght@600&family=Plus+Jakarta+Sans:wght@800&family=Public+Sans:wght@300;400&family=Rozha+One&family=Space+Grotesk:wght@600&family=Syne:wght@500&display=swap');
@@ -13,7 +12,6 @@ body {
     min-width: 80%;
     max-width: 1024px;
     padding: 0 1em;
-    background-color: rgb(0, 170, 255);
 }
 
 section {
@@ -71,10 +69,22 @@ h1 {
 	grid-row: 5;
 }
 
+.paragraph-div img {
+    width: 140px;
+}
+
+figcaption {
+    font-size: 0.7em;
+}
+
 footer {
     height: 10em;
 }
 /* hover */
 .paragraph-div:hover {
     color: #ffddf7;
+}
+
+.paragraph-div img:hover {
+    width: 280px;
 }

@@ -2,8 +2,36 @@ section {
     margin-top: 120px;
 }
 
+@font-face {
+    font-family: 'Repro';
+    src: url(/Users/DVMKKR/Downloads/Parsons_SY/Spring_2023/Interaction_Studio/dev_cis23/Fonts/ABCRepro-Medium-Trial.woff) format(woff);
+}
+
+h1 {
+    font-size: 3em;
+    line-height: 70px;
+}
+
 #table-of-contents {
     margin: 80px 0;
+}
+
+body {
+    font-family: 'Repro', 'SF Pro', sans-serif;
+    margin: 2em 4em;
+    background-color: rgb(103, 21, 255);
+    color: aliceblue;
+}
+
+em {
+    font-feature-settings: "ss16";
+    font-style: normal;
+    font-size: 1.5em;
+}
+
+
+section {
+    font-size: 1em;
 }
 
 .anchor-offset {
@@ -17,6 +45,17 @@ section {
 }
 
 img {
-    max-width: 80%;
-    border-radius: 0.4em;
+    max-width: 90%;
+    border-radius: 0.4em; 
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(79, 185, 255);
+    font-weight: bold;
+    font-size: 3em;
 }

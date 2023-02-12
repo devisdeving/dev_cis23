@@ -8,13 +8,34 @@
     src: url(https://drive.google.com/file/d/1v8vERZumeCLC_naJoyc-EGNMeAYnUBv8/view?usp=share_link);
 }
 
+@font-face {
+    font-family: 'Beatrice Trial';
+    src: url(https://drive.google.com/file/d/1BC1PORotnN8TKsDAXPihOKfqG2A5gjNP/view?usp=share_link);
+}
+
 body {
     margin: 0 auto;
-    /* display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;*/
     max-width: 70vw;
+    background: linear-gradient(0deg, #81C3F8, #016AE4, #2254FF, #000B28, #FF9D66, #ffe281);
+    background-size: 150% 150%;
+    animation: gradient 15s ease-in-out;
+    height: max-content;
+    color: #FFE8FF;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 0%;
+	}
+    20% {
+		background-position: 0% 80%;
+	}
+	100% {
+		background-position: 0% 100%;
+	}
+    50% {
+		background-position: 0% 120%;
+	}
 }
 
 /* title and author name dont line up */
@@ -32,8 +53,8 @@ h2 {
 }
 
 p {
-    font-family: 'DM Sans';
-    line-height: 150%;
+    font-family: 'Beatrice Trial', 'DM Sans', sans-serif;
+    line-height: 180%;
     max-width: 50%;
 }
 

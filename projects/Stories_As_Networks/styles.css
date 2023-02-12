@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'MD Nichrome Test';
+    src: url(https://drive.google.com/file/d/1z7hVjEXeGyPv0-n4iQJ-WZaCYHICcqYh/view?usp=share_link);
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url(https://drive.google.com/file/d/1v8vERZumeCLC_naJoyc-EGNMeAYnUBv8/view?usp=share_link);
+}
+
+body {
+    margin: 0 auto;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;*/
+    max-width: 70vw;
+}
+
+/* title and author name dont line up */
+
+h1, h2 {
+    font-family: 'MD Nichrome Test';
+    text-transform: uppercase;
+    font-size: 12em;
+    /* font-size: 15em; */
+    line-height: 79%;
+}
+
+h2 {
+    margin-top: 2em;
+}
+
+p {
+    font-family: 'DM Sans';
+    line-height: 150%;
+    max-width: 50%;
+}
+
+.large-gap-div {
+    height: 30em;
+}
+
+.medium-gap-div {
+    height: 20em;
+}
+
+.small-gap-div {
+    height: 10em;
+}
+
+button {
+    width: 250px;
+    max-width: 250px;
+    height: 250px;
+    max-height: 250px;
+    border-radius: 50%;
+    border: solid 3px;
+    font-family: 'SF Pro';
+    font-size: 3em;
+    background-color: transparent;
+    margin: 2em auto;
+    cursor: pointer;
+    color: #FFE8FF;
+}
+
+button:hover {
+    color: black;
+    border: none;
+    background-color: #FFE8FF;
+    transition: 750ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.grid-wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

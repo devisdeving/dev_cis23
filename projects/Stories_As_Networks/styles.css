@@ -1,24 +1,6 @@
-/* title and author name dont line up */
-
-h1, h2 {
-    font-family: 'MD Nichrome Test';
-    text-transform: uppercase;
-    font-size: 12em;
-    line-height: 79%;
-}
-
-h2 {
-    margin-top: 2em;
-}
-
-p {
-    font-family: 'Beatrice Trial', 'DM Sans', sans-serif;
-    line-height: 180%;
-}
-
-body {
+/* body {
     background: white;
-}
+} */
 
 .flex-wrap {
     display:flex;
@@ -38,18 +20,6 @@ body {
 
 .right-col {
     background: linear-gradient(165deg, #FFC2AF, #0059C0);
-}
-
-.large-gap-div {
-    height: 30em;
-}
-
-.medium-gap-div {
-    height: 20em;
-}
-
-.small-gap-div {
-    height: 10em;
 }
 
 /* .grid-wrap {

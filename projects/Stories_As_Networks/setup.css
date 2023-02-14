@@ -15,12 +15,22 @@
 
 body {
     margin: 0 auto;
-    background: linear-gradient(0deg, #81C3F8, #016AE4, #2254FF, #000B28, #FF9D66, #ffe281);
+    background: linear-gradient(0deg, #81C3F8, #016AE4, #2254FF, #000B28, #FF9D66);
     animation: gradient 15s ease-in-out 1; 
+    height: 100%;
     color: #FFE8FF;
 }
 
-@keyframes gradient {
+.flex-wrap {
+    display:flex;
+}
+
+.half-col {
+    width: 25%;
+    padding: 6% 12%;
+}
+
+/* @keyframes gradient {
 	0% {
 		background-position: 0% 0%;
 	}
@@ -33,6 +43,25 @@ body {
 	100% {
 		background-position: 0% 100%;
 	}
+} */
+
+/* title and author name dont line up */
+
+h1, h2 {
+    font-family: 'MD Nichrome Test';
+    text-transform: uppercase;
+    font-size: 12em;
+    line-height: 79%;
+    margin: 2em 0.5em;
+}
+
+h2 {
+    margin-top: 2em;
+}
+
+p {
+    font-family: 'Beatrice Trial', 'DM Sans', sans-serif;
+    line-height: 180%;
 }
 
 button {
@@ -60,6 +89,18 @@ button:hover {
 ::-webkit-scrollbar {
     width: 0px;
   }
+
+  .large-gap-div {
+    height: 30em;
+}
+
+.medium-gap-div {
+    height: 20em;
+}
+
+.small-gap-div {
+    height: 10em;
+}
 /*   
   ::-webkit-scrollbar-track {
     background: #f1f1f1;

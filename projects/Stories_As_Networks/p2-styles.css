@@ -1,0 +1,7 @@
+#2-left {
+    background-image: linear-gradient(red, yellow);
+}
+
+#2-right {
+    background-image: linear-gradient(165deg, #FFC2AF, #0059C0);
+}

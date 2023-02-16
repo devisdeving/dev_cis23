@@ -1,4 +1,20 @@
-#2-left {
+/* .left-col {
+    background-color:yellow;
+} */
+
+
+#leftCol {
+    background-color:yellow;
+}
+
+#sixscroll {
+    overflow: hidden !important;
+    color: aqua;
+}
+
+
+
+/* #2left {
     background-image: linear-gradient(red, yellow);
 }
 
@@ -12,4 +28,4 @@
 
 #3-right {
     background-image: linear-gradient(15deg, #FFCC81 -20%, #A4D6FF 20%, #1C71D2 100%);
-}
+} */

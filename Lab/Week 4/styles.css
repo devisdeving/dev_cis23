@@ -72,5 +72,6 @@ span {
 h1:hover + #face {
     display: block;
     transition: 1s ease-in-out;
+    transition-delay: 2s;
 }
 

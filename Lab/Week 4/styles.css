@@ -66,12 +66,28 @@ span {
     z-index: 2;
     margin-top: -30em;
     position: relative;
-    display: none;
+    display: block;
+    animation-name: move;
+    animation-duration: 3s;
+    animation-delay: 2s;
 }
 
 h1:hover + #face {
-    display: block;
-    transition: 1s ease-in-out;
-    transition-delay: 2s;
+    display: none;
+    transition: 1s cubic-bezier(0.19, 1, 0.22, 1) ease-in-out;
+    transition-delay: 1s;
 }
 
+@keyframes move {
+    0% {
+        opacity: 0%;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+}
+
+/* audio {
+    display: none;
+} */

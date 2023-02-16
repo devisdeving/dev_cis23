@@ -1,0 +1,72 @@
+/* 
+html {
+    cursor: none;
+} */
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+@font-face {
+    font-family: 'NeueMontreal-Regular';
+    src: url(https://drive.google.com/file/d/1rmmKZ30FghQjsv8Fh2uw2rnv7i08ISQ4/view?usp=share_link);
+}
+
+h1 {
+    font-family: 'NeueMontreal-Regular', 'SF Pro';
+    font-size: 5em;
+    color: black;
+    margin-top: 1em;
+    font-weight: 100;
+    line-height: 95%;
+}
+
+a {
+    font-family: 'NeueMontreal-Regular', 'SF Pro';
+    font-size: 5em;
+    color: black;
+    margin-top: 1em;
+    text-decoration: underline solid 8%;
+    cursor: pointer;
+}
+
+/* #cc{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    animation-name: stretch;
+              animation-duration: 1s;
+              animation-timing-function: ease-out;
+              animation-direction: alternate;
+              animation-iteration-count: infinite;
+              animation-play-state: running;
+  } */
+
+  @keyframes stretch {
+    0% {
+        color: rgb(0, 85, 60);
+    }
+
+    25% {
+        color: rgb(187, 218, 12);
+    }
+
+    50% {
+        color: rgb(0, 132, 255);
+    }
+
+    100% {
+        color: rgb(247, 0, 255);
+    }
+}
+
+a:hover {
+    animation-name: stretch;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}

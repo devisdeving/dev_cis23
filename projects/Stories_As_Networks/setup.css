@@ -17,7 +17,7 @@ body {
     margin: 0 auto;
     /* animation: gradient 15s ease-in-out 1;  */
     height: 100%;
-    /* color: #FFE8FF; */
+    color: #FFE8FF;
 }
 
 #index-body {
@@ -38,6 +38,7 @@ body {
 .half-col {
     width: 25%;
     padding: 6% 12%;
+    overflow: scroll;
 }
 
 /* @keyframes gradient {

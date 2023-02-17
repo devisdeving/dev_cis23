@@ -14,18 +14,44 @@
 }
 
 #leftColfour {
-    background: radial-gradient(circle at bottom, #251B5C, #273C8A, #263a83);
-    height: max-content;
+    background: radial-gradient(circle at bottom, #273C8A, #844549);
+    height: auto;
+    overflow: scroll;
 }
 
 #rightColfour {
-    background: radial-gradient(circle at bottom, #987888, #314BA9, #030A1D);
+    background: radial-gradient(circle at bottom, #A28DAC, #314BA9, #020818);
     height:auto;
+    overflow: scroll;
+}
+
+#leftColthree {
+    background: radial-gradient(circle at bottom, #C86153 50%, #FF6E40, #FFC2AF, #0F7EFF, #62ABFF, #D5D1BC);
+    height: auto;
+    overflow: scroll;
+}
+
+#rightColthree {
+    background: radial-gradient(circle at bottom, #ff8c5b 50%, #7B76AC, #0A1A45);
+    height:auto;
+    overflow: scroll;
+}
+
+#leftColtwo {
+    background: radial-gradient(circle at bottom, #D1D1C0, #A4D6FF, #1C71D2);
+    height: auto;
+    overflow: scroll;
+}
+
+#rightColtwo {
+    background: radial-gradient(circle at bottom, #6E9AE0, #EBBDB6);
+    height:auto;
+    overflow: scroll;
 }
 
 .flex-wrap {
     background: linear-gradient(0deg, #010613, #050F2C, #2a2d6c);
-    height: max-content;
+    height: auto;
 }
 
 #stars {

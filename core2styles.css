@@ -45,7 +45,6 @@ h2 {
     font-size: 5em;
     color: black;
     font-weight: 100;
-    flex-grow: 1;
 }
 
 a {
@@ -69,6 +68,12 @@ section {
     flex-direction: column;
     flex-grow: 2;
    justify-content: flex-start;
+}
+
+footer {
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: 5em;
 }
 
 /* #cc{

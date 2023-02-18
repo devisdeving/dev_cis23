@@ -33,6 +33,11 @@ body {
      }
 } */
 
+
+.index-wrap {
+    display: flex;
+}
+
 .flex-wrap {
     display:flex;
     position: fixed;

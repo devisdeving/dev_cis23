@@ -15,7 +15,8 @@
 }
 
 #leftColthree {
-    background: radial-gradient(circle at bottom, #C86153 50%, #FF6E40, #FFC2AF, #0F7EFF, #62ABFF, #D5D1BC);
+    /* background: radial-gradient(circle at bottom, #C86153 50%, #FF6E40, #FFC2AF, #0F7EFF, #62ABFF, #D5D1BC); */
+    background: radial-gradient(circle at bottom, #C86153, #0F7EFF, #62ABFF);
 }
 
 #rightColthree {
@@ -28,7 +29,6 @@
 
 #rightColtwo {
     background: radial-gradient(circle at bottom, #6E9AE0, #EBBDB6);
-    
 }
 
 #sixflex {

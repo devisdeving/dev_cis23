@@ -39,16 +39,10 @@ body {
     /* position: fixed; */
 }
 
-
 .col {
     width: 50%;
     padding:12%;
     overflow: scroll;
-}
-
-.col {
-    width: 50%;
-    padding: 6% 12%;
 }
 
 .half-col {

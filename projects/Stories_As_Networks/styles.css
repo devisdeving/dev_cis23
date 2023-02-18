@@ -58,11 +58,16 @@
 
 #sixflex {
     display:flex;
-    overflow: scroll;
     background: radial-gradient(circle at bottom, #010613, #050F2C, #2a2d6c);
     padding:12%;
-    position: relative;
+    gap: 3em;
+    overflow-y: hidden;
 }
+
+#sixbod {
+    background-color: #010613;
+}
+
 #stars {
     height: max-content;
     width:2000px;
@@ -71,6 +76,16 @@
     position: absolute;
     top: 0;
     bottom: 0;
+    z-index: 3;
+}
+
+#starz {
+    height: max-content;
+    width:2000px;
+    background: repeat;
+    background-size: 1000 1000px;
+    position: absolute;
+    bottom: 2;
     z-index: 3;
 }
 

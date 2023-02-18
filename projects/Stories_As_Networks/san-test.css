@@ -1,4 +1,4 @@
-.wrapper {
+/* .wrapper {
     display: flex;
     flex-direction: row;
     height: 100vh;
@@ -17,7 +17,18 @@
 .right {
     background-color: gold;
 }
-/* 
+
 ::-webkit-scrollbar {
     display: none;
 } */
+
+.wrap {
+    display: flex;
+}
+
+#left, #right {
+    padding: 2em;
+    font-size: 2em;
+    color: aliceblue;
+    background: radial-gradient(circle at bottom, #010613, #050F2C, #2a2d6c);
+}

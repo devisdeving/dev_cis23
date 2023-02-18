@@ -35,7 +35,7 @@ body {
 
 .flex-wrap {
     display:flex;
-    /* position: fixed; */
+    position: fixed;
 }
 
 .col {
@@ -101,6 +101,7 @@ button {
     cursor: pointer;
     color: #FFE8FF;
     text-align: center;
+    margin-bottom: 1em;
 }
 
 button:hover {
@@ -112,7 +113,7 @@ button:hover {
 
 ::-webkit-scrollbar {
 display: none;
-  }
+}
 
 .large-gap-div {
     height: 30em;

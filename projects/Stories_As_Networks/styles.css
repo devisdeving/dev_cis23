@@ -1,21 +1,25 @@
 #leftColfive {
     background: radial-gradient(circle at bottom, #251B5C, #273C8A, #263a83);
     padding:12%;
+    position: relative;
 }
 
 #rightColfive {
     background: radial-gradient(circle at bottom, #987888, #314BA9, #030A1D);
     padding:12%;
+    position: relative;
 }
 
 #leftColfour {
     background: radial-gradient(circle at bottom, #273C8A, #844549);
     padding:12%;
+    position: relative;
 }
 
 #rightColfour {
     background: radial-gradient(circle at bottom, #A28DAC, #314BA9, #020818);
     padding:12%;
+    position: relative;
 }
 
 #leftColthree {
@@ -27,6 +31,7 @@
 #rightColthree {
     background: radial-gradient(circle at bottom, #ff8c5b 50%, #7B76AC, #0A1A45);
     padding:12%;
+    position: relative;
 }
 
 #leftColtwo {

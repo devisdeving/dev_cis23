@@ -15,59 +15,70 @@
 
 body {
     margin: 0 auto;
-    /* animation: gradient 15s ease-in-out 1;  */
     height: 100%;
     color: #FFE8FF;
 }
 
 #index-body {
-    background: linear-gradient(0deg, #81C3F8, #016AE4, #2254FF, #000B28, #FF9D66);
+    background: radial-gradient(circle at bottom, #81C3F8, #016AE4, #2254FF, #000B28, #a17984, rgb(255, 149, 83), rgb(255, 165, 252));
 }
+/* 
+@keyframes grad {
+    0% {
+        margin-top: 5em;
+    }
+    100% {
+        margin-top: 1em;
+     }
+} */
 
 .flex-wrap {
     display:flex;
-    height:100vh;
 }
 
 .col {
     width: 50%;
+    padding:12%;
     padding: 6% 12%;
-    overflow: scroll;
+    overflow: hidden;
 }
 
 .half-col {
     width: 25%;
     padding: 6% 12%;
-    overflow: scroll;
 }
-
-/* @keyframes gradient {
-	0% {
-		background-position: 0% 0%;
-	}
-    20% {
-		background-position: 0% 80%;
-	}
-    50% {
-		background-position: 0% 120%;
-	}
-	100% {
-		background-position: 0% 100%;
-	}
-} */
 
 /* title and author name dont line up */
 
 h1, h2 {
-    font-family: 'MD Nichrome Test';
-    text-transform: uppercase;
+    font-family: "alverata", 'MD Nichrome Test';
+    /* text-transform: uppercase; */
     font-size: 12em;
-    line-height: 79%;
+    line-height: 90%;
     margin: 2em 0.5em;
+    margin-top: 1em;
+}
+
+h1 {
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    line-height: 80%;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+        margin-top: 1.2em;
+    }
+    100% {
+        opacity: 1;
+        margin-top: 1em;
+     }
 }
 
 h2 {
-    margin-top: 2em;
+    margin-top: 0.2em;
 }
 
 p {
@@ -99,9 +110,10 @@ button:hover {
 
 ::-webkit-scrollbar {
     width: 0px;
+    background-color: transparent;
   }
 
-  .large-gap-div {
+.large-gap-div {
     height: 30em;
 }
 
@@ -111,24 +123,4 @@ button:hover {
 
 .small-gap-div {
     height: 10em;
-}
-
-#2left {
-    background-image: linear-gradient(red, yellow);
-}
-
-#2-right {
-    background-image: linear-gradient(165deg, #FFC2AF, #0059C0);
-}
-
-#3-left {
-    background-color: #A4D6FF;
-}
-
-#3-right {
-    background-image: linear-gradient(15deg, #FFCC81 -20%, #A4D6FF 20%, #1C71D2 100%);
-}
-
-#6-left, #6-right {
-    overflow: none;
 }

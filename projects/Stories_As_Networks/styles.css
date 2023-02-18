@@ -4,54 +4,38 @@
 
 #leftColfive {
     background: radial-gradient(circle at bottom, #251B5C, #273C8A, #263a83);
-    height: max-content;
-    overflow: scroll;
 }
 
 #rightColfive {
     background: radial-gradient(circle at bottom, #987888, #314BA9, #030A1D);
-    height:auto;
 }
 
 #leftColfour {
     background: radial-gradient(circle at bottom, #273C8A, #844549);
-    height: auto;
-    overflow: scroll;
 }
 
 #rightColfour {
     background: radial-gradient(circle at bottom, #A28DAC, #314BA9, #020818);
-    height:auto;
-    overflow: scroll;
 }
 
 #leftColthree {
     background: radial-gradient(circle at bottom, #C86153 50%, #FF6E40, #FFC2AF, #0F7EFF, #62ABFF, #D5D1BC);
-    height: auto;
-    overflow: scroll;
 }
 
 #rightColthree {
     background: radial-gradient(circle at bottom, #ff8c5b 50%, #7B76AC, #0A1A45);
-    height:auto;
-    overflow: scroll;
 }
 
 #leftColtwo {
     background: radial-gradient(circle at bottom, #D1D1C0, #A4D6FF, #1C71D2);
-    height: auto;
-    overflow: scroll;
 }
 
 #rightColtwo {
     background: radial-gradient(circle at bottom, #6E9AE0, #EBBDB6);
-    height:auto;
-    overflow: scroll;
 }
 
-.flex-wrap {
+#sixflex {
     background: linear-gradient(0deg, #010613, #050F2C, #2a2d6c);
-    height: auto;
 }
 
 #stars {
@@ -75,11 +59,11 @@
     bottom: 0;
     z-index: 3;
 
-   -moz-animation:move-background 150s linear infinite;
-  -ms-animation:move-background 150s linear infinite;
-  -o-animation:move-background 150s linear infinite;
-  -webkit-animation:move-background 150s linear infinite;
-  animation:move-background 150s linear infinite; 
+   -moz-animation:move-background 100s linear infinite;
+  -ms-animation:move-background 100s linear infinite;
+  -o-animation:move-background 100s linear infinite;
+  -webkit-animation:move-background 100s linear infinite;
+  animation:move-background 100s linear infinite; 
 }
 
 @keyframes move-background {
@@ -117,7 +101,62 @@
       }
   }
 
+  .clouds-opp {
+    width:2000px;
+    background: repeat;
+    background-size: 2000px 1000px;
+    position: absolute;
+    right: 0;
+    margin-top: 0;
+    bottom: 3;
+    z-index: 3;
+
+   -moz-animation:move-2 120s linear infinite;
+  -ms-animation:move-2 120s linear infinite;
+  -o-animation:move-2 120s linear infinite;
+  -webkit-animation:move-2 120s linear infinite;
+  animation:move-2 120s linear infinite; 
+}
+
+@keyframes move-2 {
+    from {
+          -webkit-transform: translate3d(1000px, 0px, 0px);
+      }
+      to { 
+          -webkit-transform: translate3d(0px, 0px, 0px);
+      }
+  }
+  @-webkit-keyframes move-2 {
+    from {
+          -webkit-transform: translate3d(1000px, 0px, 0px);
+      }
+      to { 
+          -webkit-transform: translate3d(0px, 0px, 0px);
+      }
+  }
   
+  @-moz-keyframes move-2 {    
+      from {
+          -webkit-transform: translate3d(1000px, 0px, 0px);
+      }
+      to { 
+          -webkit-transform: translate3d(0px, 0px, 0px);
+      }
+  }
+  
+      @-webkit-keyframes move-2 {
+      from {
+          -webkit-transform: translate3d(1000px, 0px, 0px);
+      }
+      to { 
+          -webkit-transform: translate3d(0px, 0px, 0px);
+      }
+  }
+
+  #index-clouds {
+    width: 60%;
+    
+}
 
 /* @keyframes move-background {
     from {

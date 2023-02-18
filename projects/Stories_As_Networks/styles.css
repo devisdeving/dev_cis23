@@ -17,7 +17,7 @@
 }
 
 #rightColfive {
-    background: radial-gradient(circle at bottom, #987888, #314BA9, #030A1D);
+    background: radial-gradient(circle at bottom, #32437b, #314BA9, #030A1D);
     padding:12%;
     position: relative;
 }
@@ -29,7 +29,7 @@
 }
 
 #rightColfour {
-    background: radial-gradient(circle at bottom, #A28DAC, #314BA9, #020818);
+    background: radial-gradient(circle at bottom, #32437b, #314BA9);
     padding:12%;
     position: relative;
 }
@@ -45,18 +45,18 @@
 }
 
 #rightColthree {
-    background: radial-gradient(circle at bottom, #ff8c5b 50%, #7B76AC, #0A1A45);
+    background: radial-gradient(circle at bottom, #ff8c5b, #7B76AC 50%, #32437b, #0A1A45);
     padding:12%;
     position: relative;
 }
 
 #leftColtwo {
-    background: radial-gradient(circle at bottom, #D1D1C0, #A4D6FF, #1C71D2);
+    background: radial-gradient(circle at bottom, #c0cad1, #A4D6FF, #1C71D2);
     padding:12%;
 }
 
 #rightColtwo {
-    background: radial-gradient(circle at bottom, #6E9AE0, #EBBDB6);
+    background: radial-gradient(circle at bottom, #A4D6FF, #6E9AE0, #6E9AE0, #6E9AE0, #e49eaa, #EBBDB6);
     padding:12%;
 }
 
@@ -85,7 +85,8 @@
 
 #starz {
     height: max-content;
-    width:2000px;
+    width: 80%;
+    margin-left: 2em;
     background: repeat;
     background-size: 1000 1000px;
     position: absolute;
@@ -101,7 +102,7 @@
     right: 0;
     top: 0;
     bottom: 0;
-    z-index: 3;
+    z-index: 0;
 
    -moz-animation:move-background 100s linear infinite;
   -ms-animation:move-background 100s linear infinite;

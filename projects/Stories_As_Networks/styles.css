@@ -1,3 +1,15 @@
+/* #leftColsix {
+    background: radial-gradient(circle at bottom, #251B5C, #273C8A, #263a83);
+    padding:12%;
+    position: relative;
+}
+
+#rightColsix {
+    background: radial-gradient(circle at bottom, #987888, #314BA9, #030A1D);
+    padding:12%;
+    position: relative;
+} */
+
 #leftColfive {
     background: radial-gradient(circle at bottom, #251B5C, #273C8A, #263a83);
     padding:12%;
@@ -44,9 +56,9 @@
     padding:12%;
 }
 
-#sixflex {
-    background: linear-gradient(0deg, #010613, #050F2C, #2a2d6c);
-    height: auto;
+.sixflex {
+    background: radial-gradient(circle at bottom, #010613, #050F2C, #2a2d6c);
+    padding:12%;
 }
 
 #stars {

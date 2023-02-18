@@ -56,11 +56,13 @@
     padding:12%;
 }
 
-.sixflex {
+#sixflex {
+    display:flex;
+    overflow: scroll;
     background: radial-gradient(circle at bottom, #010613, #050F2C, #2a2d6c);
     padding:12%;
+    position: relative;
 }
-
 #stars {
     height: max-content;
     width:2000px;

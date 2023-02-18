@@ -17,6 +17,7 @@ body {
     margin: 0 auto;
     height: 100%;
     color: #FFE8FF;
+    overflow-x: hidden;
 }
 
 #index-body {
@@ -34,13 +35,20 @@ body {
 
 .flex-wrap {
     display:flex;
+    height:100vh;
+    /* position: fixed; */
 }
+
 
 .col {
     width: 50%;
     padding:12%;
+    overflow: scroll;
+}
+
+.col {
+    width: 50%;
     padding: 6% 12%;
-    overflow: hidden;
 }
 
 .half-col {
@@ -99,6 +107,7 @@ button {
     margin: 2em auto;
     cursor: pointer;
     color: #FFE8FF;
+    text-align: center;
 }
 
 button:hover {
@@ -109,8 +118,7 @@ button:hover {
 }
 
 ::-webkit-scrollbar {
-    width: 0px;
-    background-color: transparent;
+display: none;
   }
 
 .large-gap-div {

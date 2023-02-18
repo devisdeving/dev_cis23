@@ -107,6 +107,7 @@ button {
     color: #FFE8FF;
     text-align: center;
     margin-bottom: 1em;
+    z-index: 0;
 }
 
 button:hover {
@@ -122,12 +123,15 @@ display: none;
 
 .large-gap-div {
     height: 30em;
+    z-index: 3;
 }
 
 .medium-gap-div {
     height: 20em;
+    z-index: 3;
 }
 
 .small-gap-div {
     height: 10em;
+    z-index: 3;
 }

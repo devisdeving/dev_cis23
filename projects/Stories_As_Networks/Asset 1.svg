@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="57.467" height="45.998" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 57.467 45.998">
+  <defs>
+    <filter id="e" x="8.304" y="6.585" width="49.162" height="29.699" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="g" x="8.304" y="-8218.863" width="49.162" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="f" data-name="mask-1" x="8.304" y="-8218.863" width="49.162" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="h" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 2399" cx="-2216.419" cy="20.562" fx="-2216.419" fy="20.562" r="17.427" gradientTransform="translate(-92.194 -253.466) rotate(-120.884) scale(.135 -1.642) skewX(-.533)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".004" stop-color="#fcfcfc"/>
+      <stop offset=".085" stop-color="#c7c7c7"/>
+      <stop offset=".17" stop-color="#989898"/>
+      <stop offset=".259" stop-color="#6f6f6f"/>
+      <stop offset=".353" stop-color="#4d4d4d"/>
+      <stop offset=".451" stop-color="#313131"/>
+      <stop offset=".557" stop-color="#1b1b1b"/>
+      <stop offset=".672" stop-color="#0b0b0b"/>
+      <stop offset=".806" stop-color="#020202"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <mask id="d" data-name="mask" x="8.304" y="6.585" width="49.162" height="29.699" maskUnits="userSpaceOnUse">
+      <g filter="url(#e)">
+        <g mask="url(#f)">
+          <path d="m31.674,19.41c-13.559,8.124-24.008,15.616-23.339,16.733.669,1.118,12.204-4.561,25.762-12.685,13.559-8.124,24.008-15.615,23.339-16.733-.669-1.118-12.204,4.561-25.762,12.685Z" fill="url(#h)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="j" x="8.304" y="6.585" width="49.162" height="29.699" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="l" x="8.304" y="-8218.863" width="49.162" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="k" data-name="mask-3" x="8.304" y="-8218.863" width="49.162" height="32766" maskUnits="userSpaceOnUse"/>
+    <mask id="i" data-name="mask-2" x="8.304" y="6.585" width="49.162" height="29.699" maskUnits="userSpaceOnUse">
+      <g filter="url(#j)">
+        <g mask="url(#k)">
+          <path d="m31.674,19.41c-13.559,8.124-24.008,15.616-23.339,16.733.669,1.118,12.204-4.561,25.762-12.685,13.559-8.124,24.008-15.615,23.339-16.733-.669-1.118-12.204,4.561-25.762,12.685Z" fill="url(#h)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="n" x="8.304" y="6.585" width="49.162" height="29.699" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="p" x="8.304" y="-8218.863" width="49.162" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="o" data-name="mask-5" x="8.304" y="-8218.863" width="49.162" height="32766" maskUnits="userSpaceOnUse"/>
+    <mask id="m" data-name="mask-4" x="8.304" y="6.585" width="49.162" height="29.699" maskUnits="userSpaceOnUse">
+      <g filter="url(#n)">
+        <g mask="url(#o)">
+          <path d="m31.674,19.41c-13.559,8.124-24.008,15.616-23.339,16.733.669,1.118,12.204-4.561,25.762-12.685,13.559-8.124,24.008-15.615,23.339-16.733-.669-1.118-12.204,4.561-25.762,12.685Z" fill="url(#h)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="q" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 8" cx="-2216.419" cy="20.562" fx="-2216.419" fy="20.562" r="17.427" gradientTransform="translate(-92.194 -253.466) rotate(-120.884) scale(.135 -1.642) skewX(-.533)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".06" stop-color="#dadbdb"/>
+      <stop offset=".146" stop-color="#abadae"/>
+      <stop offset=".238" stop-color="#828585"/>
+      <stop offset=".334" stop-color="#606364"/>
+      <stop offset=".435" stop-color="#444748"/>
+      <stop offset=".544" stop-color="#2e3233"/>
+      <stop offset=".663" stop-color="#1e2324"/>
+      <stop offset=".801" stop-color="#151a1b"/>
+      <stop offset="1" stop-color="#131819"/>
+    </radialGradient>
+    <filter id="s" x="26.019" y="0" width="12.525" height="43.927" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="u" x="26.019" y="-8218.863" width="12.525" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="t" data-name="mask-7" x="26.019" y="-8218.863" width="12.525" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="v" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 2399" cx="-1202.591" cy="128.127" fx="-1202.591" fy="128.127" r="17.432" gradientTransform="translate(-200.468 -208.82) rotate(-165.5) scale(.231 -1.289) skewX(-10.528)" xlink:href="#h"/>
+    <mask id="r" data-name="mask-6" x="26.019" y="0" width="12.525" height="43.927" maskUnits="userSpaceOnUse">
+      <g filter="url(#s)">
+        <g mask="url(#t)">
+          <path d="m28.386,20.954c-2.708,12.117-3.158,22.391-1.007,22.948,2.152.557,6.091-8.814,8.799-20.931C38.885,10.855,39.336.581,37.184.024c-2.152-.557-6.091,8.814-8.799,20.931Z" fill="url(#v)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="x" x="26.019" y="0" width="12.525" height="43.927" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="z" x="26.019" y="-8218.863" width="12.525" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="y" data-name="mask-9" x="26.019" y="-8218.863" width="12.525" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="aa" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 2399" cx="-1202.591" cy="128.127" fx="-1202.591" fy="128.127" r="17.432" gradientTransform="translate(-200.468 -208.82) rotate(-165.5) scale(.231 -1.289) skewX(-10.528)" xlink:href="#h"/>
+    <mask id="w" data-name="mask-8" x="26.019" y="0" width="12.525" height="43.927" maskUnits="userSpaceOnUse">
+      <g filter="url(#x)">
+        <g mask="url(#y)">
+          <path d="m28.386,20.954c-2.708,12.117-3.158,22.391-1.007,22.948,2.152.557,6.091-8.814,8.799-20.931C38.885,10.855,39.336.581,37.184.024c-2.152-.557-6.091,8.814-8.799,20.931Z" fill="url(#aa)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ac" x="26.019" y="0" width="12.525" height="43.927" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ae" x="26.019" y="-8218.863" width="12.525" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ad" data-name="mask-11" x="26.019" y="-8218.863" width="12.525" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="af" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 2399" cx="-1202.591" cy="128.127" fx="-1202.591" fy="128.127" r="17.432" gradientTransform="translate(-200.468 -208.82) rotate(-165.5) scale(.231 -1.289) skewX(-10.528)" xlink:href="#h"/>
+    <mask id="ab" data-name="mask-10" x="26.019" y="0" width="12.525" height="43.927" maskUnits="userSpaceOnUse">
+      <g filter="url(#ac)">
+        <g mask="url(#ad)">
+          <path d="m28.386,20.954c-2.708,12.117-3.158,22.391-1.007,22.948,2.152.557,6.091-8.814,8.799-20.931C38.885,10.855,39.336.581,37.184.024c-2.152-.557-6.091,8.814-8.799,20.931Z" fill="url(#af)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="ag" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 8" cx="-1202.591" cy="128.127" fx="-1202.591" fy="128.127" r="17.432" gradientTransform="translate(-200.468 -208.82) rotate(-165.5) scale(.231 -1.289) skewX(-10.528)" xlink:href="#q"/>
+    <filter id="ai" x="32.303" y="17.654" width=".872" height="8.543" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ak" x="32.303" y="-8218.863" width=".872" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="aj" data-name="mask-13" x="32.303" y="-8218.863" width=".872" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="al" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1841.096" cy="63.365" fx="-1841.096" fy="63.365" r="3.375" gradientTransform="translate(-80.794 -68.986) rotate(-174.94) scale(.066 -1.271) skewX(-.626)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".036" stop-color="#f2f2f2"/>
+      <stop offset=".246" stop-color="#a9a9a9"/>
+      <stop offset=".445" stop-color="#6d6d6d"/>
+      <stop offset=".625" stop-color="#3e3e3e"/>
+      <stop offset=".783" stop-color="#1c1c1c"/>
+      <stop offset=".913" stop-color="#070707"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <mask id="ah" data-name="mask-12" x="32.303" y="17.654" width=".872" height="8.543" maskUnits="userSpaceOnUse">
+      <g filter="url(#ai)">
+        <g mask="url(#aj)">
+          <path d="m32.518,21.906c-.207,2.359-.277,4.28-.154,4.291.122.011.389-1.893.597-4.252.207-2.359.276-4.28.154-4.291-.122-.011-.389,1.893-.597,4.252Z" fill="url(#al)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="an" x="32.303" y="17.654" width=".872" height="8.543" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ap" x="32.303" y="-8218.863" width=".872" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ao" data-name="mask-15" x="32.303" y="-8218.863" width=".872" height="32766" maskUnits="userSpaceOnUse"/>
+    <mask id="am" data-name="mask-14" x="32.303" y="17.654" width=".872" height="8.543" maskUnits="userSpaceOnUse">
+      <g filter="url(#an)">
+        <g mask="url(#ao)">
+          <path d="m32.518,21.906c-.207,2.359-.277,4.28-.154,4.291.122.011.389-1.893.597-4.252.207-2.359.276-4.28.154-4.291-.122-.011-.389,1.893-.597,4.252Z" fill="url(#al)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ar" x="32.303" y="17.654" width=".872" height="8.543" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="at" x="32.303" y="-8218.863" width=".872" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="as" data-name="mask-17" x="32.303" y="-8218.863" width=".872" height="32766" maskUnits="userSpaceOnUse"/>
+    <mask id="aq" data-name="mask-16" x="32.303" y="17.654" width=".872" height="8.543" maskUnits="userSpaceOnUse">
+      <g filter="url(#ar)">
+        <g mask="url(#as)">
+          <path d="m32.518,21.906c-.207,2.359-.277,4.28-.154,4.291.122.011.389-1.893.597-4.252.207-2.359.276-4.28.154-4.291-.122-.011-.389,1.893-.597,4.252Z" fill="url(#al)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="av" x="32.303" y="17.654" width=".872" height="8.543" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ax" x="32.303" y="-8218.863" width=".872" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="aw" data-name="mask-19" x="32.303" y="-8218.863" width=".872" height="32766" maskUnits="userSpaceOnUse"/>
+    <mask id="au" data-name="mask-18" x="32.303" y="17.654" width=".872" height="8.543" maskUnits="userSpaceOnUse">
+      <g filter="url(#av)">
+        <g mask="url(#aw)">
+          <path d="m32.518,21.906c-.207,2.359-.277,4.28-.154,4.291.122.011.389-1.893.597-4.252.207-2.359.276-4.28.154-4.291-.122-.011-.389,1.893-.597,4.252Z" fill="url(#al)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="ay" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-1841.096" cy="63.365" fx="-1841.096" fy="63.365" r="3.375" gradientTransform="translate(-80.794 -68.986) rotate(-174.94) scale(.066 -1.271) skewX(-.626)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".207" stop-color="#bbbdbd"/>
+      <stop offset=".414" stop-color="#808283"/>
+      <stop offset=".604" stop-color="#515455"/>
+      <stop offset=".771" stop-color="#2f3334"/>
+      <stop offset=".909" stop-color="#1a1f20"/>
+      <stop offset="1" stop-color="#131819"/>
+    </radialGradient>
+    <filter id="ba" x="28.335" y="21.616" width="8.785" height=".886" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="bc" x="28.335" y="-8218.863" width="8.785" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="bb" data-name="mask-21" x="28.335" y="-8218.863" width="8.785" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="bd" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-771.732" cy="198.56" fx="-771.732" fy="198.56" r="3.372" gradientTransform="translate(-230.139 48.501) rotate(95.016) scale(.064 -1.307) skewX(.454)" xlink:href="#al"/>
+    <mask id="az" data-name="mask-20" x="28.335" y="21.616" width="8.785" height=".886" maskUnits="userSpaceOnUse">
+      <g filter="url(#ba)">
+        <g mask="url(#bb)">
+          <path d="m32.708,22.274c2.426.214,4.401.291,4.412.172.01-.119-1.948-.388-4.374-.602-2.426-.214-4.401-.291-4.412-.172-.01.119,1.948.388,4.374.602Z" fill="url(#bd)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="bf" x="28.335" y="21.616" width="8.785" height=".886" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="bh" x="28.335" y="-8218.863" width="8.785" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="bg" data-name="mask-23" x="28.335" y="-8218.863" width="8.785" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="bi" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-771.732" cy="198.56" fx="-771.732" fy="198.56" r="3.372" gradientTransform="translate(-230.139 48.501) rotate(95.016) scale(.064 -1.307) skewX(.454)" xlink:href="#al"/>
+    <mask id="be" data-name="mask-22" x="28.335" y="21.616" width="8.785" height=".886" maskUnits="userSpaceOnUse">
+      <g filter="url(#bf)">
+        <g mask="url(#bg)">
+          <path d="m32.708,22.274c2.426.214,4.401.291,4.412.172.01-.119-1.948-.388-4.374-.602-2.426-.214-4.401-.291-4.412-.172-.01.119,1.948.388,4.374.602Z" fill="url(#bi)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="bk" x="28.335" y="21.616" width="8.785" height=".886" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="bm" x="28.335" y="-8218.863" width="8.785" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="bl" data-name="mask-25" x="28.335" y="-8218.863" width="8.785" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="bn" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-771.732" cy="198.56" fx="-771.732" fy="198.56" r="3.372" gradientTransform="translate(-230.139 48.501) rotate(95.016) scale(.064 -1.307) skewX(.454)" xlink:href="#al"/>
+    <mask id="bj" data-name="mask-24" x="28.335" y="21.616" width="8.785" height=".886" maskUnits="userSpaceOnUse">
+      <g filter="url(#bk)">
+        <g mask="url(#bl)">
+          <path d="m32.708,22.274c2.426.214,4.401.291,4.412.172.01-.119-1.948-.388-4.374-.602-2.426-.214-4.401-.291-4.412-.172-.01.119,1.948.388,4.374.602Z" fill="url(#bn)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="bp" x="28.335" y="21.616" width="8.785" height=".886" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="br" x="28.335" y="-8218.863" width="8.785" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="bq" data-name="mask-27" x="28.335" y="-8218.863" width="8.785" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="bs" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-771.732" cy="198.56" fx="-771.732" fy="198.56" r="3.372" gradientTransform="translate(-230.139 48.501) rotate(95.016) scale(.064 -1.307) skewX(.454)" xlink:href="#al"/>
+    <mask id="bo" data-name="mask-26" x="28.335" y="21.616" width="8.785" height=".886" maskUnits="userSpaceOnUse">
+      <g filter="url(#bp)">
+        <g mask="url(#bq)">
+          <path d="m32.708,22.274c2.426.214,4.401.291,4.412.172.01-.119-1.948-.388-4.374-.602-2.426-.214-4.401-.291-4.412-.172-.01.119,1.948.388,4.374.602Z" fill="url(#bs)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="bt" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-771.732" cy="198.56" fx="-771.732" fy="198.56" r="3.372" gradientTransform="translate(-230.139 48.501) rotate(95.016) scale(.064 -1.307) skewX(.454)" xlink:href="#ay"/>
+    <filter id="bv" x="29.894" y="18.775" width="5.719" height="6.61" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="bx" x="29.894" y="-8218.863" width="5.719" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="bw" data-name="mask-29" x="29.894" y="-8218.863" width="5.719" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="by" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-789.088" cy="143.275" fx="-789.088" fy="143.275" r="3.374" gradientTransform="translate(-163.952 -55.885) rotate(140.844) scale(.124 -1.289) skewX(-16.28)" xlink:href="#al"/>
+    <mask id="bu" data-name="mask-28" x="29.894" y="18.775" width="5.719" height="6.61" maskUnits="userSpaceOnUse">
+      <g filter="url(#bv)">
+        <g mask="url(#bw)">
+          <path d="m32.428,22.345c1.569,1.819,2.986,3.176,3.166,3.029s-.946-1.74-2.515-3.559c-1.569-1.819-2.986-3.176-3.166-3.029-.18.146.946,1.74,2.515,3.559Z" fill="url(#by)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ca" x="29.894" y="18.775" width="5.719" height="6.61" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="cc" x="29.894" y="-8218.863" width="5.719" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="cb" data-name="mask-31" x="29.894" y="-8218.863" width="5.719" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="cd" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-789.088" cy="143.275" fx="-789.088" fy="143.275" r="3.374" gradientTransform="translate(-163.952 -55.885) rotate(140.844) scale(.124 -1.289) skewX(-16.28)" xlink:href="#al"/>
+    <mask id="bz" data-name="mask-30" x="29.894" y="18.775" width="5.719" height="6.61" maskUnits="userSpaceOnUse">
+      <g filter="url(#ca)">
+        <g mask="url(#cb)">
+          <path d="m32.428,22.345c1.569,1.819,2.986,3.176,3.166,3.029s-.946-1.74-2.515-3.559c-1.569-1.819-2.986-3.176-3.166-3.029-.18.146.946,1.74,2.515,3.559Z" fill="url(#cd)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="cf" x="29.894" y="18.775" width="5.719" height="6.61" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ch" x="29.894" y="-8218.863" width="5.719" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="cg" data-name="mask-33" x="29.894" y="-8218.863" width="5.719" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ci" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-789.088" cy="143.275" fx="-789.088" fy="143.275" r="3.374" gradientTransform="translate(-163.952 -55.885) rotate(140.844) scale(.124 -1.289) skewX(-16.28)" xlink:href="#al"/>
+    <mask id="ce" data-name="mask-32" x="29.894" y="18.775" width="5.719" height="6.61" maskUnits="userSpaceOnUse">
+      <g filter="url(#cf)">
+        <g mask="url(#cg)">
+          <path d="m32.428,22.345c1.569,1.819,2.986,3.176,3.166,3.029s-.946-1.74-2.515-3.559c-1.569-1.819-2.986-3.176-3.166-3.029-.18.146.946,1.74,2.515,3.559Z" fill="url(#ci)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ck" x="29.894" y="18.775" width="5.719" height="6.61" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="cm" x="29.894" y="-8218.863" width="5.719" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="cl" data-name="mask-35" x="29.894" y="-8218.863" width="5.719" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="cn" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-789.088" cy="143.275" fx="-789.088" fy="143.275" r="3.374" gradientTransform="translate(-163.952 -55.885) rotate(140.844) scale(.124 -1.289) skewX(-16.28)" xlink:href="#al"/>
+    <mask id="cj" data-name="mask-34" x="29.894" y="18.775" width="5.719" height="6.61" maskUnits="userSpaceOnUse">
+      <g filter="url(#ck)">
+        <g mask="url(#cl)">
+          <path d="m32.428,22.345c1.569,1.819,2.986,3.176,3.166,3.029s-.946-1.74-2.515-3.559c-1.569-1.819-2.986-3.176-3.166-3.029-.18.146.946,1.74,2.515,3.559Z" fill="url(#cn)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="co" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-789.088" cy="143.275" fx="-789.088" fy="143.275" r="3.374" gradientTransform="translate(-163.952 -55.885) rotate(140.844) scale(.124 -1.289) skewX(-16.28)" xlink:href="#ay"/>
+    <filter id="cq" x="29.363" y="19.308" width="6.757" height="5.515" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="cs" x="29.363" y="-8218.863" width="6.757" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="cr" data-name="mask-37" x="29.363" y="-8218.863" width="6.757" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ct" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="366.244" cy="199.621" fx="366.244" fy="199.621" r="3.375" gradientTransform="translate(-189.869 157.752) rotate(49.277) scale(.097 -1.289) skewX(19.873)" xlink:href="#al"/>
+    <mask id="cp" data-name="mask-36" x="29.363" y="19.308" width="6.757" height="5.515" maskUnits="userSpaceOnUse">
+      <g filter="url(#cq)">
+        <g mask="url(#cr)">
+          <path d="m32.955,22.313c1.862-1.517,3.276-2.857,3.158-2.994-.118-.137-1.723.982-3.585,2.499-1.862,1.517-3.276,2.857-3.158,2.994.118.137,1.723-.982,3.585-2.499Z" fill="url(#ct)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="cv" x="29.363" y="19.308" width="6.757" height="5.515" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="cx" x="29.363" y="-8218.863" width="6.757" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="cw" data-name="mask-39" x="29.363" y="-8218.863" width="6.757" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="cy" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="366.244" cy="199.621" fx="366.244" fy="199.621" r="3.375" gradientTransform="translate(-189.869 157.752) rotate(49.277) scale(.097 -1.289) skewX(19.873)" xlink:href="#al"/>
+    <mask id="cu" data-name="mask-38" x="29.363" y="19.308" width="6.757" height="5.515" maskUnits="userSpaceOnUse">
+      <g filter="url(#cv)">
+        <g mask="url(#cw)">
+          <path d="m32.955,22.313c1.862-1.517,3.276-2.857,3.158-2.994-.118-.137-1.723.982-3.585,2.499-1.862,1.517-3.276,2.857-3.158,2.994.118.137,1.723-.982,3.585-2.499Z" fill="url(#cy)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="da" x="29.363" y="19.308" width="6.757" height="5.515" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="dc" x="29.363" y="-8218.863" width="6.757" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="db" data-name="mask-41" x="29.363" y="-8218.863" width="6.757" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="dd" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="366.244" cy="199.621" fx="366.244" fy="199.621" r="3.375" gradientTransform="translate(-189.869 157.752) rotate(49.277) scale(.097 -1.289) skewX(19.873)" xlink:href="#al"/>
+    <mask id="cz" data-name="mask-40" x="29.363" y="19.308" width="6.757" height="5.515" maskUnits="userSpaceOnUse">
+      <g filter="url(#da)">
+        <g mask="url(#db)">
+          <path d="m32.955,22.313c1.862-1.517,3.276-2.857,3.158-2.994-.118-.137-1.723.982-3.585,2.499-1.862,1.517-3.276,2.857-3.158,2.994.118.137,1.723-.982,3.585-2.499Z" fill="url(#dd)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="df" x="29.363" y="19.308" width="6.757" height="5.515" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="dh" x="29.363" y="-8218.863" width="6.757" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="dg" data-name="mask-43" x="29.363" y="-8218.863" width="6.757" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="di" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="366.244" cy="199.621" fx="366.244" fy="199.621" r="3.375" gradientTransform="translate(-189.869 157.752) rotate(49.277) scale(.097 -1.289) skewX(19.873)" xlink:href="#al"/>
+    <mask id="de" data-name="mask-42" x="29.363" y="19.308" width="6.757" height="5.515" maskUnits="userSpaceOnUse">
+      <g filter="url(#df)">
+        <g mask="url(#dg)">
+          <path d="m32.955,22.313c1.862-1.517,3.276-2.857,3.158-2.994-.118-.137-1.723.982-3.585,2.499-1.862,1.517-3.276,2.857-3.158,2.994.118.137,1.723-.982,3.585-2.499Z" fill="url(#di)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="dj" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="366.244" cy="199.621" fx="366.244" fy="199.621" r="3.375" gradientTransform="translate(-189.869 157.752) rotate(49.277) scale(.097 -1.289) skewX(19.873)" xlink:href="#ay"/>
+    <clipPath id="dk">
+      <rect x="26.708" y="16.59" width="11.562" height="10.808" transform="translate(64.977 43.989) rotate(180)" fill="none"/>
+    </clipPath>
+    <filter id="dm" x="31.202" y="14.601" width="2.062" height="14.076" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="do" x="31.202" y="-8218.863" width="2.062" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="dn" data-name="mask-45" x="31.202" y="-8218.863" width="2.062" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="dp" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1871.71" cy="77.974" fx="-1871.71" fy="77.974" r="5.589" gradientTransform="translate(-103.245 -59.896) rotate(172.227) scale(.066 -1.271) skewX(-.433)" xlink:href="#al"/>
+    <mask id="dl" data-name="mask-44" x="31.202" y="14.601" width="2.062" height="14.076" maskUnits="userSpaceOnUse">
+      <g filter="url(#dm)">
+        <g mask="url(#dn)">
+          <path d="m31.869,21.689c.533,3.887,1.127,7.015,1.328,6.988.201-.027-.067-3.201-.6-7.087-.533-3.887-1.127-7.015-1.328-6.988-.201.028.067,3.201.6,7.088Z" fill="url(#dp)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="dr" x="31.202" y="14.601" width="2.062" height="14.076" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="dt" x="31.202" y="-8218.863" width="2.062" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ds" data-name="mask-47" x="31.202" y="-8218.863" width="2.062" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="du" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1871.71" cy="77.974" fx="-1871.71" fy="77.974" r="5.589" gradientTransform="translate(-103.245 -59.896) rotate(172.227) scale(.066 -1.271) skewX(-.433)" xlink:href="#al"/>
+    <mask id="dq" data-name="mask-46" x="31.202" y="14.601" width="2.062" height="14.076" maskUnits="userSpaceOnUse">
+      <g filter="url(#dr)">
+        <g mask="url(#ds)">
+          <path d="m31.869,21.689c.533,3.887,1.127,7.015,1.328,6.988.201-.027-.067-3.201-.6-7.087-.533-3.887-1.127-7.015-1.328-6.988-.201.028.067,3.201.6,7.088Z" fill="url(#du)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="dw" x="31.202" y="14.601" width="2.062" height="14.076" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="dy" x="31.202" y="-8218.863" width="2.062" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="dx" data-name="mask-49" x="31.202" y="-8218.863" width="2.062" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="dz" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1871.71" cy="77.974" fx="-1871.71" fy="77.974" r="5.589" gradientTransform="translate(-103.245 -59.896) rotate(172.227) scale(.066 -1.271) skewX(-.433)" xlink:href="#al"/>
+    <mask id="dv" data-name="mask-48" x="31.202" y="14.601" width="2.062" height="14.076" maskUnits="userSpaceOnUse">
+      <g filter="url(#dw)">
+        <g mask="url(#dx)">
+          <path d="m31.869,21.689c.533,3.887,1.127,7.015,1.328,6.988.201-.027-.067-3.201-.6-7.087-.533-3.887-1.127-7.015-1.328-6.988-.201.028.067,3.201.6,7.088Z" fill="url(#dz)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="ea" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-1871.71" cy="77.974" fx="-1871.71" fy="77.974" r="5.589" gradientTransform="translate(-103.245 -59.896) rotate(172.227) scale(.066 -1.271) skewX(-.433)" xlink:href="#ay"/>
+    <filter id="ec" x="25.025" y="20.809" width="14.476" height="2.103" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ee" x="25.025" y="-8218.863" width="14.476" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ed" data-name="mask-51" x="25.025" y="-8218.863" width="14.476" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ef" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-477.993" cy="199.615" fx="-477.993" fy="199.615" r="5.588" gradientTransform="translate(-222.1 87.517) rotate(82.186) scale(.064 -1.307) skewX(.549)" xlink:href="#al"/>
+    <mask id="eb" data-name="mask-50" x="25.025" y="20.809" width="14.476" height="2.103" maskUnits="userSpaceOnUse">
+      <g filter="url(#ec)">
+        <g mask="url(#ed)">
+          <path d="m32.312,22.215c3.997-.546,7.216-1.148,7.189-1.344-.027-.196-3.289.089-7.286.635-3.997.546-7.216,1.148-7.189,1.344.027.196,3.289-.089,7.286-.635Z" fill="url(#ef)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="eh" x="25.025" y="20.809" width="14.476" height="2.103" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ej" x="25.025" y="-8218.863" width="14.476" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ei" data-name="mask-53" x="25.025" y="-8218.863" width="14.476" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ek" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-477.993" cy="199.615" fx="-477.993" fy="199.615" r="5.588" gradientTransform="translate(-222.1 87.517) rotate(82.186) scale(.064 -1.307) skewX(.549)" xlink:href="#al"/>
+    <mask id="eg" data-name="mask-52" x="25.025" y="20.809" width="14.476" height="2.103" maskUnits="userSpaceOnUse">
+      <g filter="url(#eh)">
+        <g mask="url(#ei)">
+          <path d="m32.312,22.215c3.997-.546,7.216-1.148,7.189-1.344-.027-.196-3.289.089-7.286.635-3.997.546-7.216,1.148-7.189,1.344.027.196,3.289-.089,7.286-.635Z" fill="url(#ek)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="em" x="25.025" y="20.809" width="14.476" height="2.103" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="eo" x="25.025" y="-8218.863" width="14.476" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="en" data-name="mask-55" x="25.025" y="-8218.863" width="14.476" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ep" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-477.993" cy="199.615" fx="-477.993" fy="199.615" r="5.588" gradientTransform="translate(-222.1 87.517) rotate(82.186) scale(.064 -1.307) skewX(.549)" xlink:href="#al"/>
+    <mask id="el" data-name="mask-54" x="25.025" y="20.809" width="14.476" height="2.103" maskUnits="userSpaceOnUse">
+      <g filter="url(#em)">
+        <g mask="url(#en)">
+          <path d="m32.312,22.215c3.997-.546,7.216-1.148,7.189-1.344-.027-.196-3.289.089-7.286.635-3.997.546-7.216,1.148-7.189,1.344.027.196,3.289-.089,7.286-.635Z" fill="url(#ep)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="eq" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-477.993" cy="199.615" fx="-477.993" fy="199.615" r="5.588" gradientTransform="translate(-222.1 87.517) rotate(82.186) scale(.064 -1.307) skewX(.549)" xlink:href="#ay"/>
+    <filter id="es" x="26.497" y="17.571" width="11.631" height="8.624" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="eu" x="26.497" y="-8218.863" width="11.631" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="et" data-name="mask-57" x="26.497" y="-8218.863" width="11.631" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ev" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-687.557" cy="153.646" fx="-687.557" fy="153.646" r="5.589" gradientTransform="translate(-179.739 -28.306) rotate(127.976) scale(.124 -1.289) skewX(-15.898)" xlink:href="#al"/>
+    <mask id="er" data-name="mask-56" x="26.497" y="17.571" width="11.631" height="8.624" maskUnits="userSpaceOnUse">
+      <g filter="url(#es)">
+        <g mask="url(#et)">
+          <path d="m31.885,22.431c3.203,2.362,5.991,4.032,6.227,3.729s-2.168-2.462-5.372-4.824c-3.203-2.362-5.991-4.032-6.227-3.729-.236.302,2.168,2.462,5.372,4.824Z" fill="url(#ev)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ex" x="26.497" y="17.571" width="11.631" height="8.624" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ez" x="26.497" y="-8218.863" width="11.631" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ey" data-name="mask-59" x="26.497" y="-8218.863" width="11.631" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="fa" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-687.557" cy="153.646" fx="-687.557" fy="153.646" r="5.589" gradientTransform="translate(-179.739 -28.306) rotate(127.976) scale(.124 -1.289) skewX(-15.898)" xlink:href="#al"/>
+    <mask id="ew" data-name="mask-58" x="26.497" y="17.571" width="11.631" height="8.624" maskUnits="userSpaceOnUse">
+      <g filter="url(#ex)">
+        <g mask="url(#ey)">
+          <path d="m31.885,22.431c3.203,2.362,5.991,4.032,6.227,3.729s-2.168-2.462-5.372-4.824c-3.203-2.362-5.991-4.032-6.227-3.729-.236.302,2.168,2.462,5.372,4.824Z" fill="url(#fa)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="fc" x="26.497" y="17.571" width="11.631" height="8.624" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="fe" x="26.497" y="-8218.863" width="11.631" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="fd" data-name="mask-61" x="26.497" y="-8218.863" width="11.631" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ff" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-687.557" cy="153.646" fx="-687.557" fy="153.646" r="5.589" gradientTransform="translate(-179.739 -28.306) rotate(127.976) scale(.124 -1.289) skewX(-15.898)" xlink:href="#al"/>
+    <mask id="fb" data-name="mask-60" x="26.497" y="17.571" width="11.631" height="8.624" maskUnits="userSpaceOnUse">
+      <g filter="url(#fc)">
+        <g mask="url(#fd)">
+          <path d="m31.885,22.431c3.203,2.362,5.991,4.032,6.227,3.729s-2.168-2.462-5.372-4.824c-3.203-2.362-5.991-4.032-6.227-3.729-.236.302,2.168,2.462,5.372,4.824Z" fill="url(#ff)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="fg" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-687.557" cy="153.646" fx="-687.557" fy="153.646" r="5.589" gradientTransform="translate(-179.739 -28.306) rotate(127.976) scale(.124 -1.289) skewX(-15.898)" xlink:href="#ay"/>
+    <filter id="fi" x="27.831" y="16.181" width="8.915" height="11.37" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="fk" x="27.831" y="-8218.863" width="8.915" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="fj" data-name="mask-63" x="27.831" y="-8218.863" width="8.915" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="fl" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="511.979" cy="190.666" fx="511.979" fy="190.666" r="5.59" gradientTransform="translate(-158.875 186.087) rotate(36.467) scale(.097 -1.289) skewX(19.679)" xlink:href="#al"/>
+    <mask id="fh" data-name="mask-62" x="27.831" y="16.181" width="8.915" height="11.37" maskUnits="userSpaceOnUse">
+      <g filter="url(#fi)">
+        <g mask="url(#fj)">
+          <path d="m32.724,22.187c2.45-3.135,4.241-5.82,4.001-5.997-.24-.177-2.421,2.22-4.871,5.355-2.45,3.135-4.241,5.82-4.001,5.997.24.177,2.421-2.22,4.871-5.355Z" fill="url(#fl)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="fn" x="27.831" y="16.181" width="8.915" height="11.37" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="fp" x="27.831" y="-8218.863" width="8.915" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="fo" data-name="mask-65" x="27.831" y="-8218.863" width="8.915" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="fq" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="511.979" cy="190.666" fx="511.979" fy="190.666" r="5.59" gradientTransform="translate(-158.875 186.087) rotate(36.467) scale(.097 -1.289) skewX(19.679)" xlink:href="#al"/>
+    <mask id="fm" data-name="mask-64" x="27.831" y="16.181" width="8.915" height="11.37" maskUnits="userSpaceOnUse">
+      <g filter="url(#fn)">
+        <g mask="url(#fo)">
+          <path d="m32.724,22.187c2.45-3.135,4.241-5.82,4.001-5.997-.24-.177-2.421,2.22-4.871,5.355-2.45,3.135-4.241,5.82-4.001,5.997.24.177,2.421-2.22,4.871-5.355Z" fill="url(#fq)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="fs" x="27.831" y="16.181" width="8.915" height="11.37" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="fu" x="27.831" y="-8218.863" width="8.915" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ft" data-name="mask-67" x="27.831" y="-8218.863" width="8.915" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="fv" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="511.979" cy="190.666" fx="511.979" fy="190.666" r="5.59" gradientTransform="translate(-158.875 186.087) rotate(36.467) scale(.097 -1.289) skewX(19.679)" xlink:href="#al"/>
+    <mask id="fr" data-name="mask-66" x="27.831" y="16.181" width="8.915" height="11.37" maskUnits="userSpaceOnUse">
+      <g filter="url(#fs)">
+        <g mask="url(#ft)">
+          <path d="m32.724,22.187c2.45-3.135,4.241-5.82,4.001-5.997-.24-.177-2.421,2.22-4.871,5.355-2.45,3.135-4.241,5.82-4.001,5.997.24.177,2.421-2.22,4.871-5.355Z" fill="url(#fv)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="fw" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="511.979" cy="190.666" fx="511.979" fy="190.666" r="5.59" gradientTransform="translate(-158.875 186.087) rotate(36.467) scale(.097 -1.289) skewX(19.679)" xlink:href="#ay"/>
+    <filter id="fy" x="28.637" y="15.569" width="7.187" height="12.277" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ga" x="28.637" y="-8218.863" width="7.187" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="fz" data-name="mask-69" x="28.637" y="-8218.863" width="7.187" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="gb" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1817.021" cy="91.95" fx="-1817.021" fy="91.95" r="5.591" gradientTransform="translate(-129.861 -19.109) rotate(149.769) scale(.066 -1.271) skewX(-.41)" xlink:href="#al"/>
+    <mask id="fx" data-name="mask-68" x="28.637" y="15.569" width="7.187" height="12.277" maskUnits="userSpaceOnUse">
+      <g filter="url(#fy)">
+        <g mask="url(#fz)">
+          <path d="m31.913,21.893c1.977,3.389,3.722,6.053,3.897,5.95.175-.102-1.285-2.932-3.261-6.321-1.977-3.389-3.722-6.053-3.897-5.951-.175.102,1.285,2.932,3.262,6.321Z" fill="url(#gb)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="gd" x="28.637" y="15.569" width="7.187" height="12.277" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="gf" x="28.637" y="-8218.863" width="7.187" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ge" data-name="mask-71" x="28.637" y="-8218.863" width="7.187" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="gg" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1817.021" cy="91.95" fx="-1817.021" fy="91.95" r="5.591" gradientTransform="translate(-129.861 -19.109) rotate(149.769) scale(.066 -1.271) skewX(-.41)" xlink:href="#al"/>
+    <mask id="gc" data-name="mask-70" x="28.637" y="15.569" width="7.187" height="12.277" maskUnits="userSpaceOnUse">
+      <g filter="url(#gd)">
+        <g mask="url(#ge)">
+          <path d="m31.913,21.893c1.977,3.389,3.722,6.053,3.897,5.95.175-.102-1.285-2.932-3.261-6.321-1.977-3.389-3.722-6.053-3.897-5.951-.175.102,1.285,2.932,3.262,6.321Z" fill="url(#gg)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="gi" x="28.637" y="15.569" width="7.187" height="12.277" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="gk" x="28.637" y="-8218.863" width="7.187" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="gj" data-name="mask-73" x="28.637" y="-8218.863" width="7.187" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="gl" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1817.021" cy="91.95" fx="-1817.021" fy="91.95" r="5.591" gradientTransform="translate(-129.861 -19.109) rotate(149.769) scale(.066 -1.271) skewX(-.41)" xlink:href="#al"/>
+    <mask id="gh" data-name="mask-72" x="28.637" y="15.569" width="7.187" height="12.277" maskUnits="userSpaceOnUse">
+      <g filter="url(#gi)">
+        <g mask="url(#gj)">
+          <path d="m31.913,21.893c1.977,3.389,3.722,6.053,3.897,5.95.175-.102-1.285-2.932-3.261-6.321-1.977-3.389-3.722-6.053-3.897-5.951-.175.102,1.285,2.932,3.262,6.321Z" fill="url(#gl)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="gm" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-1817.021" cy="91.95" fx="-1817.021" fy="91.95" r="5.591" gradientTransform="translate(-129.861 -19.109) rotate(149.769) scale(.066 -1.271) skewX(-.41)" xlink:href="#ay"/>
+    <filter id="go" x="26.03" y="18.209" width="12.627" height="7.385" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="gq" x="26.03" y="-8218.863" width="12.627" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="gp" data-name="mask-75" x="26.03" y="-8218.863" width="12.627" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="gr" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-211.927" cy="196.992" fx="-211.927" fy="196.992" r="5.586" gradientTransform="translate(-183.275 163.3) rotate(59.711) scale(.064 -1.307) skewX(1.011)" xlink:href="#al"/>
+    <mask id="gn" data-name="mask-74" x="26.03" y="18.209" width="12.627" height="7.385" maskUnits="userSpaceOnUse">
+      <g filter="url(#go)">
+        <g mask="url(#gp)">
+          <path d="m32.523,22.21c3.485-2.032,6.23-3.818,6.131-3.988-.1-.171-3.006,1.338-6.491,3.37-3.485,2.032-6.23,3.818-6.131,3.988.099.171,3.005-1.338,6.491-3.37Z" fill="url(#gr)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="gt" x="26.03" y="18.209" width="12.627" height="7.385" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="gv" x="26.03" y="-8218.863" width="12.627" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="gu" data-name="mask-77" x="26.03" y="-8218.863" width="12.627" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="gw" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-211.927" cy="196.992" fx="-211.927" fy="196.992" r="5.586" gradientTransform="translate(-183.275 163.3) rotate(59.711) scale(.064 -1.307) skewX(1.011)" xlink:href="#al"/>
+    <mask id="gs" data-name="mask-76" x="26.03" y="18.209" width="12.627" height="7.385" maskUnits="userSpaceOnUse">
+      <g filter="url(#gt)">
+        <g mask="url(#gu)">
+          <path d="m32.523,22.21c3.485-2.032,6.23-3.818,6.131-3.988-.1-.171-3.006,1.338-6.491,3.37-3.485,2.032-6.23,3.818-6.131,3.988.099.171,3.005-1.338,6.491-3.37Z" fill="url(#gw)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="gy" x="26.03" y="18.209" width="12.627" height="7.385" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ha" x="26.03" y="-8218.863" width="12.627" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="gz" data-name="mask-79" x="26.03" y="-8218.863" width="12.627" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="hb" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-211.927" cy="196.992" fx="-211.927" fy="196.992" r="5.586" gradientTransform="translate(-183.275 163.3) rotate(59.711) scale(.064 -1.307) skewX(1.011)" xlink:href="#al"/>
+    <mask id="gx" data-name="mask-78" x="26.03" y="18.209" width="12.627" height="7.385" maskUnits="userSpaceOnUse">
+      <g filter="url(#gy)">
+        <g mask="url(#gz)">
+          <path d="m32.523,22.21c3.485-2.032,6.23-3.818,6.131-3.988-.1-.171-3.006,1.338-6.491,3.37-3.485,2.032-6.23,3.818-6.131,3.988.099.171,3.005-1.338,6.491-3.37Z" fill="url(#hb)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="hc" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-211.927" cy="196.992" fx="-211.927" fy="196.992" r="5.586" gradientTransform="translate(-183.275 163.3) rotate(59.711) scale(.064 -1.307) skewX(1.011)" xlink:href="#ay"/>
+    <filter id="he" x="25.402" y="20.042" width="13.992" height="3.724" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="hg" x="25.402" y="-8218.863" width="13.992" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="hf" data-name="mask-81" x="25.402" y="-8218.863" width="13.992" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="hh" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-569.074" cy="162.18" fx="-569.074" fy="162.18" r="5.589" gradientTransform="translate(-189.504 39.673) rotate(105.534) scale(.124 -1.289) skewX(-16.015)" xlink:href="#al"/>
+    <mask id="hd" data-name="mask-80" x="25.402" y="20.042" width="13.992" height="3.724" maskUnits="userSpaceOnUse">
+      <g filter="url(#he)">
+        <g mask="url(#hf)">
+          <path d="m32.212,22.573c3.862.959,7.077,1.437,7.18,1.068.103-.37-2.945-1.447-6.807-2.407-3.862-.959-7.077-1.437-7.18-1.067-.103.37,2.945,1.447,6.807,2.407Z" fill="url(#hh)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="hj" x="25.402" y="20.042" width="13.992" height="3.724" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="hl" x="25.402" y="-8218.863" width="13.992" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="hk" data-name="mask-83" x="25.402" y="-8218.863" width="13.992" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="hm" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-569.074" cy="162.18" fx="-569.074" fy="162.18" r="5.589" gradientTransform="translate(-189.504 39.673) rotate(105.534) scale(.124 -1.289) skewX(-16.015)" xlink:href="#al"/>
+    <mask id="hi" data-name="mask-82" x="25.402" y="20.042" width="13.992" height="3.724" maskUnits="userSpaceOnUse">
+      <g filter="url(#hj)">
+        <g mask="url(#hk)">
+          <path d="m32.212,22.573c3.862.959,7.077,1.437,7.18,1.068.103-.37-2.945-1.447-6.807-2.407-3.862-.959-7.077-1.437-7.18-1.067-.103.37,2.945,1.447,6.807,2.407Z" fill="url(#hm)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ho" x="25.402" y="20.042" width="13.992" height="3.724" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="hq" x="25.402" y="-8218.863" width="13.992" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="hp" data-name="mask-85" x="25.402" y="-8218.863" width="13.992" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="hr" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-569.074" cy="162.18" fx="-569.074" fy="162.18" r="5.589" gradientTransform="translate(-189.504 39.673) rotate(105.534) scale(.124 -1.289) skewX(-16.015)" xlink:href="#al"/>
+    <mask id="hn" data-name="mask-84" x="25.402" y="20.042" width="13.992" height="3.724" maskUnits="userSpaceOnUse">
+      <g filter="url(#ho)">
+        <g mask="url(#hp)">
+          <path d="m32.212,22.573c3.862.959,7.077,1.437,7.18,1.068.103-.37-2.945-1.447-6.807-2.407-3.862-.959-7.077-1.437-7.18-1.067-.103.37,2.945,1.447,6.807,2.407Z" fill="url(#hr)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="hs" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-569.074" cy="162.18" fx="-569.074" fy="162.18" r="5.589" gradientTransform="translate(-189.504 39.673) rotate(105.534) scale(.124 -1.289) skewX(-16.015)" xlink:href="#ay"/>
+    <filter id="hu" x="30.367" y="14.955" width="4.004" height="13.883" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="hw" x="30.367" y="-8218.863" width="4.004" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="hv" data-name="mask-87" x="30.367" y="-8218.863" width="4.004" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="hx" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="624.942" cy="178.386" fx="624.942" fy="178.386" r="5.589" gradientTransform="translate(-87.945 228.81) rotate(13.993) scale(.097 -1.289) skewX(19.857)" xlink:href="#al"/>
+    <mask id="ht" data-name="mask-86" x="30.367" y="14.955" width="4.004" height="13.883" maskUnits="userSpaceOnUse">
+      <g filter="url(#hu)">
+        <g mask="url(#hv)">
+          <path d="m32.894,22.027c1.067-3.833,1.696-6.999,1.407-7.07-.29-.072-1.39,2.977-2.456,6.81-1.067,3.833-1.696,6.999-1.407,7.07.29.072,1.39-2.977,2.456-6.81Z" fill="url(#hx)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="hz" x="30.367" y="14.955" width="4.004" height="13.883" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ib" x="30.367" y="-8218.863" width="4.004" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ia" data-name="mask-89" x="30.367" y="-8218.863" width="4.004" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ic" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="624.942" cy="178.386" fx="624.942" fy="178.386" r="5.589" gradientTransform="translate(-87.945 228.81) rotate(13.993) scale(.097 -1.289) skewX(19.857)" xlink:href="#al"/>
+    <mask id="hy" data-name="mask-88" x="30.367" y="14.955" width="4.004" height="13.883" maskUnits="userSpaceOnUse">
+      <g filter="url(#hz)">
+        <g mask="url(#ia)">
+          <path d="m32.894,22.027c1.067-3.833,1.696-6.999,1.407-7.07-.29-.072-1.39,2.977-2.456,6.81-1.067,3.833-1.696,6.999-1.407,7.07.29.072,1.39-2.977,2.456-6.81Z" fill="url(#ic)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ie" x="30.367" y="14.955" width="4.004" height="13.883" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ig" x="30.367" y="-8218.863" width="4.004" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="if" data-name="mask-91" x="30.367" y="-8218.863" width="4.004" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ih" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="624.942" cy="178.386" fx="624.942" fy="178.386" r="5.589" gradientTransform="translate(-87.945 228.81) rotate(13.993) scale(.097 -1.289) skewX(19.857)" xlink:href="#al"/>
+    <mask id="id" data-name="mask-90" x="30.367" y="14.955" width="4.004" height="13.883" maskUnits="userSpaceOnUse">
+      <g filter="url(#ie)">
+        <g mask="url(#if)">
+          <path d="m32.894,22.027c1.067-3.833,1.696-6.999,1.407-7.07-.29-.072-1.39,2.977-2.456,6.81-1.067,3.833-1.696,6.999-1.407,7.07.29.072,1.39-2.977,2.456-6.81Z" fill="url(#ih)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="ii" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="624.942" cy="178.386" fx="624.942" fy="178.386" r="5.589" gradientTransform="translate(-87.945 228.81) rotate(13.993) scale(.097 -1.289) skewX(19.857)" xlink:href="#ay"/>
+    <filter id="ik" x="28.128" y="17.52" width="8.869" height="8.869" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="im" x="28.128" y="-8218.863" width="8.869" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="il" data-name="mask-93" x="28.128" y="-8218.863" width="8.869" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="in" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 101" cx="32.515" cy="21.906" fx="32.515" fy="21.906" r="4.53" gradientTransform="translate(48.861 -13.776) rotate(80.532)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".211" stop-color="#010101"/>
+      <stop offset=".287" stop-color="#080808"/>
+      <stop offset=".341" stop-color="#141414"/>
+      <stop offset=".385" stop-color="#252525"/>
+      <stop offset=".422" stop-color="#3b3b3b"/>
+      <stop offset=".456" stop-color="#565656"/>
+      <stop offset=".486" stop-color="#777"/>
+      <stop offset=".513" stop-color="#9c9c9c"/>
+      <stop offset=".539" stop-color="#c7c7c7"/>
+      <stop offset=".562" stop-color="#f5f5f5"/>
+      <stop offset=".566" stop-color="#fff"/>
+      <stop offset=".569" stop-color="#f5f5f5"/>
+      <stop offset=".587" stop-color="#c7c7c7"/>
+      <stop offset=".607" stop-color="#9c9c9c"/>
+      <stop offset=".628" stop-color="#777"/>
+      <stop offset=".651" stop-color="#565656"/>
+      <stop offset=".676" stop-color="#3b3b3b"/>
+      <stop offset=".705" stop-color="#252525"/>
+      <stop offset=".739" stop-color="#141414"/>
+      <stop offset=".78" stop-color="#080808"/>
+      <stop offset=".838" stop-color="#010101"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <mask id="ij" data-name="mask-92" x="28.128" y="17.52" width="8.869" height="8.869" maskUnits="userSpaceOnUse">
+      <g filter="url(#ik)">
+        <g mask="url(#il)">
+          <circle cx="32.562" cy="21.954" r="4.434" transform="translate(5.551 50.461) rotate(-80.532)" fill="url(#in)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="io" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 21" cx="32.515" cy="21.906" fx="32.515" fy="21.906" r="4.53" gradientTransform="translate(48.861 -13.776) rotate(80.532)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6f6e6f"/>
+      <stop offset=".236" stop-color="#706f70"/>
+      <stop offset=".321" stop-color="#777677"/>
+      <stop offset=".382" stop-color="#838283"/>
+      <stop offset=".431" stop-color="#949394"/>
+      <stop offset=".473" stop-color="#a9a9a9"/>
+      <stop offset=".51" stop-color="#c4c4c4"/>
+      <stop offset=".543" stop-color="#e4e4e4"/>
+      <stop offset=".566" stop-color="#fff"/>
+      <stop offset=".581" stop-color="#d8d9d9"/>
+      <stop offset=".6" stop-color="#afb1b1"/>
+      <stop offset=".622" stop-color="#8a8c8d"/>
+      <stop offset=".645" stop-color="#696c6d"/>
+      <stop offset=".671" stop-color="#4e5252"/>
+      <stop offset=".7" stop-color="#383c3d"/>
+      <stop offset=".734" stop-color="#272c2c"/>
+      <stop offset=".777" stop-color="#1b2021"/>
+      <stop offset=".836" stop-color="#14191a"/>
+      <stop offset="1" stop-color="#131819"/>
+    </radialGradient>
+    <filter id="iq" x="19.42" y="9.795" width="24.27" height="24.27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="is" x="19.42" y="-8218.863" width="24.27" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ir" data-name="mask-95" x="19.42" y="-8218.863" width="24.27" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="it" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 101" cx="31.425" cy="21.799" fx="31.425" fy="21.799" r="12.396" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#in"/>
+    <mask id="ip" data-name="mask-94" x="19.42" y="9.795" width="24.27" height="24.27" maskUnits="userSpaceOnUse">
+      <g filter="url(#iq)">
+        <g mask="url(#ir)">
+          <circle cx="31.555" cy="21.93" r="12.135" fill="url(#it)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="iu" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 21" cx="31.425" cy="21.799" fx="31.425" fy="21.799" r="12.396" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#io"/>
+    <filter id="iw" x="21.811" y="8.705" width="24.27" height="24.27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="iy" x="21.811" y="-8218.863" width="24.27" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ix" data-name="mask-97" x="21.811" y="-8218.863" width="24.27" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="iz" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 101" cx="33.815" cy="20.71" fx="33.815" fy="20.71" r="12.396" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#in"/>
+    <mask id="iv" data-name="mask-96" x="21.811" y="8.705" width="24.27" height="24.27" maskUnits="userSpaceOnUse">
+      <g filter="url(#iw)">
+        <g mask="url(#ix)">
+          <circle cx="33.945" cy="20.84" r="12.135" fill="url(#iz)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="ja" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 21" cx="33.815" cy="20.71" fx="33.815" fy="20.71" r="12.396" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#io"/>
+    <filter id="jc" x="0" y="21.728" width="24.27" height="24.27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="je" x="0" y="-8218.863" width="24.27" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="jd" data-name="mask-99" x="0" y="-8218.863" width="24.27" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="jf" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 101" cx="12.004" cy="33.733" fx="12.004" fy="33.733" r="12.396" gradientTransform="translate(43.617 16.461) rotate(80.783)" xlink:href="#in"/>
+    <mask id="jb" data-name="mask-98" x="0" y="21.728" width="24.27" height="24.27" maskUnits="userSpaceOnUse">
+      <g filter="url(#jc)">
+        <g mask="url(#jd)">
+          <circle cx="12.135" cy="33.863" r="12.135" transform="translate(-23.235 40.417) rotate(-80.783)" fill="url(#jf)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="jg" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 21" cx="12.004" cy="33.733" fx="12.004" fy="33.733" r="12.396" gradientTransform="translate(43.617 16.461) rotate(80.783)" xlink:href="#io"/>
+    <filter id="ji" x="30.872" y="17.955" width="3.414" height="7.88" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="jk" x="30.872" y="-8218.863" width="3.414" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="jj" data-name="mask-101" x="30.872" y="-8218.863" width="3.414" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="jl" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1746.506" cy="52.951" fx="-1746.506" fy="52.951" r="3.375" gradientTransform="translate(-46.308 -85.339) rotate(-156.71) scale(.066 -1.271) skewX(-.167)" xlink:href="#al"/>
+    <mask id="jh" data-name="mask-100" x="30.872" y="17.955" width="3.414" height="7.88" maskUnits="userSpaceOnUse">
+      <g filter="url(#ji)">
+        <g mask="url(#jj)">
+          <path d="m32.375,21.808c-.936,2.175-1.603,3.978-1.491,4.027.113.049.963-1.676,1.898-3.851.936-2.175,1.603-3.978,1.491-4.027-.113-.048-.963,1.676-1.899,3.851Z" fill="url(#jl)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="jn" x="30.872" y="17.955" width="3.414" height="7.88" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="jp" x="30.872" y="-8218.863" width="3.414" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="jo" data-name="mask-103" x="30.872" y="-8218.863" width="3.414" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="jq" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1746.506" cy="52.951" fx="-1746.506" fy="52.951" r="3.375" gradientTransform="translate(-46.308 -85.339) rotate(-156.71) scale(.066 -1.271) skewX(-.167)" xlink:href="#al"/>
+    <mask id="jm" data-name="mask-102" x="30.872" y="17.955" width="3.414" height="7.88" maskUnits="userSpaceOnUse">
+      <g filter="url(#jn)">
+        <g mask="url(#jo)">
+          <path d="m32.375,21.808c-.936,2.175-1.603,3.978-1.491,4.027.113.049.963-1.676,1.898-3.851.936-2.175,1.603-3.978,1.491-4.027-.113-.048-.963,1.676-1.899,3.851Z" fill="url(#jq)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="js" x="30.872" y="17.955" width="3.414" height="7.88" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ju" x="30.872" y="-8218.863" width="3.414" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="jt" data-name="mask-105" x="30.872" y="-8218.863" width="3.414" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="jv" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1746.506" cy="52.951" fx="-1746.506" fy="52.951" r="3.375" gradientTransform="translate(-46.308 -85.339) rotate(-156.71) scale(.066 -1.271) skewX(-.167)" xlink:href="#al"/>
+    <mask id="jr" data-name="mask-104" x="30.872" y="17.955" width="3.414" height="7.88" maskUnits="userSpaceOnUse">
+      <g filter="url(#js)">
+        <g mask="url(#jt)">
+          <path d="m32.375,21.808c-.936,2.175-1.603,3.978-1.491,4.027.113.049.963-1.676,1.898-3.851.936-2.175,1.603-3.978,1.491-4.027-.113-.048-.963,1.676-1.899,3.851Z" fill="url(#jv)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="jx" x="30.872" y="17.955" width="3.414" height="7.88" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="jz" x="30.872" y="-8218.863" width="3.414" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="jy" data-name="mask-107" x="30.872" y="-8218.863" width="3.414" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ka" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-1746.506" cy="52.951" fx="-1746.506" fy="52.951" r="3.375" gradientTransform="translate(-46.308 -85.339) rotate(-156.71) scale(.066 -1.271) skewX(-.167)" xlink:href="#al"/>
+    <mask id="jw" data-name="mask-106" x="30.872" y="17.955" width="3.414" height="7.88" maskUnits="userSpaceOnUse">
+      <g filter="url(#jx)">
+        <g mask="url(#jy)">
+          <path d="m32.375,21.808c-.936,2.175-1.603,3.978-1.491,4.027.113.049.963-1.676,1.898-3.851.936-2.175,1.603-3.978,1.491-4.027-.113-.048-.963,1.676-1.899,3.851Z" fill="url(#ka)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="kb" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-1746.506" cy="52.951" fx="-1746.506" fy="52.951" r="3.375" gradientTransform="translate(-46.308 -85.339) rotate(-156.71) scale(.066 -1.271) skewX(-.167)" xlink:href="#ay"/>
+    <filter id="kd" x="28.474" y="20.264" width="8.102" height="3.51" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="kf" x="28.474" y="-8218.863" width="8.102" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ke" data-name="mask-109" x="28.474" y="-8218.863" width="8.102" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="kg" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-975.771" cy="193.89" fx="-975.771" fy="193.89" r="3.373" gradientTransform="translate(-224.947 -20.827) rotate(113.281) scale(.064 -1.307) skewX(.259)" xlink:href="#al"/>
+    <mask id="kc" data-name="mask-108" x="28.474" y="20.264" width="8.102" height="3.51" maskUnits="userSpaceOnUse">
+      <g filter="url(#kd)">
+        <g mask="url(#ke)">
+          <path d="m32.44,22.217c2.237.963,4.088,1.655,4.136,1.545.047-.11-1.728-.979-3.965-1.942-2.237-.963-4.088-1.655-4.136-1.545-.047.109,1.728.979,3.965,1.942Z" fill="url(#kg)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ki" x="28.474" y="20.264" width="8.102" height="3.51" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="kk" x="28.474" y="-8218.863" width="8.102" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="kj" data-name="mask-111" x="28.474" y="-8218.863" width="8.102" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="kl" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-975.771" cy="193.89" fx="-975.771" fy="193.89" r="3.373" gradientTransform="translate(-224.947 -20.827) rotate(113.281) scale(.064 -1.307) skewX(.259)" xlink:href="#al"/>
+    <mask id="kh" data-name="mask-110" x="28.474" y="20.264" width="8.102" height="3.51" maskUnits="userSpaceOnUse">
+      <g filter="url(#ki)">
+        <g mask="url(#kj)">
+          <path d="m32.44,22.217c2.237.963,4.088,1.655,4.136,1.545.047-.11-1.728-.979-3.965-1.942-2.237-.963-4.088-1.655-4.136-1.545-.047.109,1.728.979,3.965,1.942Z" fill="url(#kl)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="kn" x="28.474" y="20.264" width="8.102" height="3.51" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="kp" x="28.474" y="-8218.863" width="8.102" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="ko" data-name="mask-113" x="28.474" y="-8218.863" width="8.102" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="kq" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-975.771" cy="193.89" fx="-975.771" fy="193.89" r="3.373" gradientTransform="translate(-224.947 -20.827) rotate(113.281) scale(.064 -1.307) skewX(.259)" xlink:href="#al"/>
+    <mask id="km" data-name="mask-112" x="28.474" y="20.264" width="8.102" height="3.51" maskUnits="userSpaceOnUse">
+      <g filter="url(#kn)">
+        <g mask="url(#ko)">
+          <path d="m32.44,22.217c2.237.963,4.088,1.655,4.136,1.545.047-.11-1.728-.979-3.965-1.942-2.237-.963-4.088-1.655-4.136-1.545-.047.109,1.728.979,3.965,1.942Z" fill="url(#kq)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ks" x="28.474" y="20.264" width="8.102" height="3.51" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ku" x="28.474" y="-8218.863" width="8.102" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="kt" data-name="mask-115" x="28.474" y="-8218.863" width="8.102" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="kv" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-975.771" cy="193.89" fx="-975.771" fy="193.89" r="3.373" gradientTransform="translate(-224.947 -20.827) rotate(113.281) scale(.064 -1.307) skewX(.259)" xlink:href="#al"/>
+    <mask id="kr" data-name="mask-114" x="28.474" y="20.264" width="8.102" height="3.51" maskUnits="userSpaceOnUse">
+      <g filter="url(#ks)">
+        <g mask="url(#kt)">
+          <path d="m32.44,22.217c2.237.963,4.088,1.655,4.136,1.545.047-.11-1.728-.979-3.965-1.942-2.237-.963-4.088-1.655-4.136-1.545-.047.109,1.728.979,3.965,1.942Z" fill="url(#kv)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="kw" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-975.771" cy="193.89" fx="-975.771" fy="193.89" r="3.373" gradientTransform="translate(-224.947 -20.827) rotate(113.281) scale(.064 -1.307) skewX(.259)" xlink:href="#ay"/>
+    <filter id="ky" x="30.832" y="18.026" width="3.423" height="8.042" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="la" x="30.832" y="-8218.863" width="3.423" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="kz" data-name="mask-117" x="30.832" y="-8218.863" width="3.423" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="lb" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-826.297" cy="132.255" fx="-826.297" fy="132.255" r="3.374" gradientTransform="translate(-128.697 -98.794) rotate(159.072) scale(.124 -1.289) skewX(-16.051)" xlink:href="#al"/>
+    <mask id="kx" data-name="mask-116" x="30.832" y="18.026" width="3.423" height="8.042" maskUnits="userSpaceOnUse">
+      <g filter="url(#ky)">
+        <g mask="url(#kz)">
+          <path d="m32.152,22.196c.92,2.219,1.841,3.951,2.058,3.869.216-.083-.354-1.949-1.274-4.168-.92-2.219-1.841-3.951-2.058-3.869-.216.083.354,1.949,1.274,4.168Z" fill="url(#lb)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ld" x="30.832" y="18.026" width="3.423" height="8.042" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="lf" x="30.832" y="-8218.863" width="3.423" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="le" data-name="mask-119" x="30.832" y="-8218.863" width="3.423" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="lg" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-826.297" cy="132.255" fx="-826.297" fy="132.255" r="3.374" gradientTransform="translate(-128.697 -98.794) rotate(159.072) scale(.124 -1.289) skewX(-16.051)" xlink:href="#al"/>
+    <mask id="lc" data-name="mask-118" x="30.832" y="18.026" width="3.423" height="8.042" maskUnits="userSpaceOnUse">
+      <g filter="url(#ld)">
+        <g mask="url(#le)">
+          <path d="m32.152,22.196c.92,2.219,1.841,3.951,2.058,3.869.216-.083-.354-1.949-1.274-4.168-.92-2.219-1.841-3.951-2.058-3.869-.216.083.354,1.949,1.274,4.168Z" fill="url(#lg)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="li" x="30.832" y="18.026" width="3.423" height="8.042" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="lk" x="30.832" y="-8218.863" width="3.423" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="lj" data-name="mask-121" x="30.832" y="-8218.863" width="3.423" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ll" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-826.297" cy="132.255" fx="-826.297" fy="132.255" r="3.374" gradientTransform="translate(-128.697 -98.794) rotate(159.072) scale(.124 -1.289) skewX(-16.051)" xlink:href="#al"/>
+    <mask id="lh" data-name="mask-120" x="30.832" y="18.026" width="3.423" height="8.042" maskUnits="userSpaceOnUse">
+      <g filter="url(#li)">
+        <g mask="url(#lj)">
+          <path d="m32.152,22.196c.92,2.219,1.841,3.951,2.058,3.869.216-.083-.354-1.949-1.274-4.168-.92-2.219-1.841-3.951-2.058-3.869-.216.083.354,1.949,1.274,4.168Z" fill="url(#ll)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ln" x="30.832" y="18.026" width="3.423" height="8.042" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="lp" x="30.832" y="-8218.863" width="3.423" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="lo" data-name="mask-123" x="30.832" y="-8218.863" width="3.423" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="lq" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="-826.297" cy="132.255" fx="-826.297" fy="132.255" r="3.374" gradientTransform="translate(-128.697 -98.794) rotate(159.072) scale(.124 -1.289) skewX(-16.051)" xlink:href="#al"/>
+    <mask id="lm" data-name="mask-122" x="30.832" y="18.026" width="3.423" height="8.042" maskUnits="userSpaceOnUse">
+      <g filter="url(#ln)">
+        <g mask="url(#lo)">
+          <path d="m32.152,22.196c.92,2.219,1.841,3.951,2.058,3.869.216-.083-.354-1.949-1.274-4.168-.92-2.219-1.841-3.951-2.058-3.869-.216.083.354,1.949,1.274,4.168Z" fill="url(#lq)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="lr" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="-826.297" cy="132.255" fx="-826.297" fy="132.255" r="3.374" gradientTransform="translate(-128.697 -98.794) rotate(159.072) scale(.124 -1.289) skewX(-16.051)" xlink:href="#ay"/>
+    <filter id="lt" x="28.473" y="20.449" width="8.128" height="3.163" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="lv" x="28.473" y="-8218.863" width="8.128" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="lu" data-name="mask-125" x="28.473" y="-8218.863" width="8.128" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="lw" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="223.107" cy="203.513" fx="223.107" fy="203.513" r="3.374" gradientTransform="translate(-220.768 95.741) rotate(67.517) scale(.097 -1.289) skewX(20.014)" xlink:href="#al"/>
+    <mask id="ls" data-name="mask-124" x="28.473" y="20.449" width="8.128" height="3.163" maskUnits="userSpaceOnUse">
+      <g filter="url(#lt)">
+        <g mask="url(#lu)">
+          <path d="m32.662,22.332c2.243-.857,4.006-1.687,3.937-1.854-.069-.167-1.944.393-4.187,1.251-2.244.857-4.006,1.687-3.937,1.854.069.167,1.944-.393,4.187-1.251Z" fill="url(#lw)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="ly" x="28.473" y="20.449" width="8.128" height="3.163" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="ma" x="28.473" y="-8218.863" width="8.128" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="lz" data-name="mask-127" x="28.473" y="-8218.863" width="8.128" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="mb" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="223.107" cy="203.513" fx="223.107" fy="203.513" r="3.374" gradientTransform="translate(-220.768 95.741) rotate(67.517) scale(.097 -1.289) skewX(20.014)" xlink:href="#al"/>
+    <mask id="lx" data-name="mask-126" x="28.473" y="20.449" width="8.128" height="3.163" maskUnits="userSpaceOnUse">
+      <g filter="url(#ly)">
+        <g mask="url(#lz)">
+          <path d="m32.662,22.332c2.243-.857,4.006-1.687,3.937-1.854-.069-.167-1.944.393-4.187,1.251-2.244.857-4.006,1.687-3.937,1.854.069.167,1.944-.393,4.187-1.251Z" fill="url(#mb)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="md" x="28.473" y="20.449" width="8.128" height="3.163" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="mf" x="28.473" y="-8218.863" width="8.128" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="me" data-name="mask-129" x="28.473" y="-8218.863" width="8.128" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="mg" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="223.107" cy="203.513" fx="223.107" fy="203.513" r="3.374" gradientTransform="translate(-220.768 95.741) rotate(67.517) scale(.097 -1.289) skewX(20.014)" xlink:href="#al"/>
+    <mask id="mc" data-name="mask-128" x="28.473" y="20.449" width="8.128" height="3.163" maskUnits="userSpaceOnUse">
+      <g filter="url(#md)">
+        <g mask="url(#me)">
+          <path d="m32.662,22.332c2.243-.857,4.006-1.687,3.937-1.854-.069-.167-1.944.393-4.187,1.251-2.244.857-4.006,1.687-3.937,1.854.069.167,1.944-.393,4.187-1.251Z" fill="url(#mg)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="mi" x="28.473" y="20.449" width="8.128" height="3.163" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="mk" x="28.473" y="-8218.863" width="8.128" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mj" data-name="mask-131" x="28.473" y="-8218.863" width="8.128" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="ml" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 9" cx="223.107" cy="203.513" fx="223.107" fy="203.513" r="3.374" gradientTransform="translate(-220.768 95.741) rotate(67.517) scale(.097 -1.289) skewX(20.014)" xlink:href="#al"/>
+    <mask id="mh" data-name="mask-130" x="28.473" y="20.449" width="8.128" height="3.163" maskUnits="userSpaceOnUse">
+      <g filter="url(#mi)">
+        <g mask="url(#mj)">
+          <path d="m32.662,22.332c2.243-.857,4.006-1.687,3.937-1.854-.069-.167-1.944.393-4.187,1.251-2.244.857-4.006,1.687-3.937,1.854.069.167,1.944-.393,4.187-1.251Z" fill="url(#ml)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="mm" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 62" cx="223.107" cy="203.513" fx="223.107" fy="203.513" r="3.374" gradientTransform="translate(-220.768 95.741) rotate(67.517) scale(.097 -1.289) skewX(20.014)" xlink:href="#ay"/>
+    <filter id="mo" x="29.993" y="19.471" width="4.921" height="4.921" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="mq" x="29.993" y="-8218.863" width="4.921" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mp" data-name="mask-133" x="29.993" y="-8218.863" width="4.921" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="mr" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 110" cx="32.427" cy="21.904" fx="32.427" fy="21.904" r="2.513" gradientTransform="translate(46.341 -14.693) rotate(76.717)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".282" stop-color="#bababa"/>
+      <stop offset=".933" stop-color="#111"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <mask id="mn" data-name="mask-132" x="29.993" y="19.471" width="4.921" height="4.921" maskUnits="userSpaceOnUse">
+      <g filter="url(#mo)">
+        <g mask="url(#mp)">
+          <circle cx="32.453" cy="21.931" r="2.46" transform="translate(3.653 48.477) rotate(-76.717)" fill="url(#mr)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="ms" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 10" cx="32.427" cy="21.904" fx="32.427" fy="21.904" r="2.513" gradientTransform="translate(46.341 -14.693) rotate(76.717)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bcbec0"/>
+      <stop offset=".417" stop-color="#777b7c"/>
+      <stop offset="1" stop-color="#131819"/>
+    </radialGradient>
+    <filter id="mu" x="18.682" y="27.856" width="2.094" height="2.094" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="mw" x="18.682" y="-8218.863" width="2.094" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mv" data-name="mask-135" x="18.682" y="-8218.863" width="2.094" height="32766" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="mx" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 109" cx="19.729" cy="28.903" fx="19.729" fy="28.903" r="1.047" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".566" stop-color="#fff"/>
+      <stop offset=".569" stop-color="#f5f5f5"/>
+      <stop offset=".587" stop-color="#c7c7c7"/>
+      <stop offset=".607" stop-color="#9c9c9c"/>
+      <stop offset=".628" stop-color="#777"/>
+      <stop offset=".651" stop-color="#565656"/>
+      <stop offset=".676" stop-color="#3b3b3b"/>
+      <stop offset=".705" stop-color="#252525"/>
+      <stop offset=".739" stop-color="#141414"/>
+      <stop offset=".78" stop-color="#080808"/>
+      <stop offset=".838" stop-color="#010101"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <mask id="mt" data-name="mask-134" x="18.682" y="27.856" width="2.094" height="2.094" maskUnits="userSpaceOnUse">
+      <g filter="url(#mu)">
+        <g mask="url(#mv)">
+          <path d="m20.776,28.903c0,.578-.469,1.047-1.047,1.047s-1.047-.469-1.047-1.047.469-1.047,1.047-1.047,1.047.469,1.047,1.047Z" fill="url(#mx)" mix-blend-mode="multiply"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="my" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 86" cx="19.729" cy="28.903" fx="19.729" fy="28.903" r="1.047" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00aeef"/>
+      <stop offset=".566" stop-color="#fff"/>
+      <stop offset=".581" stop-color="#d8d9d9"/>
+      <stop offset=".6" stop-color="#afb1b1"/>
+      <stop offset=".622" stop-color="#8a8c8d"/>
+      <stop offset=".645" stop-color="#696c6d"/>
+      <stop offset=".671" stop-color="#4e5252"/>
+      <stop offset=".7" stop-color="#383c3d"/>
+      <stop offset=".734" stop-color="#272c2c"/>
+      <stop offset=".777" stop-color="#1b2021"/>
+      <stop offset=".836" stop-color="#14191a"/>
+      <stop offset="1" stop-color="#131819"/>
+    </radialGradient>
+  </defs>
+  <g isolation="isolate">
+    <g id="b" data-name="Layer 2">
+      <g id="c" data-name="—ÎÓÈ_1">
+        <g>
+          <g>
+            <g>
+              <g mask="url(#d)">
+                <g mask="url(#i)">
+                  <g mask="url(#m)">
+                    <path d="m31.674,19.41c-13.559,8.124-24.008,15.616-23.339,16.733.669,1.118,12.204-4.561,25.762-12.685,13.559-8.124,24.008-15.615,23.339-16.733-.669-1.118-12.204,4.561-25.762,12.685Z" fill="url(#q)" mix-blend-mode="color-dodge"/>
+                  </g>
+                </g>
+              </g>
+              <g mask="url(#r)">
+                <g mask="url(#w)">
+                  <g mask="url(#ab)">
+                    <path d="m28.386,20.954c-2.708,12.117-3.158,22.391-1.007,22.948,2.152.557,6.091-8.814,8.799-20.931C38.885,10.855,39.336.581,37.184.024c-2.152-.557-6.091,8.814-8.799,20.931Z" fill="url(#ag)" mix-blend-mode="color-dodge"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g>
+              <g mix-blend-mode="color-dodge">
+                <g mask="url(#ah)">
+                  <g mask="url(#am)">
+                    <g mask="url(#aq)">
+                      <g mask="url(#au)">
+                        <path d="m32.518,21.906c-.207,2.359-.277,4.28-.154,4.291.122.011.389-1.893.597-4.252.207-2.359.276-4.28.154-4.291-.122-.011-.389,1.893-.597,4.252Z" fill="url(#ay)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g mask="url(#az)">
+                  <g mask="url(#be)">
+                    <g mask="url(#bj)">
+                      <g mask="url(#bo)">
+                        <path d="m32.708,22.274c2.426.214,4.401.291,4.412.172.01-.119-1.948-.388-4.374-.602-2.426-.214-4.401-.291-4.412-.172-.01.119,1.948.388,4.374.602Z" fill="url(#bt)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g mask="url(#bu)">
+                  <g mask="url(#bz)">
+                    <g mask="url(#ce)">
+                      <g mask="url(#cj)">
+                        <path d="m32.428,22.345c1.569,1.819,2.986,3.176,3.166,3.029s-.946-1.74-2.515-3.559c-1.569-1.819-2.986-3.176-3.166-3.029-.18.146.946,1.74,2.515,3.559Z" fill="url(#co)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g mask="url(#cp)">
+                  <g mask="url(#cu)">
+                    <g mask="url(#cz)">
+                      <g mask="url(#de)">
+                        <path d="m32.955,22.313c1.862-1.517,3.276-2.857,3.158-2.994-.118-.137-1.723.982-3.585,2.499-1.862,1.517-3.276,2.857-3.158,2.994.118.137,1.723-.982,3.585-2.499Z" fill="url(#dj)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g clip-path="url(#dk)">
+                <g mix-blend-mode="color-dodge">
+                  <g mask="url(#dl)">
+                    <g mask="url(#dq)">
+                      <g mask="url(#dv)">
+                        <path d="m31.869,21.689c.533,3.887,1.127,7.015,1.328,6.988.201-.027-.067-3.201-.6-7.087-.533-3.887-1.127-7.015-1.328-6.988-.201.028.067,3.201.6,7.088Z" fill="url(#ea)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g mask="url(#eb)">
+                    <g mask="url(#eg)">
+                      <g mask="url(#el)">
+                        <path d="m32.312,22.215c3.997-.546,7.216-1.148,7.189-1.344-.027-.196-3.289.089-7.286.635-3.997.546-7.216,1.148-7.189,1.344.027.196,3.289-.089,7.286-.635Z" fill="url(#eq)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g mask="url(#er)">
+                    <g mask="url(#ew)">
+                      <g mask="url(#fb)">
+                        <path d="m31.885,22.431c3.203,2.362,5.991,4.032,6.227,3.729s-2.168-2.462-5.372-4.824c-3.203-2.362-5.991-4.032-6.227-3.729-.236.302,2.168,2.462,5.372,4.824Z" fill="url(#fg)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g mask="url(#fh)">
+                    <g mask="url(#fm)">
+                      <g mask="url(#fr)">
+                        <path d="m32.724,22.187c2.45-3.135,4.241-5.82,4.001-5.997-.24-.177-2.421,2.22-4.871,5.355-2.45,3.135-4.241,5.82-4.001,5.997.24.177,2.421-2.22,4.871-5.355Z" fill="url(#fw)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g mix-blend-mode="color-dodge">
+                  <g mask="url(#fx)">
+                    <g mask="url(#gc)">
+                      <g mask="url(#gh)">
+                        <path d="m31.913,21.893c1.977,3.389,3.722,6.053,3.897,5.95.175-.102-1.285-2.932-3.261-6.321-1.977-3.389-3.722-6.053-3.897-5.951-.175.102,1.285,2.932,3.262,6.321Z" fill="url(#gm)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g mask="url(#gn)">
+                    <g mask="url(#gs)">
+                      <g mask="url(#gx)">
+                        <path d="m32.523,22.21c3.485-2.032,6.23-3.818,6.131-3.988-.1-.171-3.006,1.338-6.491,3.37-3.485,2.032-6.23,3.818-6.131,3.988.099.171,3.005-1.338,6.491-3.37Z" fill="url(#hc)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g mask="url(#hd)">
+                    <g mask="url(#hi)">
+                      <g mask="url(#hn)">
+                        <path d="m32.212,22.573c3.862.959,7.077,1.437,7.18,1.068.103-.37-2.945-1.447-6.807-2.407-3.862-.959-7.077-1.437-7.18-1.067-.103.37,2.945,1.447,6.807,2.407Z" fill="url(#hs)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g mask="url(#ht)">
+                    <g mask="url(#hy)">
+                      <g mask="url(#id)">
+                        <path d="m32.894,22.027c1.067-3.833,1.696-6.999,1.407-7.07-.29-.072-1.39,2.977-2.456,6.81-1.067,3.833-1.696,6.999-1.407,7.07.29.072,1.39-2.977,2.456-6.81Z" fill="url(#ii)" mix-blend-mode="color-dodge"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g mask="url(#ij)">
+                <circle cx="32.562" cy="21.954" r="4.434" transform="translate(5.551 50.461) rotate(-80.532)" fill="url(#io)" mix-blend-mode="color-dodge" opacity=".3"/>
+              </g>
+              <g mask="url(#ip)">
+                <circle cx="31.555" cy="21.93" r="12.135" fill="url(#iu)" mix-blend-mode="color-dodge" opacity=".1"/>
+              </g>
+              <g mask="url(#iv)">
+                <circle cx="33.945" cy="20.84" r="12.135" fill="url(#ja)" mix-blend-mode="color-dodge" opacity=".26"/>
+              </g>
+              <g mask="url(#jb)">
+                <circle cx="12.135" cy="33.863" r="12.135" transform="translate(-23.235 40.417) rotate(-80.783)" fill="url(#jg)" mix-blend-mode="color-dodge" opacity=".2"/>
+              </g>
+              <rect x="24.037" y="15.385" width="22.317" height="14.866" fill="none"/>
+            </g>
+          </g>
+          <rect x="14.587" y="18.109" width="22.317" height="14.866" fill="none"/>
+          <g mix-blend-mode="color-dodge">
+            <g mask="url(#jh)">
+              <g mask="url(#jm)">
+                <g mask="url(#jr)">
+                  <g mask="url(#jw)">
+                    <path d="m32.375,21.808c-.936,2.175-1.603,3.978-1.491,4.027.113.049.963-1.676,1.898-3.851.936-2.175,1.603-3.978,1.491-4.027-.113-.048-.963,1.676-1.899,3.851Z" fill="url(#kb)" mix-blend-mode="color-dodge"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g mask="url(#kc)">
+              <g mask="url(#kh)">
+                <g mask="url(#km)">
+                  <g mask="url(#kr)">
+                    <path d="m32.44,22.217c2.237.963,4.088,1.655,4.136,1.545.047-.11-1.728-.979-3.965-1.942-2.237-.963-4.088-1.655-4.136-1.545-.047.109,1.728.979,3.965,1.942Z" fill="url(#kw)" mix-blend-mode="color-dodge"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g mask="url(#kx)">
+              <g mask="url(#lc)">
+                <g mask="url(#lh)">
+                  <g mask="url(#lm)">
+                    <path d="m32.152,22.196c.92,2.219,1.841,3.951,2.058,3.869.216-.083-.354-1.949-1.274-4.168-.92-2.219-1.841-3.951-2.058-3.869-.216.083.354,1.949,1.274,4.168Z" fill="url(#lr)" mix-blend-mode="color-dodge"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g mask="url(#ls)">
+              <g mask="url(#lx)">
+                <g mask="url(#mc)">
+                  <g mask="url(#mh)">
+                    <path d="m32.662,22.332c2.243-.857,4.006-1.687,3.937-1.854-.069-.167-1.944.393-4.187,1.251-2.244.857-4.006,1.687-3.937,1.854.069.167,1.944-.393,4.187-1.251Z" fill="url(#mm)" mix-blend-mode="color-dodge"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g mask="url(#mn)">
+            <circle cx="32.453" cy="21.931" r="2.46" transform="translate(3.653 48.477) rotate(-76.717)" fill="url(#ms)" mix-blend-mode="color-dodge" opacity=".76"/>
+          </g>
+          <circle cx="27.651" cy="24.335" r="1.501" fill="#fff" opacity=".1"/>
+          <circle cx="21.369" cy="27.893" r="1.501" fill="#fff" opacity=".1"/>
+          <circle cx="27.151" cy="24.724" r=".528" fill="#fff" opacity=".17"/>
+          <path d="m22.694,27.652c0,.425-.344.769-.769.769s-.769-.344-.769-.769.344-.769.769-.769.769.344.769.769Z" fill="#fff" opacity=".17"/>
+          <g mask="url(#mt)">
+            <path d="m20.776,28.903c0,.578-.469,1.047-1.047,1.047s-1.047-.469-1.047-1.047.469-1.047,1.047-1.047,1.047.469,1.047,1.047Z" fill="url(#my)" opacity=".17"/>
+          </g>
+          <circle cx="27.984" cy="24.224" r=".222" fill="#fff" opacity=".31"/>
+          <path d="m25.511,25.586c0,.113-.091.204-.204.204s-.204-.091-.204-.204.091-.204.204-.204.204.091.204.204Z" fill="#fff" opacity=".12"/>
+          <path d="m23.092,27.004c0,.113-.091.204-.204.204s-.204-.091-.204-.204.091-.204.204-.204.204.091.204.204Z" fill="#fff" opacity=".3"/>
+          <path d="m24.493,26.183c.027.05-.032.133-.131.187-.099.054-.201.057-.228.007-.027-.05.032-.133.131-.187.099-.054.201-.057.228-.007Z" fill="#fff" opacity=".34"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

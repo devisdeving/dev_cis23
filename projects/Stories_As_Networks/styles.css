@@ -16,6 +16,18 @@
     position: relative;
 }
 
+.flare {
+    mix-blend-mode: screen;
+    width: 30em;
+    height: auto;
+    position: relative;
+    transform-origin: top 500px;
+    display: block;
+    top: 50%;
+    left: 50%;
+}
+
+
 #rightColfive {
     background: radial-gradient(circle at bottom, #32437b, #314BA9, #030A1D);
     padding:12%;
@@ -53,6 +65,7 @@
 #leftColtwo {
     background: radial-gradient(circle at bottom, #c0cad1, #A4D6FF, #1C71D2);
     padding:12%;
+    overflow: hidden;
 }
 
 #rightColtwo {

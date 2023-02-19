@@ -24,19 +24,13 @@ body {
     overflow-x: hidden;
 }
 
-#index-body {
-    background: radial-gradient(circle at bottom, #81C3F8, #016AE4, #2254FF, #000B28, #57323c 90%, rgb(255, 165, 252));
+.header {
+    margin-top: -60em;
 }
-/* 
-@keyframes grad {
-    0% {
-        margin-top: 5em;
-    }
-    100% {
-        margin-top: 1em;
-     }
-} */
 
+#index-body {
+    background: radial-gradient(circle at bottom, #1677e5, #62ABFF);
+}
 
 .index-wrap {
     display: flex;
@@ -71,14 +65,14 @@ h1, h2 {
 }
 
 h1 {
-    animation: fadeInAnimation ease 4s;
+    /* animation: fadeInAnimation ease 4s;
     animation-iteration-count: 1;
-    animation-fill-mode: forwards;
+    animation-fill-mode: forwards; */
     line-height: 80%;
     letter-spacing: -0.02em;
 }
 
-@keyframes fadeInAnimation {
+/* @keyframes fadeInAnimation {
     0% {
         opacity: 0;
         margin-top: 1.1em;
@@ -87,7 +81,7 @@ h1 {
         opacity: 1;
         margin-top: 1em;
      }
-}
+} */
 
 h2 {
     margin-top: 0.2em;

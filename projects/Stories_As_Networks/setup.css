@@ -13,6 +13,10 @@
     src: url(https://drive.google.com/file/d/1BC1PORotnN8TKsDAXPihOKfqG2A5gjNP/view?usp=share_link);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0 auto;
     height: 100%;
@@ -21,7 +25,7 @@ body {
 }
 
 #index-body {
-    background: radial-gradient(circle at bottom, #81C3F8, #016AE4, #2254FF, #000B28, #a17984 95%, rgb(255, 165, 252));
+    background: radial-gradient(circle at bottom, #81C3F8, #016AE4, #2254FF, #000B28, #57323c 90%, rgb(255, 165, 252));
 }
 /* 
 @keyframes grad {

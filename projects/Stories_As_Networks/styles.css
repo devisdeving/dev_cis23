@@ -88,11 +88,12 @@
     transform-origin: center right 50px 50px;
     align-items: center;
     justify-content: center;
+    margin-left: 20em;
 }
 
-/* .flare img:nth-child(1) {
+.flare img:nth-child(1) {
     transform: rotate(110deg);
-} */
+}
 
 .flare img:nth-child(2) {
     width: 5em;

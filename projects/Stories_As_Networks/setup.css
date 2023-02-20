@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MD Nichrome Test';
-    src: url(https://drive.google.com/file/d/1z7hVjEXeGyPv0-n4iQJ-WZaCYHICcqYh/view?usp=share_link);
+    src: url(MDNichromeTest-Dark.woff2);
 }
 
 @font-face {
@@ -45,10 +45,11 @@ body {
     width: 50%;
     overflow: scroll;
     height: 100vh;
+    overflow-x: hidden;
 }
 
 .half-col {
-    width: 50%;
+    width: 60%;
     padding: 6% 12%;
 }
 
@@ -135,3 +136,18 @@ display: none;
     height: 10em;
     z-index: 3;
 }
+
+/* @media (min-width: 768px) {
+    h1, h2 {
+        font-family: 'MD Nichrome Test', "alverata";
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 7em;
+        line-height: 80%;
+        margin-top: 2em;
+    }
+
+    #index-body {
+        max-width: 768px;
+    }
+} */

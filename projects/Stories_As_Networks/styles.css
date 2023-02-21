@@ -62,10 +62,8 @@
 }
 
 #sixflex {
-    display:flex;
     background: radial-gradient(circle at bottom, #010613, #050F2C, #2a2d6c);
     padding:12%;
-    gap: 3em;
     overflow-y: hidden;
 }
 

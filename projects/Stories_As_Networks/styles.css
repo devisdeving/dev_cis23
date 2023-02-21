@@ -12,25 +12,25 @@
 
 #leftColfive {
     background: radial-gradient(circle at bottom, #251B5C, #273C8A, #263a83);
-    padding:12%;
+    padding:20%;
     position: relative;
 }
 
 #rightColfive {
     background: radial-gradient(circle at bottom, #32437b, #314BA9, #030A1D);
-    padding:12%;
+    padding:20%;
     position: relative;
 }
 
 #leftColfour {
     background: radial-gradient(circle at bottom, #273C8A, #844549);
-    padding:12%;
+    padding:20%;
     position: relative;
 }
 
 #rightColfour {
     background: radial-gradient(circle at bottom, #32437b, #314BA9);
-    padding:12%;
+    padding:20%;
     position: relative;
 }
 
@@ -41,24 +41,24 @@
 #leftColthree {
     /* background: radial-gradient(circle at bottom, #C86153 50%, #FF6E40, #FFC2AF, #0F7EFF, #62ABFF, #D5D1BC); */
     background: radial-gradient(circle at bottom, #C86153, #0F7EFF, #62ABFF);
-    padding:12%;
+    padding:20%;
 }
 
 #rightColthree {
     background: radial-gradient(circle at bottom, #ff8c5b, #7B76AC 50%, #32437b, #0A1A45);
-    padding:12%;
+    padding:20%;
     position: relative;
 }
 
 #leftColtwo {
     background: radial-gradient(circle at bottom, #c0cad1, #a7cdec, #1C71D2);
-    padding:12%;
+    padding:20%;
     overflow: hidden;
 }
 
 #rightColtwo {
     background: radial-gradient(circle at bottom, #A4D6FF, #6E9AE0, #6E9AE0, #6E9AE0, #e49eaa);
-    padding:12%;
+    padding:20%;
 }
 
 #sixflex {
@@ -119,7 +119,7 @@
     justify-content: center;
 }
 
-#flanime {
+.flanime {
     animation: flanime ease 6s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;

@@ -62,14 +62,13 @@ p {
 
 .flex-wrap {
     display:flex;
+    flex-direction: column;
     position: fixed;
 }
 
 .col {
-    width: 50%;
+    height: 50vh;
     overflow: scroll;
-    height: 100vh;
-    overflow-x: hidden;
 }
 
 .half-col {

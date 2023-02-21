@@ -134,6 +134,7 @@ display: none;
     
     .flex-wrap {
         display:flex;
+        flex-direction: row;
         position: fixed;
     }
     
@@ -148,8 +149,6 @@ display: none;
         width: 60%;
         padding: 6% 12%;
     }
-    
-    /* title and author name dont line up */
     
     h1, h2 {
         font-family: 'MD Nichrome Test', "alverata";

@@ -77,20 +77,6 @@
     margin-top: -51.5em;
 }
 
-.flare {
-    mix-blend-mode: screen;
-    display: flex;
-    flex-direction: column-reverse;
-    height: auto;
-    width: 30em;
-    position: relative;
-    margin-top: -20em;
-    transform-origin: center right 50px 50px;
-    align-items: center;
-    justify-content: center;
-    margin-left: 20em;
-}
-
 .flare img:nth-child(1) {
     transform: rotate(110deg);
 }
@@ -111,13 +97,26 @@
 .flare img:nth-child(5) {
     width: 100em;
     height: 10em;
-    transform: rotate(75deg);
+    transform: rotate(50deg);
 }
 
 .flare img:nth-child(7) {
     width: 15em;
     transform: rotate(50deg);
     margin-top: -5em;
+}
+
+.flare {
+    mix-blend-mode: screen;
+    display: flex;
+    flex-direction: column-reverse;
+    height: auto;
+    width: 10em;
+    position: relative;
+    margin-top: -20em;
+    transform-origin: center right 50px 50px;
+    align-items: center;
+    justify-content: center;
 }
 
 #flanime {
@@ -128,13 +127,14 @@
     display: flex;
     flex-direction: column;
     height: auto;
-    width: 30em;
+    width: 10em;
     position: relative;
-    margin-top: -20em;
+    margin-top: -5em;
     transform-origin: center right 50px 50px;
     align-items: center;
     justify-content: center;
-    margin-left: 60em;
+    margin-left: 10em;
+    margin-bottom: -18em;
 }
 
 @keyframes flanime {
@@ -142,7 +142,7 @@
         transform: rotate(15deg);
     }
     100% {
-        transform: rotate(-20deg);
+        transform: rotate(30deg);
     }
 }
 
@@ -364,8 +364,266 @@
     animation:move-background 150s linear infinite; 
   } */
 
-/* @media (min-width: 768px) {
-    .flex-wrap {
-        max-width: 100vw;
+@media (min-width: 960px) {
+    #leftColfive {
+        background: radial-gradient(circle at bottom, #251B5C, #273C8A, #263a83);
+        padding:12%;
+        position: relative;
     }
-} */
+    
+    #rightColfive {
+        background: radial-gradient(circle at bottom, #32437b, #314BA9, #030A1D);
+        padding:12%;
+        position: relative;
+    }
+    
+    #leftColfour {
+        background: radial-gradient(circle at bottom, #273C8A, #844549);
+        padding:12%;
+        position: relative;
+    }
+    
+    #rightColfour {
+        background: radial-gradient(circle at bottom, #32437b, #314BA9);
+        padding:12%;
+        position: relative;
+    }
+    
+    #leftColfourRed {
+        background: #273C8A;
+    }
+    
+    #leftColthree {
+        /* background: radial-gradient(circle at bottom, #C86153 50%, #FF6E40, #FFC2AF, #0F7EFF, #62ABFF, #D5D1BC); */
+        background: radial-gradient(circle at bottom, #C86153, #0F7EFF, #62ABFF);
+        padding:12%;
+    }
+    
+    #rightColthree {
+        background: radial-gradient(circle at bottom, #ff8c5b, #7B76AC 50%, #32437b, #0A1A45);
+        padding:12%;
+        position: relative;
+    }
+    
+    #leftColtwo {
+        background: radial-gradient(circle at bottom, #c0cad1, #a7cdec, #1C71D2);
+        padding:12%;
+        overflow: hidden;
+    }
+    
+    #rightColtwo {
+        background: radial-gradient(circle at bottom, #A4D6FF, #6E9AE0, #6E9AE0, #6E9AE0, #e49eaa);
+        padding:12%;
+    }
+    
+    #sixflex {
+        display:flex;
+        background: radial-gradient(circle at bottom, #010613, #050F2C, #2a2d6c);
+        padding:12%;
+        gap: 3em;
+        overflow-y: hidden;
+    }
+    
+    #sixbod {
+        background-color: #010613;
+    }
+    
+    #leftColtwo p:nth-child(2) {
+        margin-top: -51.5em;
+    }
+    
+    .flare img:nth-child(1) {
+        transform: rotate(110deg);
+    }
+    
+    .flare img:nth-child(2) {
+        width: 5em;
+    }
+    
+    .flare img:nth-child(3) {
+        width: 2em;
+    }
+    
+    .flare img:nth-child(4) {
+        width: 6em;
+        margin-top: 1em;
+    }
+    
+    .flare img:nth-child(5) {
+        width: 100em;
+        height: 10em;
+        transform: rotate(38deg);
+    }
+    
+    .flare img:nth-child(7) {
+        width: 15em;
+        transform: rotate(50deg);
+        margin-top: -5em;
+    }
+    
+    .flare {
+        mix-blend-mode: screen;
+        display: flex;
+        flex-direction: column-reverse;
+        height: auto;
+        width: 30em;
+        position: relative;
+        margin-top: -20em;
+        transform-origin: center right 50px 50px;
+        align-items: center;
+        justify-content: center;
+        margin-left: 60em;
+    }
+    
+    #flanime {
+        animation: flanime ease 6s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        mix-blend-mode: screen;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 30em;
+        position: relative;
+        margin-top: -20em;
+        transform-origin: center right 50px 50px;
+        align-items: center;
+        justify-content: center;
+        margin-left: 60em;
+    }
+    
+    @keyframes flanime {
+        0% {
+            transform: rotate(15deg);
+        }
+        100% {
+            transform: rotate(-20deg);
+        }
+    }
+    
+    #stars {
+        height: max-content;
+        width:2000px;
+        background: repeat;
+        background-size: 2000px 1000px;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        z-index: 3;
+    }
+    
+    #starz {
+        height: max-content;
+        width: 80%;
+        margin-left: 2em;
+        background: repeat;
+        background-size: 1000 1000px;
+        position: absolute;
+        bottom: 2;
+        z-index: 3;
+    }
+    
+    .clouds {
+        width:2000px;
+        background: repeat;
+        background-size: 2000px 1000px;
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    
+       -moz-animation:move-background 100s linear infinite;
+      -ms-animation:move-background 100s linear infinite;
+      -o-animation:move-background 100s linear infinite;
+      -webkit-animation:move-background 100s linear infinite;
+      animation:move-background 100s linear infinite; 
+    }
+    
+    @keyframes move-background {
+        from {
+              -webkit-transform: translate3d(0px, 0px, 0px);
+          }
+          to { 
+              -webkit-transform: translate3d(1000px, 0px, 0px);
+          }
+      }
+      @-webkit-keyframes move-background {
+        from {
+              -webkit-transform: translate3d(0px, 0px, 0px);
+          }
+          to { 
+              -webkit-transform: translate3d(1000px, 0px, 0px);
+          }
+      }
+      
+      @-moz-keyframes move-background {    
+          from {
+              -webkit-transform: translate3d(0px, 0px, 0px);
+          }
+          to { 
+              -webkit-transform: translate3d(1000px, 0px, 0px);
+          }
+      }
+      
+          @-webkit-keyframes move-background {
+          from {
+              -webkit-transform: translate3d(0px, 0px, 0px);
+          }
+          to { 
+              -webkit-transform: translate3d(1000px, 0px, 0px);
+          }
+      }
+    
+      .clouds-opp {
+        width:2000px;
+        background: repeat;
+        background-size: 2000px 1000px;
+        position: absolute;
+        right: 0;
+        margin-top: 0;
+        bottom: 3;
+        z-index: 0;
+    
+       -moz-animation:move-2 120s linear infinite;
+      -ms-animation:move-2 120s linear infinite;
+      -o-animation:move-2 120s linear infinite;
+      -webkit-animation:move-2 120s linear infinite;
+      animation:move-2 120s linear infinite; 
+    }
+    
+    @keyframes move-2 {
+        from {
+              -webkit-transform: translate3d(1000px, 0px, 0px);
+          }
+          to { 
+              -webkit-transform: translate3d(0px, 0px, 0px);
+          }
+      }
+      @-webkit-keyframes move-2 {
+        from {
+              -webkit-transform: translate3d(1000px, 0px, 0px);
+          }
+          to { 
+              -webkit-transform: translate3d(0px, 0px, 0px);
+          }
+      }
+      
+      @-moz-keyframes move-2 {    
+          from {
+              -webkit-transform: translate3d(1000px, 0px, 0px);
+          }
+          to { 
+              -webkit-transform: translate3d(0px, 0px, 0px);
+          }
+      }
+      
+          @-webkit-keyframes move-2 {
+          from {
+              -webkit-transform: translate3d(1000px, 0px, 0px);
+          }
+          to { 
+              -webkit-transform: translate3d(0px, 0px, 0px);
+          }
+      }
+}

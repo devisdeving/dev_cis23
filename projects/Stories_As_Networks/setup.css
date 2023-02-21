@@ -25,11 +25,35 @@ body {
 }
 
 .header {
-    margin-top: -60em;
+    margin-top: -10em;
+}
+
+
+h1, h2 {
+    font-family: 'MD Nichrome Test', "alverata";
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 3.5em;
+    line-height: 90%;
+}
+
+h1 {
+    line-height: 80%;
+    letter-spacing: -0.02em;
+}
+
+h2 {
+    margin: 2em auto;
+}
+
+p {
+    font-family: 'Beatrice Trial', 'DM Sans', sans-serif;
+    line-height: 180%;
 }
 
 #index-body {
     background: radial-gradient(circle at bottom, #1677e5, #62ABFF);
+    max-width: 320px;
 }
 
 .index-wrap {
@@ -49,48 +73,7 @@ body {
 }
 
 .half-col {
-    width: 60%;
-    padding: 6% 12%;
-}
-
-/* title and author name dont line up */
-
-h1, h2 {
-    font-family: 'MD Nichrome Test', "alverata";
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 15em;
-    line-height: 90%;
-    margin: 2em 0.5em;
-    margin-top: 1em;
-}
-
-h1 {
-    /* animation: fadeInAnimation ease 4s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards; */
-    line-height: 80%;
-    letter-spacing: -0.02em;
-}
-
-/* @keyframes fadeInAnimation {
-    0% {
-        opacity: 0;
-        margin-top: 1.1em;
-    }
-    100% {
-        opacity: 1;
-        margin-top: 1em;
-     }
-} */
-
-h2 {
-    margin-top: 0.2em;
-}
-
-p {
-    font-family: 'Beatrice Trial', 'DM Sans', sans-serif;
-    line-height: 180%;
+    width: 100%;
 }
 
 button {
@@ -137,17 +120,117 @@ display: none;
     z-index: 3;
 }
 
-/* @media (min-width: 768px) {
+@media (min-width: 960px) {
+    .header {
+        margin-top: -60em;
+    }
+    
+    #index-body {
+        background: radial-gradient(circle at bottom, #1677e5, #62ABFF);
+    }
+    
+    .index-wrap {
+        display: flex;
+    }
+    
+    .flex-wrap {
+        display:flex;
+        position: fixed;
+    }
+    
+    .col {
+        width: 50%;
+        overflow: scroll;
+        height: 100vh;
+        overflow-x: hidden;
+    }
+    
+    .half-col {
+        width: 60%;
+        padding: 6% 12%;
+    }
+    
+    /* title and author name dont line up */
+    
     h1, h2 {
         font-family: 'MD Nichrome Test', "alverata";
         text-transform: uppercase;
         font-weight: bold;
-        font-size: 7em;
+        font-size: 15em;
+        line-height: 90%;
+        margin: 2em 0.5em;
+        margin-top: 1em;
+    }
+    
+    h1 {
+        /* animation: fadeInAnimation ease 4s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards; */
         line-height: 80%;
-        margin-top: 2em;
+        letter-spacing: -0.02em;
     }
-
-    #index-body {
-        max-width: 768px;
+    
+    /* @keyframes fadeInAnimation {
+        0% {
+            opacity: 0;
+            margin-top: 1.1em;
+        }
+        100% {
+            opacity: 1;
+            margin-top: 1em;
+         }
+    } */
+    
+    h2 {
+        margin-top: 0.2em;
     }
-} */
+    
+    p {
+        font-family: 'Beatrice Trial', 'DM Sans', sans-serif;
+        line-height: 180%;
+    }
+    
+    button {
+        width: 250px;
+        max-width: 250px;
+        height: 250px;
+        max-height: 250px;
+        border-radius: 50%;
+        border: solid 4px;
+        font-family: 'SF Pro';
+        font-size: 3em;
+        background-color: transparent;
+        margin: 2em auto;
+        cursor: pointer;
+        color: #FFE8FF;
+        text-align: center;
+        margin-bottom: 1em;
+        z-index: 0;
+    }
+    
+    button:hover {
+        color: black;
+        border: none;
+        background-color: #FFE8FF;
+        transition: 750ms cubic-bezier(0.19, 1, 0.22, 1);
+    }
+    
+    ::-webkit-scrollbar {
+    display: none;
+    }
+    
+    .large-gap-div {
+        height: 30em;
+        z-index: 3;
+    }
+    
+    .medium-gap-div {
+        height: 20em;
+        z-index: 3;
+    }
+    
+    .small-gap-div {
+        height: 10em;
+        z-index: 3;
+    }
+}

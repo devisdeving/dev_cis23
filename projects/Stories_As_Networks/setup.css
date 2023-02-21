@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: 'MD Nichrome Test';
     src: url('MDNichromeTest-Dark.woff2') format('woff2');
 }
@@ -6,6 +6,21 @@
 @font-face {
     font-family: 'Beatrice Trial';
     src: url(https://drive.google.com/file/d/1BC1PORotnN8TKsDAXPihOKfqG2A5gjNP/view?usp=share_link);
+} */
+
+@font-face {
+    font-family: 'MDNichrome';
+    src:
+        local('MDNichromeTest-Dark'),
+        url('./Fonts/MDNichromeTest-Dark.woff2') format('woff2'),
+        url('./Fonts/MDNichromeTest-Dark.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Beatrice';
+    src:
+        local('BeatriceTRIAL-Regular'),
+        url('./Fonts/BeatriceTRIAL-Regular.otf') format('otf');
 }
 
 html {

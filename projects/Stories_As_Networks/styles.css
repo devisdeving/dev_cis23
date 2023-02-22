@@ -10,6 +10,21 @@
     position: relative;
 } */
 
+@font-face {
+    font-family: 'MDNichrome';
+    src:
+        local('MDNichromeTest-Dark'),
+        url('./Fonts/MDNichromeTest-Dark.woff2') format('woff2'),
+        url('./Fonts/MDNichromeTest-Dark.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Beatrice';
+    src:
+        local('BeatriceTRIAL-Regular'),
+        url('./Fonts/BeatriceTRIAL-Regular.otf') format('otf');
+}
+
 #leftColfive {
     background: radial-gradient(circle at bottom, #251B5C, #273C8A, #263a83);
     padding:20%;
@@ -363,6 +378,22 @@
   } */
 
 @media (min-width: 960px) {
+
+    @font-face {
+        font-family: 'MDNichrome';
+        src:
+            local('MDNichromeTest-Dark'),
+            url('./Fonts/MDNichromeTest-Dark.woff2') format('woff2'),
+            url('./Fonts/MDNichromeTest-Dark.otf') format('opentype');
+    }
+    
+    @font-face {
+        font-family: 'Beatrice';
+        src:
+            local('BeatriceTRIAL-Regular'),
+            url('./Fonts/BeatriceTRIAL-Regular.otf') format('otf');
+    }
+
     #leftColfive {
         background: radial-gradient(circle at bottom, #251B5C, #273C8A, #263a83);
         padding:12%;
@@ -427,7 +458,7 @@
     }
     
     #leftColtwo p:nth-child(2) {
-        margin-top: -51.5em;
+        margin-top: -43em;
     }
     
     .flare img:nth-child(1) {
@@ -470,10 +501,10 @@
         transform-origin: center right 50px 50px;
         align-items: center;
         justify-content: center;
-        margin-left: 60em;
+        margin-left: 20em;
     }
     
-    #flanime {
+    #pointer {
         animation: flanime ease 6s;
         animation-iteration-count: 1;
         animation-fill-mode: forwards;
@@ -487,7 +518,7 @@
         transform-origin: center right 50px 50px;
         align-items: center;
         justify-content: center;
-        margin-left: 60em;
+        margin-left: 12em;
     }
     
     @keyframes flanime {

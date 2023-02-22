@@ -236,4 +236,30 @@ display: none;
         height: 10em;
         z-index: 3;
     }
+
+    .flanime {
+        animation: flanime ease 6s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        mix-blend-mode: screen;
+        display: flex;
+        flex-direction: column-reverse;
+        height: auto;
+        width: 30em;
+        margin-top: -20em;
+        transform-origin: center right 50px 50px;
+        align-items: center;
+        justify-content: center;
+        margin-left: 12em;
+        position: relative;
+    }
+
+    @keyframes flanime {
+        0% {
+            transform: rotate(15deg);
+        }
+        100% {
+            transform: rotate(-20deg);
+        }
+    }
 }

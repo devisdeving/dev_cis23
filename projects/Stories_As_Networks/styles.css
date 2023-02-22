@@ -132,10 +132,10 @@
     justify-content: center;
 }
 
-.flanime {
-    animation: flanime ease 6s;
+.flanime, #pointer {
+    /* animation: flanime ease 6s;
     animation-iteration-count: 1;
-    animation-fill-mode: forwards;
+    animation-fill-mode: forwards; */
     mix-blend-mode: screen;
     display: flex;
     flex-direction: column;
@@ -481,7 +481,7 @@
     .flare img:nth-child(5) {
         width: 100em;
         height: 10em;
-        transform: rotate(38deg);
+        transform: rotate(72deg);
     }
     
     .flare img:nth-child(7) {
@@ -490,24 +490,7 @@
         margin-top: -5em;
     }
     
-    .flare {
-        mix-blend-mode: screen;
-        display: flex;
-        flex-direction: column-reverse;
-        height: auto;
-        width: 30em;
-        position: relative;
-        margin-top: -20em;
-        transform-origin: center right 50px 50px;
-        align-items: center;
-        justify-content: center;
-        margin-left: 20em;
-    }
-    
-    #pointer {
-        animation: flanime ease 6s;
-        animation-iteration-count: 1;
-        animation-fill-mode: forwards;
+    /* .flare, #pointer {
         mix-blend-mode: screen;
         display: flex;
         flex-direction: column;
@@ -518,7 +501,24 @@
         transform-origin: center right 50px 50px;
         align-items: center;
         justify-content: center;
+        margin-left: 20em;
+    } */
+    
+    .flanime, #pointer {
+        /* animation: flanime ease 6s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards; */
+        mix-blend-mode: screen;
+        display: flex;
+        flex-direction: column-reverse;
+        height: auto;
+        width: 30em;
+        margin-top: -20em;
+        transform-origin: center right 50px 50px;
+        align-items: center;
+        justify-content: center;
         margin-left: 12em;
+        position: relative;
     }
     
     @keyframes flanime {

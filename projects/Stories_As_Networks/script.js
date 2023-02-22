@@ -7,11 +7,10 @@ centerX = pointerBox.left + parseInt(centers[0]) - window.pageXOffset;
 
 window.addEventListener("mousemove", function(e) {
     var radians = Math.atan2(e.clientX - centerX, e.clientY - centerY);
-    var degree = (radians * (180 / Math.PI) * 1) + (180, 270); 
+    var degree = (radians * (180 / Math.PI) * 1) + 180; 
     pointer.style.transform = "rotate("+degree+"deg)", {duration: 3000};
     // pointer.animate({
-    //     left: `${clientX}deg`,
+    //     left:`${clientX}deg`,
     //     top: `${clientY}deg`
     // }, {duration: 3000, fill: "forwards"})
 });
-

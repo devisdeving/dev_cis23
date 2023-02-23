@@ -3,35 +3,26 @@ html {
     cursor: none;
 } */
 
-body {
-    font-family: 'NeueMontreal-Regular', 'SF Pro';
-    display: flex;
-    flex-direction: column;
-    margin: 2em 4em;
-    margin: 1em 2em;
-}
-
-/* @keyframes bg {
-    0% {
-        background-color: rgb(0, 85, 60);
-    }
-
-    25% {
-        background-color: rgb(187, 218, 12);
-    }
-
-    50% {
-        background-color: rgb(0, 132, 255);
-    }
-
-    100% {
-        background-color: rgb(247, 0, 255);
-    }
-} */
 
 @font-face {
-    font-family: 'NeueMontreal-Regular';
-    src: url(https://drive.google.com/file/d/1rmmKZ30FghQjsv8Fh2uw2rnv7i08ISQ4/view?usp=share_link);
+    font-family: 'NeueMontreal';
+    src:
+        local('NeueMontreal-Regular'),
+        url('./Fonts/NeueMontreal-Regular.woff2') format('woff2'),
+}
+
+:root {
+    --ff: 'NeueMontreal-Regular';
+}
+
+body {
+    font-family: var(--ff), 'NeueMontreal-Regular', 'SF Pro', sans-serif;
+    display: flex;
+    font-weight: 400;
+    flex-direction: column;
+    letter-spacing: -0.1em;
+    margin: 2em 4em;
+    margin: 1em 2em;
 }
 
 h1 {

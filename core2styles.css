@@ -3,10 +3,23 @@ html {
     cursor: none;
 } */
 
+@font-face {
+    font-family: 'NeueMontreal';
+    src:
+        local('NeueMontreal-Regular'),
+        url('./Fonts/NeueMontreal-Regular.woff2') format('woff2'),
+}
+
+:root {
+    --ff: "ff-basic-gothic-pro";
+}
+
 body {
-    font-family: 'NeueMontreal-Regular', 'SF Pro';
+    font-family: var(--ff), 'NeueMontreal-Regular', 'SF Pro';
     display: flex;
+    font-weight: 400;
     flex-direction: column;
+    letter-spacing: -0.1em;
     margin: 2em 4em;
     margin: 1em 2em;
 }

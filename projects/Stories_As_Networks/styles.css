@@ -458,7 +458,7 @@
     }
     
     #leftColtwo p:nth-child(2) {
-        margin-top: -43em;
+        margin-top: -47em;
     }
     
     .flare img:nth-child(1) {
@@ -480,6 +480,7 @@
     
     .flare img:nth-child(5) {
         width: 100em;
+        opacity: 50%;
         height: 10em;
         transform: rotate(72deg);
     }
@@ -510,10 +511,10 @@
         animation-fill-mode: forwards; */
         mix-blend-mode: screen;
         display: flex;
-        flex-direction: column-reverse;
+        flex-direction: column;
         height: auto;
         width: 30em;
-        margin-top: -20em;
+        margin-top: -15em;
         transform-origin: center right 50px 50px;
         align-items: center;
         justify-content: center;

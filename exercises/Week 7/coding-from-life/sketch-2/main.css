@@ -24,8 +24,7 @@ body {
   background-color: antiquewhite;
   height: 125vh;
   width: 125vw;
-  margin-top: -40%;
-  margin-left: -20%;
+top: -140%;
   transform: rotate3d(5, 2, -5, 70deg);
   position: relative;
   z-index: 1;
@@ -33,14 +32,64 @@ body {
 
 .pot {
   background-color: rgb(75, 56, 37);
-  height: 5em;
-  width: 5em;
+  height: 30%;
+  width: 20%;
+  position: relative;
+  top: 30%;
+  left: 20%;
+  border-radius: 50%;
+  z-index: 2;
+}
+
+.capple {
+  background-color: rgb(228, 228, 177);
+  height: 20%;
+  width: 15%;
   position: relative;
   z-index: 2;
 }
 
 .vase {
-  height: 30%;
-  width: 10%;
-  background-color: rgb(195, 226, 195);
+  height: 20%;
+  width: 30%;
+  background: repeating-linear-gradient(
+    rgb(83, 117, 46),
+    white 9px,
+    transparent 9px,
+    transparent 3px
+  );
+  position: relative;
+  top: -70%;
+  left: 30%;
+  transform: rotate(90deg);
+  z-index: 2;
 }
+
+.pap {
+  background: repeating-linear-gradient(
+    rgb(83, 117, 46),
+    rgb(242, 204, 134) 12px,
+    transparent 9px,
+    transparent 3px
+  );
+  height: 20%;
+  width: 20%;
+  position: relative;
+  z-index: 3;
+  left: 20%;
+  top: 30%;
+  transform: rotate(-10deg);
+  border-radius: 60%  80%  80%  50%;
+}
+
+.pumpkin {
+  background-color: rgb(255, 107, 49);
+  height: 40%;
+  width: 25%;
+  position: relative;
+  left: 50%;
+  z-index: 3;
+  transform: rotate(30deg);
+  border-radius: 10%  50%  50%  50%;
+}
+

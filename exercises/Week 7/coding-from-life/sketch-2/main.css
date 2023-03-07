@@ -1,0 +1,46 @@
+/*
+  Coding from Life – Sketch 2: fluid layout
+
+  For sketch 2 you'll be positioning elements relative to a fluid container. This
+  means you'll need to use percentages when positioning and sizingelements within
+  your frame.
+*/
+
+
+body {
+  background-color: black;
+}
+
+.frame {
+  width: 95vw;
+  height: 57vw;
+  background: white;
+  margin: 2.5vw auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.table {
+  background-color: antiquewhite;
+  height: 125vh;
+  width: 125vw;
+  margin-top: -40%;
+  margin-left: -20%;
+  transform: rotate3d(5, 2, -5, 70deg);
+  position: relative;
+  z-index: 1;
+}
+
+.pot {
+  background-color: rgb(75, 56, 37);
+  height: 5em;
+  width: 5em;
+  position: relative;
+  z-index: 2;
+}
+
+.vase {
+  height: 30%;
+  width: 10%;
+  background-color: rgb(195, 226, 195);
+}

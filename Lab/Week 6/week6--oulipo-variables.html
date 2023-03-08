@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="">
   </head>
   <script>
+    function refreshPage(){
+    window.location.reload();
+} 
     // We haven't covered functions yet, so just use this for now.
     // Example usage: `randomItemFromArray(pastParticiples)`
     function randomItemFromArray(arr) {
@@ -26,7 +29,7 @@
 
     // 2a
     // Declare a variable called `nouns`. Initialize it with an Array of strings that are nouns.
-    let nouns = ['car', 'money', 'key', 'apple', 'Agra'];
+    let nouns = ['car', 'money', 'key', 'apple', 'tree'];
 
     // 2b
     // Next, declare variables `noun1`, `noun2` and `noun3`. Initialize them all using `randomItemFromArray(nouns)`.
@@ -67,6 +70,7 @@
     // If you have declared and initialized all the variables correctly, you should see a new poem.
     // Open up the Chrome developer console (via Option+Command+I), navigate to the "Console" tab,
     // and you should see your new output.
+    document.write(poem);
     console.log(poem);
 
     const poemOriginal = `
@@ -86,5 +90,34 @@
       and so cold
     `;
   </script>
-  <body></body>
+  <style>
+   html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 3em;
+    padding: 3em;
+    -webkit-text-fill-color: aliceblue;
+    background-color: rgb(255, 238, 0);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    letter-spacing: -0.03em;
+   }
+
+   button {
+    border: solid 1px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: left;
+    padding: 1em;
+    border-radius: 4em;
+    margin: 2em;
+    -webkit-text-fill-color: aliceblue;
+    -webkit-text-stroke-color: none;
+    -webkit-text-stroke-width: 0;
+    background-color: black;
+    letter-spacing: -0.03em;
+   }
+  </style>
+  <body>
+    <button type="submit" onClick="refreshPage()">click me hehehehe</button>
+  </body>
 </html>

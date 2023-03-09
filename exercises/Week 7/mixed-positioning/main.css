@@ -32,23 +32,8 @@ img {
 .lisa-text {
   max-width:20vw;
   top:0;
-/*  background-color:pink;*/
-}
-.lisa-text:nth-child(1) {
-/*  background-color:blue;*/
 }
 
-.lisa-text:nth-child(2) {
-/*  background-color:red;*/
-}
-
-.lisa-text:nth-child(3) {
-/*  background-color:cyan;*/
-}
-
-.lisa-text:nth-child(4) {
-/*  background-color:magenta;*/
-}
 
 .lisa img {
   position:absolute;
@@ -58,53 +43,73 @@ img {
 .love {
   left: 0;
   top:50%;
-/*  border:2px solid pink;*/
+ animation: rotater 2s ease-in-out infinite;
 }
+
+@keyframes rotater {
+  0%   {
+    transform: rotate(0turn);
+  }
+  100% {
+    transform: rotate(1turn);
+  }
+}
+
+
 
 .smileyplanet {
   left:20%;
   top:60%;
-/*  border:2px solid blue;*/
+  animation: rotater-c 6s linear infinite;
+}
+
+@keyframes rotater-c {
+  0%   {
+    transform: rotate(0turn);
+  }
+  100% {
+    transform: rotate(-1turn);
+  }
 }
 
 .sphere {
   left:32%;
   top:35%;
-/*  border:2px solid red;*/
+  animation: rotater 2s linear infinite;
 
 }
 
 .heart {
   top:50%;
   left:50%;
-/*  border:2px solid green;*/
+  display: none;
 }
 
 .flower {
   top: 35%;
   left:60%;
-/*  border:2px solid purple;*/
+  animation: rotater-c 6s linear infinite;
 
 }
 
 .ufo {
   top: 45%;
   left:75%;
-/*  border:2px solid magenta;*/
+  animation: rotater 12s linear infinite;
 
 }
 
 .aliencar {
   left:50%;
   top:50%;
-/*  border:2px solid cyan;*/
+  animation: rotater-c 6s linear infinite;
 }
 
 
 .burst {
   left:92%;
   top:55%;
-/*  border:2px solid navy;*/
+  animation: rotater-c 6s linear infinite;
 }
 
 
@@ -126,6 +131,20 @@ h1 {
 
 .love {
   top:10%;
+  animation-name: rotater 1s;
+  /* animation: 4s linear infinite;
+  animation-iteration-count: infinite; */
+}
+
+
+
+@keyframes rotater {
+  0%   {
+    transform: rotate(0turn);
+  }
+  100% {
+    transform: rotate(1turn);
+  }
 }
 
 .smileyplanet {

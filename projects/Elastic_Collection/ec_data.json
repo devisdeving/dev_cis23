@@ -1,0 +1,392 @@
+[
+  {
+    "Place Name": "Hiral Supermarket",
+    "Type": "General Store",
+    "Year Established": 2003,
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Fourth Cross",
+    "Hours": "Mon - Sun\n8:30 am - 10:00 pm",
+    "Images": "shop-1.png",
+    "Serial No": 1
+  },
+  {
+    "Place Name": "Super Fresh",
+    "Type": "Groceries",
+    "Year Established": 2013,
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Fourth Cross",
+    "Hours": "Mon - Sun\n8:30 am - 10:00 pm",
+    "Images": "shop-2.png",
+    "Serial No": 2
+  },
+  {
+    "Place Name": "Medi House",
+    "Type": "Pharmacy",
+    "Year Established": 2020,
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Fourth Cross",
+    "Hours": "Mon - Sun\nOpen 24 Hrs",
+    "Images": "shop-3.png",
+    "Serial No": 3
+  },
+  {
+    "Place Name": "Hangout",
+    "Type": "Bakery",
+    "Year Established": 2000,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Fourth Cross",
+    "Hours": "Mon - Sun\n7:00 am - 12:00 am",
+    "Images": "shop-4.png",
+    "Serial No": 4
+  },
+  {
+    "Place Name": "Arome",
+    "Type": "Dry Fruits",
+    "Year Established": 2018,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Fourth Cross",
+    "Hours": "Mon - Sun\n11:00 am - 9:00 pm",
+    "Images": "shop-5.png",
+    "Serial No": 5
+  },
+  {
+    "Place Name": "Harsha & Rakesh",
+    "Type": "Salon",
+    "Year Established": 2007,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Fourth Cross",
+    "Hours": "Mon - Sun\n10:00 am - 9:00 pm",
+    "Images": "shop-6.png",
+    "Serial No": 6
+  },
+  {
+    "Place Name": "Society Stores",
+    "Type": "General Store",
+    "Year Established": 2014,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Fourth Cross",
+    "Hours": "Mon - Sun\n9:45 am - 10:00 pm",
+    "Images": "shop-7.png",
+    "Serial No": 7
+  },
+  {
+    "Place Name": "HP World",
+    "Type": "Electronics",
+    "Year Established": "?",
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Fourth Cross",
+    "Hours": "Mon - Sun\n11:00 am - 10:00 pm",
+    "Images": "shop-8.png",
+    "Serial No": 8
+  },
+  {
+    "Place Name": "Theobroma",
+    "Type": "Bakery",
+    "Year Established": "?",
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Fourth Cross",
+    "Hours": "Mon - Sun\n9:00 am - 11:00 pm",
+    "Images": "shop-9.png",
+    "Serial No": 9
+  },
+  {
+    "Place Name": "Harish Plus",
+    "Type": "Toys & Stationery",
+    "Year Established": "",
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Third Cross",
+    "Hours": "Mon - Sun\n10:00 am - 10:00 pm",
+    "Images": "shop-10.png",
+    "Serial No": 10
+  },
+  {
+    "Place Name": "Sweet Home",
+    "Type": "General Store",
+    "Year Established": 2001,
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Third Cross",
+    "Hours": "Mon - Sun\n9:00 am - 10:00 pm",
+    "Images": "shop-11.png",
+    "Serial No": 11
+  },
+  {
+    "Place Name": "Fantasy Optics",
+    "Type": "Opticians",
+    "Year Established": 1999,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Third Cross",
+    "Hours": "Mon - Sun\n11:00 am - 10:00 pm",
+    "Images": "shop-12.png",
+    "Serial No": 12
+  },
+  {
+    "Place Name": "High Point",
+    "Type": "Restaurant",
+    "Year Established": 1987,
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Third Cross",
+    "Hours": "Mon - Sun\n9:00 am - 11:30 pm",
+    "Images": "shop-13.png",
+    "Serial No": 13
+  },
+  {
+    "Place Name": "Bhagwan Collection",
+    "Type": "Tailors",
+    "Year Established": "?",
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Third Cross",
+    "Hours": "Mon - Sun\n11:00 am - 9:00 pm",
+    "Images": "shop-14.png",
+    "Serial No": 14
+  },
+  {
+    "Place Name": "MINISO",
+    "Type": "Stationery",
+    "Year Established": 2019,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Third Cross",
+    "Hours": "Mon - Thu\n9:30 am - 9:30 pm\nFri - Sun\n10:30 am - 10:00 pm",
+    "Images": "shop-15.png",
+    "Serial No": 15
+  },
+  {
+    "Place Name": "Monsoon Chaat",
+    "Type": "Confectionary",
+    "Year Established": 1989,
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Second Cross",
+    "Hours": "Mon - Sun\n8:30 am - 12:00 am",
+    "Images": "shop-16.png",
+    "Serial No": 16
+  },
+  {
+    "Place Name": "Wellness Forever",
+    "Type": "Pharmacy",
+    "Year Established": 2008,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Second Cross",
+    "Hours": "Mon - Sun\nOpen 24 Hrs",
+    "Images": "shop-17.png",
+    "Serial No": 17
+  },
+  {
+    "Place Name": "Breadkraft",
+    "Type": "Confectionary & Groceries",
+    "Year Established": "?",
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Second Cross",
+    "Hours": "Mon - Sun\n9:30 am - 11:00 pm",
+    "Images": "shop-18.png",
+    "Serial No": 18
+  },
+  {
+    "Place Name": "Harish Collection",
+    "Type": "Toys & Stationery",
+    "Year Established": 1992,
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Second Cross",
+    "Hours": "Mon - Sun\n10:30 am - 10:30 pm",
+    "Images": "shop-19.png",
+    "Serial No": 19
+  },
+  {
+    "Place Name": "Cover Cafe",
+    "Type": "Electronics",
+    "Year Established": 2020,
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Second Cross",
+    "Hours": "Mon - Sun\n10:30 am - 10:30 pm",
+    "Images": "shop-20.png",
+    "Serial No": 20
+  },
+  {
+    "Place Name": "Baskin Robins",
+    "Type": "Confectionary",
+    "Year Established": 2004,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Second Cross",
+    "Hours": "Mon - Sun\nOpen 24 Hrs",
+    "Images": "shop-21.png",
+    "Serial No": 21
+  },
+  {
+    "Place Name": "Warden Bakery",
+    "Type": "Confectionary & Groceries",
+    "Year Established": 1979,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Second Cross",
+    "Hours": "Mon - Sun\n9:00 am - 9:00 pm",
+    "Images": "shop-22.png",
+    "Serial No": 22
+  },
+  {
+    "Place Name": "Naturals Ice Cream",
+    "Type": "Confectionary",
+    "Year Established": 1994,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Second Cross",
+    "Hours": "Mon - Sun\n9:30 am - 1:00 am",
+    "Images": "shop-23.png",
+    "Serial No": 23
+  },
+  {
+    "Place Name": "Food Inn",
+    "Type": "Restaurant",
+    "Year Established": 1987,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "First Cross",
+    "Hours": "Mon - Sun\n12:00 pm - 1:30 am",
+    "Images": "shop-24.png",
+    "Serial No": 24
+  },
+  {
+    "Place Name": "Citibank ATM",
+    "Type": "Bank",
+    "Year Established": "?",
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "First Cross",
+    "Hours": "Mon - Sun\nOpen 24 Hrs",
+    "Images": "shop-25.png",
+    "Serial No": 25
+  },
+  {
+    "Place Name": "DCB Bank",
+    "Type": "Bank",
+    "Year Established": "?",
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "First Cross",
+    "Hours": "Mon - Fri\n1:30 am - 4:00 pm\nSat - Sun\nClosed - Closed",
+    "Images": "shop-26.png",
+    "Serial No": 26
+  },
+  {
+    "Place Name": "McDonald's",
+    "Type": "Restaurant",
+    "Year Established": 1997,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "First Cross",
+    "Hours": "Mon - Sun\n7:15 am - 12:45 am",
+    "Images": "shop-27.png",
+    "Serial No": 27
+  },
+  {
+    "Place Name": "Archies Gallery",
+    "Type": "Gifts & Cards",
+    "Year Established": 1998,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "First Cross",
+    "Hours": "Mon - Sun\n10:30 am - 9:30 pm",
+    "Images": "shop-28.png",
+    "Serial No": 28
+  },
+  {
+    "Place Name": "Airtel Gallery",
+    "Type": "Mobile Service Provider",
+    "Year Established": "?",
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "First Cross",
+    "Hours": "Mon\n12:00 am - 11:59 pm\nTue - Sun\nOpen 24 Hrs",
+    "Images": "shop-29.png",
+    "Serial No": 29
+  },
+  {
+    "Place Name": "Lemon",
+    "Type": "Salon",
+    "Year Established": 2006,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "First Cross",
+    "Hours": "Mon - Sun\n11:00 am - 9:00 pm",
+    "Images": "shop-30.png",
+    "Serial No": 30
+  },
+  {
+    "Place Name": "ICICI Bank",
+    "Type": "Bank",
+    "Year Established": "?",
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "First Cross",
+    "Hours": "Mon - Fri\n8:00 am - 4:00 pm\nSat\n9:00 am - 2:00 pm\nSun\nClosed - Closed",
+    "Images": "shop-31.png",
+    "Serial No": 31
+  },
+  {
+    "Place Name": "7th Heaven",
+    "Type": "Bakery",
+    "Year Established": 2014,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "First Cross",
+    "Hours": "Mon - Sun\n10:00 am - 9:00 pm",
+    "Images": "shop-32.png",
+    "Serial No": 32
+  },
+  {
+    "Place Name": "Belgian Waffle",
+    "Type": "Confectionary",
+    "Year Established": 2016,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "First Cross",
+    "Hours": "Mon - Sun\n10:00 am - 12:00 am",
+    "Images": "shop-33.png",
+    "Serial No": 33
+  },
+  {
+    "Place Name": "Eagle Hardware",
+    "Type": "Hardware Store",
+    "Year Established": 2000,
+    "Family Owned/Franchise": "Family Owned",
+    "Cross Lane": "Second Cross",
+    "Hours": "Mon - Sun\n9:00 am - 9:00 pm",
+    "Images": "shop-34.png",
+    "Serial No": 34
+  },
+  {
+    "Place Name": "Starbucks Coffee",
+    "Type": "Cafe",
+    "Year Established": 2017,
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Past Fourth Cross",
+    "Hours": "Mon - Sun\n6:00 am - 1:00 am",
+    "Images": "shop-35.png",
+    "Serial No": 35
+  },
+  {
+    "Place Name": "Enrich",
+    "Type": "Salon",
+    "Year Established": "?",
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Past Fourth Cross",
+    "Hours": "Mon - Fri\n11:00 am - 9:00 pm\nSat - Sun\n10:00 am - 9:00 pm",
+    "Images": "shop-36.png",
+    "Serial No": 36
+  },
+  {
+    "Place Name": "Kotak Mahindra Bank",
+    "Type": "Bank",
+    "Year Established": "?",
+    "Family Owned/Franchise": "Franchise",
+    "Cross Lane": "Past Fourth Cross",
+    "Hours": "Mon - Fri\n9:30 am - 4:30 pm\nSat\n9:30 am - 1:30 pm\nSun\nClosed - Closed",
+    "Images": "shop-37.png",
+    "Serial No": 37
+  },
+  {
+    "Place Name": "",
+    "Type": "",
+    "Year Established": "",
+    "Family Owned/Franchise": "",
+    "Cross Lane": "",
+    "Hours": "",
+    "Images": "",
+    "Serial No": ""
+  },
+  {
+    "Place Name": "https://www.google.com/maps/@19.1456302,72.8232567,3a,75y,157.53h,105.38t/data=!3m6!1e1!3m4!1s8DFSZOy8OdRvuziP28n3bQ!2e0!7i13312!8i6656",
+    "Type": "Data Points\n- Year Established\n- Family Owned/Franchise\n- Cash Only\n- Open till 9/10/11/24x7\n- Sort by Cross Lane",
+    "Year Established": "",
+    "Family Owned/Franchise": "",
+    "Cross Lane": "",
+    "Hours": "",
+    "Images": "",
+    "Serial No": ""
+  }
+]

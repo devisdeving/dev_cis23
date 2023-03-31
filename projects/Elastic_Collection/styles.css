@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'NeueMontreal-Regular';
+    src: url('fonts/NeueMontreal-Regular.woff2') format('woff2'),
+        url('NeueMontreal-Regular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root {
+    --font: 'NeueMontreal-Regular';
+    --size: 24px;
+}
+
+body {
+    font-family: var(--font);
+    margin: 2em;
+    font-size: var(--size);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+#menu {
+    border: solid 2px black;
+    background-color: white;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+}
+
+img {
+    width: 10em;
+}

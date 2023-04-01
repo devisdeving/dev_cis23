@@ -36,7 +36,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun\n7:00 am - 12:00 am",
-    "img": "../Shops/shop_4.png",
+    "img": "../Shops/shop_5.png",
     "srNo": 4
   },
   {
@@ -46,7 +46,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun\n11:00 am - 9:00 pm",
-    "img": "../Shops/shop_5.png",
+    "img": "../Shops/shop_7.png",
     "srNo": 5
   },
   {
@@ -56,7 +56,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun\n10:00 am - 9:00 pm",
-    "img": "../Shops/shop_6.png",
+    "img": "../Shops/shop_8.png",
     "srNo": 6
   },
   {
@@ -66,7 +66,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun\n9:45 am - 10:00 pm",
-    "img": "../Shops/shop_7.png",
+    "img": "../Shops/shop_9.png",
     "srNo": 7
   },
   {
@@ -76,7 +76,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun\n11:00 am - 10:00 pm",
-    "img": "../Shops/shop_8.png",
+    "img": "../Shops/shop_10.png",
     "srNo": 8
   },
   {
@@ -86,7 +86,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun\n9:00 am - 11:00 pm",
-    "img": "../Shops/shop_9.png",
+    "img": "../Shops/shop_12.png",
     "srNo": 9
   },
   {
@@ -96,7 +96,7 @@
     "ownership": "Family Owned",
     "crossLane": "Third Cross",
     "hours": "Mon - Sun\n10:00 am - 10:00 pm",
-    "img": "../Shops/shop_10.png",
+    "img": "../Shops/shop_13.png",
     "srNo": 10
   },
   {
@@ -106,7 +106,7 @@
     "ownership": "Family Owned",
     "crossLane": "Third Cross",
     "hours": "Mon - Sun\n9:00 am - 10:00 pm",
-    "img": "../Shops/shop_11.png",
+    "img": "../Shops/shop_14.png",
     "srNo": 11
   },
   {
@@ -116,7 +116,7 @@
     "ownership": "Franchise",
     "crossLane": "Third Cross",
     "hours": "Mon - Sun\n11:00 am - 10:00 pm",
-    "img": "../Shops/shop_12.png",
+    "img": "../Shops/shop_15.png",
     "srNo": 12
   },
   {
@@ -126,7 +126,7 @@
     "ownership": "Family Owned",
     "crossLane": "Third Cross",
     "hours": "Mon - Sun\n9:00 am - 11:30 pm",
-    "img": "../Shops/shop_13.png",
+    "img": "../Shops/shop_16.png",
     "srNo": 13
   },
   {
@@ -136,7 +136,7 @@
     "ownership": "Franchise",
     "crossLane": "Third Cross",
     "hours": "Mon - Sun\n11:00 am - 9:00 pm",
-    "img": "../Shops/shop_14.png",
+    "img": "../Shops/shop_17.png",
     "srNo": 14
   },
   {
@@ -146,7 +146,7 @@
     "ownership": "Franchise",
     "crossLane": "Third Cross",
     "hours": "Mon - Thu\n9:30 am - 9:30 pm\nFri - Sun\n10:30 am - 10:00 pm",
-    "img": "../Shops/shop_15.png",
+    "img": "../Shops/shop_19.png",
     "srNo": 15
   },
   {
@@ -156,7 +156,7 @@
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun\n8:30 am - 12:00 am",
-    "img": "../Shops/shop_16.png",
+    "img": "../Shops/shop_20.png",
     "srNo": 16
   },
   {
@@ -166,7 +166,7 @@
     "ownership": "Franchise",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun\nOpen 24 Hrs",
-    "img": "../Shops/shop_17.png",
+    "img": "../Shops/shop_21.png",
     "srNo": 17
   },
   {
@@ -176,7 +176,7 @@
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun\n9:30 am - 11:00 pm",
-    "img": "../Shops/shop_18.png",
+    "img": "../Shops/shop_22.png",
     "srNo": 18
   },
   {
@@ -186,7 +186,7 @@
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun\n10:30 am - 10:30 pm",
-    "img": "../Shops/shop_19.png",
+    "img": "../Shops/shop_23.png",
     "srNo": 19
   },
   {
@@ -196,7 +196,7 @@
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun\n10:30 am - 10:30 pm",
-    "img": "../Shops/shop_20.png",
+    "img": "../Shops/shop_24.png",
     "srNo": 20
   },
   {
@@ -206,7 +206,7 @@
     "ownership": "Franchise",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun\nOpen 24 Hrs",
-    "img": "../Shops/shop_21.png",
+    "img": "../Shops/shop_25.png",
     "srNo": 21
   },
   {
@@ -216,7 +216,7 @@
     "ownership": "Franchise",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun\n9:00 am - 9:00 pm",
-    "img": "../Shops/shop_22.png",
+    "img": "../Shops/shop_26.png",
     "srNo": 22
   },
   {
@@ -226,7 +226,7 @@
     "ownership": "Franchise",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun\n9:30 am - 1:00 am",
-    "img": "../Shops/shop_23.png",
+    "img": "../Shops/shop_27.png",
     "srNo": 23
   },
   {
@@ -236,7 +236,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun\n12:00 pm - 1:30 am",
-    "img": "../Shops/shop_24.png",
+    "img": "../Shops/shop_28.png",
     "srNo": 24
   },
   {
@@ -246,7 +246,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun\nOpen 24 Hrs",
-    "img": "../Shops/shop_25.png",
+    "img": "../Shops/shop_29.png",
     "srNo": 25
   },
   {
@@ -256,7 +256,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Fri\n1:30 am - 4:00 pm\nSat - Sun\nClosed - Closed",
-    "img": "../Shops/shop_26.png",
+    "img": "../Shops/shop_35.png",
     "srNo": 26
   },
   {
@@ -266,7 +266,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun\n7:15 am - 12:45 am",
-    "img": "../Shops/shop_27.png",
+    "img": "../Shops/shop_30.png",
     "srNo": 27
   },
   {
@@ -276,7 +276,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun\n10:30 am - 9:30 pm",
-    "img": "../Shops/shop_28.png",
+    "img": "../Shops/shop_31.png",
     "srNo": 28
   },
   {
@@ -286,7 +286,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon\n12:00 am - 11:59 pm\nTue - Sun\nOpen 24 Hrs",
-    "img": "../Shops/shop_29.png",
+    "img": "../Shops/shop_32.png",
     "srNo": 29
   },
   {
@@ -296,7 +296,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun\n11:00 am - 9:00 pm",
-    "img": "../Shops/shop_30.png",
+    "img": "../Shops/shop_33.png",
     "srNo": 30
   },
   {
@@ -306,7 +306,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Fri\n8:00 am - 4:00 pm\nSat\n9:00 am - 2:00 pm\nSun\nClosed - Closed",
-    "img": "../Shops/shop_31.png",
+    "img": "../Shops/shop_34.png",
     "srNo": 31
   },
   {
@@ -316,7 +316,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun\n10:00 am - 9:00 pm",
-    "img": "../Shops/shop_32.png",
+    "img": "../Shops/shop_37.png",
     "srNo": 32
   },
   {
@@ -326,7 +326,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun\n10:00 am - 12:00 am",
-    "img": "../Shops/shop_33.png",
+    "img": "../Shops/shop_38.png",
     "srNo": 33
   },
   {
@@ -336,7 +336,7 @@
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun\n9:00 am - 9:00 pm",
-    "img": "../Shops/shop_34.png",
+    "img": "../Shops/shop_40.png",
     "srNo": 34
   },
   {
@@ -346,7 +346,7 @@
     "ownership": "Franchise",
     "crossLane": "Past Fourth Cross",
     "hours": "Mon - Sun\n6:00 am - 1:00 am",
-    "img": "../Shops/shop_35.png",
+    "img": "../Shops/shop_41.png",
     "srNo": 35
   },
   {
@@ -356,7 +356,7 @@
     "ownership": "Franchise",
     "crossLane": "Past Fourth Cross",
     "hours": "Mon - Fri\n11:00 am - 9:00 pm\nSat - Sun\n10:00 am - 9:00 pm",
-    "img": "../Shops/shop_36.png",
+    "img": "../Shops/shop_42.png",
     "srNo": 36
   },
   {

@@ -19,8 +19,6 @@ function renderItems(collection) {
 	})
 }
 
-
-
 // Fetch gets your JSON file.
 fetch('ec_data.json')
 	.then(function(response) {

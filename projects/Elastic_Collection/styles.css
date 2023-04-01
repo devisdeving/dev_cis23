@@ -16,11 +16,13 @@ body {
     font-family: var(--font);
     margin: 2em;
     font-size: var(--size);
+    scroll-behavior: smooth;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 4em;
 }
 
 #menu {
@@ -31,6 +33,78 @@ nav {
     height: 36px;
 }
 
+.shop {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+}
+
+.bakery {
+    background-color: rgb(255, 184, 249);
+}
+
+.shop:nth-child(1) {
+    background-color: green;
+}
+
+.shop:nth-child(2) {
+    background-color: rgb(255, 26, 26);
+}
+
+.shop:nth-child(1) {
+    background-color: green;
+}
+
+.shop:nth-child(2) {
+    background-color: rgb(255, 26, 26);
+}
+
 img {
     width: 10em;
+    border: solid 2px;
+    border-radius: 0.2em;
+}
+
+#collection {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25em;
+}
+
+#roads {
+    display: flex;
+    flex-direction: column;
+    margin-top: -110em;
+}
+
+.cross {
+    font-size: 12px;
+    color: grey;
+    border: solid 2px black;
+    padding: 1em;
+    text-align: end;
+    z-index: 2;
+    margin-top: 45em;
+}
+
+.past {
+    font-size: 12px;
+    color: grey;
+    border: solid 2px black;
+    padding: 2em;
+    text-align: end;
+    z-index: 2;
+    transform: rotate(60deg);
+    position: relative;
+    top: 10em;
+    left: 8em;
+}
+
+#market-road {
+    border: none;
+    border-radius: 0;
+    width: 9em;
+    position: relative;
+    z-index: 1;
+    margin-left: 2em;
 }

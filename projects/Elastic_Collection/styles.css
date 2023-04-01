@@ -7,6 +7,20 @@
     font-display: swap;
 }
 
+button {
+    border: solid 2px;
+    border-radius: 10em;
+    padding: 0.5em;
+    margin: 0.2em;
+}
+
+.filter {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 5em;
+    margin-top: -3em;
+}
+
 :root {
     --font: 'NeueMontreal-Regular', system, sans-serif;
     --size: 24px;
@@ -73,6 +87,27 @@ nav {
     background-color: rgb(255, 37, 193);
 }
 
+.toy {
+    background-color: rgb(0, 106, 85);
+}
+
+.restaurant {
+    background-color: rgb(192, 210, 26);
+}
+
+.tailors {
+    background-color: brown;
+}
+
+.opticians {
+    background-color: rgb(65, 255, 249);
+}
+
+#monsoon {
+    position: relative;
+    top: 17em;
+}
+
 .slant {
     transform: rotate(39deg);
     position: relative;
@@ -84,6 +119,11 @@ nav {
 #left {
     top: 4em;
     left: 4em;
+}
+
+#right {
+    top: -7em;
+    left: 5.5em;
 }
 
 .shop:nth-child(1) {
@@ -98,7 +138,7 @@ nav {
     margin-top: 0.2em;
 }
 
-.gen-store:nth-child(2) {
+#soc {
     position: relative;
     z-index: 3;
     left: 1em;
@@ -119,7 +159,7 @@ img {
 #collection {
     display: flex;
     flex-direction: column;
-    margin-top: 30em;
+    margin-top: 35em;
 }
 
 #roads {
@@ -139,9 +179,13 @@ img {
 }
 
 .cross-wrap {
-    margin-top: -15em;
+    margin-top: -25em;
     position: relative;
     z-index: 3;
+}
+
+.shop-wrap:nth-child(2) {
+    margin-left: 1em;
 }
 
 .past {
@@ -154,7 +198,7 @@ img {
     transform: rotate(40deg);
     position: relative;
     top: 8em;
-    left: 8em;
+    left: 6em;
 }
 
 #market-road {
@@ -164,4 +208,24 @@ img {
     position: relative;
     z-index: 1;
     margin-left: 2em;
+}
+
+.right-shop-wrap {
+    margin-left: 4.1em;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.left-shop-wrap {
+    margin-left: 1em;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+#third-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }

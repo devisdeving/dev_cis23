@@ -105,7 +105,7 @@ nav {
 
 #monsoon {
     position: relative;
-    top: 17em;
+    top: 26em;
 }
 
 .slant {
@@ -171,6 +171,7 @@ img {
 .cross {
     font-size: 12px;
     color: grey;
+    background-color: white;
     border: solid 2px black;
     padding: 1em;
     text-align: end;
@@ -199,6 +200,7 @@ img {
     position: relative;
     top: 8em;
     left: 6em;
+    background-color: white;
 }
 
 #market-road {
@@ -224,8 +226,22 @@ img {
     flex-direction: column;
 }
 
+#third-left > div {
+    margin-top: 5em;
+    position: relative;
+}
+
 #third-left {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
+}
+
+#third-right {
+    position: relative;
+    top: -28em;
+}
+
+#second-cross {
+    margin-top: -2em;
 }

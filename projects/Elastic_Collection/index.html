@@ -18,49 +18,86 @@
     <button>Family<nobr>&nbsp;Owned</button>
     <button>Restaurants</button>
     <button>Groceries</button>
+    <button>Button4</button>
+    <button>Button5</button>
+    <button>Button6</button>
 </section>
     <br>
     <div class="map">
-        <div class="split">
-            <div class="dots"></div>
-        </div>
         <img src="../Assets/map-road.svg" alt="market-road" id="market-road"></img>
         <div id="roads">
         <div class="past">Past Fourth Cross Road</div>
-                <div class="slant" id="left">
-            <div class="shop gen-store"></div>
-            <div class="shop groc"></div>
-            <div class="shop bakery"></div>
-            <div class="shop salon"></div>
+            <div class="slant">
+                <div id="left">
+                    <div class="shop gen-store"></div>
+                    <div class="shop groc"></div>
+                    <div class="shop bakery"></div>
+                    <div class="shop salon"></div>
                 </div>
+                <div id="right">
+                    <div class="shop pharmacy"></div>
+                    <div class="shop bakery"></div>
+                    <div class="shop electronics"></div>
+                </div>
+            </div>
             <div class="shop gen-store" id="soc"></div>
             <div class="shop bakery" id="theo"></div>
-            <div class="slant" id="right">
-                <div class="shop pharmacy"></div>
-                <div class="shop bakery"></div>
-                <div class="shop electronics"></div>
-                    </div>
+                    
         <div class="cross-wrap">
             <div class="cross">Fourth Cross Road</div>
-                <div class="right-shop-wrap">
+                <div class="right-shops">
             <div class="shop toy"></div>
                 </div>
-            <div class="cross">Third Cross Road</div>
-                    <div class="left-shop-wrap" id="third-left">
-                <div class="shop gen-store"></div>
-                <div class="shop tailors"></div>
-                <div class="shop opticians"></div>
-                <div class="shop toy"></div>
+    
+            <div class="cross" id="third-cross">Third Cross Road</div>
+                <div class="number-cross-wrap">
+                    <div class="left-shops" id="third-left">
+                        <div class="shop gen-store"></div>
+                        <div class="shop tailors"></div>
+                        <div class="shop opticians"></div>
+                        <div class="shop toy"></div>
                     </div>
-            <div class="right-shop-wrap" id="third-right">
-                <div class="shop restaurant"></div>
-                <div></div>
-                <div class="shop electronics"></div>
-                <div class="shop restaurant" id="monsoon"></div>
+                    <div class="right-shops" id="third-right">
+                        <div class="shop restaurant"></div>
+                        <div class="shop electronics"></div>
+                        <div class="shop restaurant" id="monsoon"></div>
                     </div>
+                </div>
+
             <div class="cross" id="second-cross">Second Cross Road</div>
-            <div class="cross">First Cross Road</div>
+                <div class="number-cross-wrap" id="second-cross-wrap">
+                    <div class="left-shops" id="second-left">
+                        <div class="shop pharmacy"></div>
+                        <div class="shop bakery"></div>
+                    </div>
+                    <div class="right-shops" id="second-right">
+                        <div class="shop toy"></div>
+                        <div class="shop bakery"></div>
+                        <div class="shop ice-cream"></div>
+                    </div>
+                </div>
+
+            <div class="cross" id="first-cross">First Cross Road</div>
+                <div class="number-cross-wrap">
+                    <div class="left-shops" id="first-left">
+                        <div class="shop restaurant"></div>
+                        <div class="shop restaurant"></div>
+                        <div class="shop bank"></div>
+                        <div class="shop bank"></div>
+                        <div class="shop toy"></div>
+                        <div class="shop bakery"></div>
+                        <div class="shop ice-cream"></div>
+                    </div>
+                    <div class="right-shops" id="first-right">
+                        <div class="shop ice-cream"></div>
+                        <div class="shop electronics"></div>
+                        <div class="shop electronics"></div>
+                        <div class="shop salon"></div>
+                        <div class="shop bank"></div>
+                    </div>
+                </div>
         </div>
+
         </div>
     </div>
     <div id="collection"></div>

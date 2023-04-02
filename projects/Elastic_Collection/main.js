@@ -16,8 +16,15 @@ function renderItems(collection) {
 				<p>${item.ownership}</p>
 			`
 			collectionList.insertAdjacentHTML('beforeend', itemDetails) // Which can we then insert
+			
+//			collectionList.classList.add("bakery")
 	})
 }
+
+// 			if (`${item.placeName} == "bakery"`) {
+//	collectionList.classList.add("bakery")
+// } else if {
+// }
 
 // Fetch gets your JSON file.
 fetch('ec_data.json')

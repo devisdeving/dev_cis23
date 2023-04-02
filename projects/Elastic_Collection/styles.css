@@ -879,3 +879,298 @@ img {
         margin-top: 2em;
     }
 }
+
+@media (min-width: 1024px) {
+    @font-face {
+        font-family: 'NeueMontreal-Regular';
+        src: url('fonts/NeueMontreal-Regular.woff2') format('woff2'),
+            url('NeueMontreal-Regular.woff') format('woff');
+        font-weight: 900;
+        font-style: normal;
+        font-display: swap;
+    }
+    
+    button {
+        border: solid 2px;
+        border-radius: 10em;
+        padding: 0.5em;
+        margin: 0.2em 0em;
+        cursor: pointer;
+    }
+    
+    .filter {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 5em;
+        margin-top: -3em;
+    }
+
+    .map {
+        margin-top: 6em;
+    }
+    
+    :root {
+        --font: 'NeueMontreal-Regular', system, sans-serif;
+        --size: 24px;
+    }
+    
+    body {
+        font-family: var(--font);
+        margin: 2em;
+        font-size: var(--size);
+        scroll-behavior: smooth;
+        display: flex;
+        flex-direction: column;
+        overflow-x: hidden;
+    }
+    
+    nav {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 4em;
+    }
+    
+    #menu {
+        border: solid 2px black;
+        background-color: white;
+        border-radius: 50%;
+        width: 2em;
+        height: 2em;
+        display: none;
+    }
+    
+    .shop {
+        border-radius: 50%;
+        width: 2em;
+        height: 2em;
+        position: relative;
+        z-index: 3;
+    }
+    
+    .bakery {
+        background-color: rgb(255, 184, 249);
+    }
+    
+    .bank {
+        background-color: rgb(11, 255, 133);
+    }
+    
+    .cafe {
+        background-color: rgb(255, 202, 12);
+    }
+    
+    .salon {
+        background-color: rgb(24, 201, 255);
+    }
+    
+    .gen-store {
+        background-color: rgb(255, 24, 51);
+    }
+    
+    .groc {
+        background-color: rgb(188, 255, 31);
+    }
+    
+    .pharmacy {
+        background-color: rgb(74, 37, 255);
+    }
+    
+    .electronics {
+        background-color: rgb(255, 37, 193);
+    }
+    
+    .toy {
+        background-color: rgb(0, 106, 85);
+    }
+    
+    .restaurant {
+        background-color: rgb(192, 210, 26);
+    }
+    
+    .tailors {
+        background-color: brown;
+    }
+    
+    .opticians {
+        background-color: rgb(65, 255, 249);
+    }
+    
+    .ice-cream {
+        background-color: rgb(184, 203, 255);
+    }
+    
+    .slant {
+        transform: rotate(39deg);
+        position: relative;
+        z-index: 3;
+        display: flex;
+        margin-top: 7em;
+        margin-left: -0.5em;
+    }
+    
+    #right {
+        margin-left: 1.1em;
+    }
+    
+    .shop:nth-child(1) {
+        margin-top: 1em;
+    }
+    
+    .shop:nth-child(3) {
+        margin-top: 1em;
+    }
+    
+    .shop:nth-child(4) {
+        margin-top: 0.2em;
+    }
+    
+    #soc {
+        position: relative;
+        z-index: 3;
+        left: 1em;
+    }
+    
+    #theo {
+        position: relative;
+        z-index: 3;
+        left: 1em;
+    }
+    
+    img {
+        width: 10em;
+        border: solid 2px;
+        border-radius: 0.2em;
+    }
+    
+    #collection {
+        display: flex;
+        flex-direction: column;
+        margin-top: 10em;
+    }
+    
+    #roads {
+        display: flex;
+        flex-direction: column;
+        margin-top: -110em;
+    }
+    
+    .cross {
+        font-size: 12px;
+        color: grey;
+        background-color: white;
+        border: solid 2px black;
+        padding: 1em;
+        text-align: end;
+        z-index: 2;
+        margin-top: 35em;
+    }
+    
+    .cross-wrap {
+        margin-top: -15em;
+        position: relative;
+        z-index: 3;
+    }
+    
+    .shop-wrap:nth-child(2) {
+        margin-left: 1em;
+    }
+    
+    .past {
+        font-size: 12px;
+        color: grey;
+        border: solid 2px black;
+        padding: 1em;
+        text-align: end;
+        z-index: 2;
+        transform: rotate(40deg);
+        margin-top: 16em;
+        margin-left: -18em;
+        background-color: white;
+    }
+    
+    #market-road {
+        border: none;
+        border-radius: 0;
+        width: 9em;
+        position: relative;
+        z-index: 1;
+        margin-left: 2em;
+    }
+    
+    .right-shops {
+        margin-left: 4.1em;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .left-shops {
+        margin-left: 1em;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .number-cross-wrap {
+        display: flex;
+    }
+    
+    #third-cross {
+        margin-top: 10em;
+    }
+    
+    #third-left > div {
+        margin-top: 2em;
+        position: relative;
+    }
+    
+    #third-left {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    
+    #third-right {
+        margin-left: 1.1em;
+    }
+    
+    #third-right > div {
+        margin-top: 1em;
+    }
+    
+    #monsoon {
+        margin-top: 9em;
+    }
+    
+    #second-cross {
+        margin-top: 2em;
+    }
+    
+    #second-right {
+        margin-left: 1.1em;
+    }
+    
+    #second-right > div {
+        margin-top: 3em;
+    }
+    
+    #second-left > div {
+        margin-top: 2em;
+    }
+    
+    #first-cross {
+        margin-top: 1em;
+    }
+    
+    #first-right {
+        margin-left: 1.1em;
+    }
+    
+    #first-right > div {
+        margin-top: 4em;
+    }
+    
+    #first-left > div {
+        margin-top: 2em;
+    }
+}

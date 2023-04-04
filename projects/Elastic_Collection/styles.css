@@ -15,6 +15,10 @@ button {
     cursor: pointer;
 }
 
+.Bank {
+    background-color:red;
+}
+
 button:active {
     background-color: black;
     color: white;
@@ -1189,5 +1193,33 @@ img {
     
     #first-left > div {
         margin-top: 2em;
+    }
+}
+
+@media (min-width: 1440px) {
+    .slant {
+        transform: rotate(39deg);
+        position: relative;
+        z-index: 3;
+        display: flex;
+        margin-top: 4em;
+        margin-left: 0.5em;
+    }
+
+    .past {
+        font-size: 12px;
+        color: grey;
+        border: solid 2px black;
+        padding: 1em;
+        text-align: end;
+        z-index: 2;
+        transform: rotate(40deg);
+        margin-top: 17em;
+        margin-left: -6em;
+        background-color: white;
+    }
+
+    #collection {
+        margin-top: 3em;
     }
 }

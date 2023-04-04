@@ -7,7 +7,8 @@ function renderItems(collection) {
 	collection.forEach(function(item) {
 		const itemDetails =
 			`
-			<div>
+			<div id="${item.idName}">
+			<div class="shop ${item.type}"></div>
 			<p>${item.placeName}</p>	
 			<img src="${item.img}"/>
 				<p>Established in <time>${item.yearEstablished}</time></p>
@@ -16,6 +17,7 @@ function renderItems(collection) {
 				<p>${item.ownership}</p>
 				<br>
 				</div>
+			
 			`
 			collectionList.insertAdjacentHTML('beforeend', itemDetails) // Which can we then insert
 			// collectionList.classList.add("jShop")
@@ -23,6 +25,10 @@ function renderItems(collection) {
 //			collectionList.classList.add("bakery")
 	})
 }
+
+const shopCat = document.createElement('div');
+
+
 
 // 			if (`${item.placeName} == "bakery"`) {
 //	collectionList.classList.add("bakery")

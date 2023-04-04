@@ -9,7 +9,7 @@
     "hours": "Mon - Sun 8:30 am - 10:00 pm",
     "img": "../Shops/shop_1.png",
     "srNo": 1,
-    "class": "gen-sore"
+    "class": "gen-store"
   },
   {
     "idName": "supfresh", 
@@ -57,7 +57,7 @@
     "hours": "Mon - Sun 11:00 am - 9:00 pm",
     "img": "../Shops/shop_7.png",
     "srNo": 5,
-    "class": "baker"
+    "class": "bakery"
   },
   {
     "idName": "hnr", 
@@ -81,7 +81,7 @@
     "hours": "Mon - Sun 9:45 am - 10:00 pm",
     "img": "../Shops/shop_9.png",
     "srNo": 7,
-    "class": "gen-sore"
+    "class": "gen-store"
   },
   {
     "idName": "hp", 
@@ -93,7 +93,7 @@
     "hours": "Mon - Sun 11:00 am - 10:00 pm",
     "img": "../Shops/shop_10.png",
     "srNo": 8,
-    "class": "electonics"
+    "class": "electronics"
   },
   {
     "idName": "theob", 
@@ -105,10 +105,10 @@
     "hours": "Mon - Sun 9:00 am - 11:00 pm",
     "img": "../Shops/shop_12.png",
     "srNo": 9,
-    "class": "baker"
+    "class": "bakery"
   },
   {
-    "idName": "harish-plus", 
+    "idName": "hplus", 
     "placeName": "Harish Plus",
     "type": "Toys & Stationery",
     "yearEstablished": "",
@@ -117,7 +117,7 @@
     "hours": "Mon - Sun 10:00 am - 10:00 pm",
     "img": "../Shops/shop_13.png",
     "srNo": 10,
-    "class": "toys"
+    "class": "toy"
   },
   {
     "idName": "sweethome", 
@@ -129,7 +129,7 @@
     "hours": "Mon - Sun 9:00 am - 10:00 pm",
     "img": "../Shops/shop_14.png",
     "srNo": 11,
-    "class": "gen-sore"
+    "class": "gen-store"
   },
   {
     "idName": "fantasy", 
@@ -141,7 +141,7 @@
     "hours": "Mon - Sun 11:00 am - 10:00 pm",
     "img": "../Shops/shop_15.png",
     "srNo": 12,
-    "class": "opticans"
+    "class": "opticians"
   },
   {
     "idName": "hpoint", 
@@ -153,7 +153,7 @@
     "hours": "Mon - Sun 9:00 am - 11:30 pm",
     "img": "../Shops/shop_16.png",
     "srNo": 13,
-    "class": "restarant"
+    "class": "restaurant"
   },
   {
     "idName": "bhag", 
@@ -165,7 +165,7 @@
     "hours": "Mon - Sun 11:00 am - 9:00 pm",
     "img": "../Shops/shop_17.png",
     "srNo": 14,
-    "class": "tailos"
+    "class": "tailors"
   },
   {
     "idName": "miniso", 
@@ -189,7 +189,7 @@
     "hours": "Mon - Sun 8:30 am - 12:00 am",
     "img": "../Shops/shop_20.png",
     "srNo": 16,
-    "class": "restarant"
+    "class": "restaurant"
   },
   {
     "idName": "well", 
@@ -201,7 +201,7 @@
     "hours": "Mon - Sun Open 24 Hrs",
     "img": "../Shops/shop_21.png",
     "srNo": 17,
-    "class": "pharmcy"
+    "class": "pharmacy"
   },
   {
     "idName": "bkraft", 
@@ -237,7 +237,7 @@
     "hours": "Mon - Sun 10:30 am - 10:30 pm",
     "img": "../Shops/shop_24.png",
     "srNo": 20,
-    "class": "baker"
+    "class": "bakery"
   },
   {
     "idName": "baskrob", 
@@ -249,7 +249,7 @@
     "hours": "Mon - Sun Open 24 Hrs",
     "img": "../Shops/shop_25.png",
     "srNo": 21,
-    "class": "ice-ceam"
+    "class": "ice-cream"
   },
   {
     "idName": "warden", 
@@ -261,7 +261,7 @@
     "hours": "Mon - Sun 9:00 am - 9:00 pm",
     "img": "../Shops/shop_26.png",
     "srNo": 22,
-    "class": "baker"
+    "class": "bakery"
   },
   {
     "idName": "naturals", 
@@ -273,7 +273,7 @@
     "hours": "Mon - Sun 9:30 am - 1:00 am",
     "img": "../Shops/shop_27.png",
     "srNo": 23,
-    "class": "ice-ceam"
+    "class": "ice-cream"
   },
   {
     "idName": "foodinn", 
@@ -285,7 +285,7 @@
     "hours": "Mon - Sun 12:00 pm - 1:30 am",
     "img": "../Shops/shop_28.png",
     "srNo": 24,
-    "class": "restarant"
+    "class": "restaurant"
   },
   {
     "idName": "citi", 
@@ -345,7 +345,7 @@
     "hours": "Mon 12:00 am - 11:59 pm Tue - Sun Open 24 Hrs",
     "img": "../Shops/shop_32.png",
     "srNo": 29,
-    "class": "electonics"
+    "class": "electronics"
   },
   {
     "idName": "lemon", 
@@ -381,7 +381,7 @@
     "hours": "Mon - Sun 10:00 am - 9:00 pm",
     "img": "../Shops/shop_37.png",
     "srNo": 32,
-    "class": "baker"
+    "class": "bakery"
   },
   {
     "idName": "belgian", 
@@ -393,7 +393,7 @@
     "hours": "Mon - Sun 10:00 am - 12:00 am",
     "img": "../Shops/shop_38.png",
     "srNo": 33,
-    "class": "baker"
+    "class": "bakery"
   },
   {
     "idName": "eagle", 
@@ -417,7 +417,7 @@
     "hours": "Mon - Sun 6:00 am - 1:00 am",
     "img": "../Shops/shop_41.png",
     "srNo": 35,
-    "class": "ice-ceam"
+    "class": "ice-cream"
   },
   {
     "idName": "enrich", 

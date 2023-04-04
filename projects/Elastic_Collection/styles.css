@@ -10,13 +10,40 @@
 button {
     border: solid 2px;
     border-radius: 10em;
-    padding: 0.5em;
+    padding: 0.5em 1em;
     margin: 0.2em 0em;
     cursor: pointer;
 }
 
-.Bank {
-    background-color:red;
+p {
+    background-color: rgb(224, 224, 224);
+    border-radius: 10em;
+    padding: 0.5em 1em;
+    margin: 0.2em 0em;
+    width: fit-content;
+    font-size: var(--tagSize);
+}
+
+h3 {
+    border-radius: 10em;
+    padding: 0.5em 1em;
+    margin: 0.2em 0em;
+    width: fit-content;
+    border: solid 2px black;
+}
+
+.card {
+    border-radius: 0.5em;
+    padding: 0.5em 1em;
+    margin: 0.1em 0em;
+    width: 100%;
+    border: solid 2px black;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: dense;
 }
 
 button:active {
@@ -44,6 +71,11 @@ button:visited {
 :root {
     --font: 'NeueMontreal-Regular', system, sans-serif;
     --size: 24px;
+    --tagSize: 12px;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
@@ -73,6 +105,7 @@ nav {
 
 .shop {
     border-radius: 50em;
+    border: solid 2px black;
     width: 2em;
     height: 2em;
     position: relative;
@@ -80,54 +113,67 @@ nav {
 }
 
 .bakery {
+    cursor: pointer;
     background-color: rgb(255, 184, 249);
 }
 
 .bank {
+    cursor: pointer;
     background-color: rgb(11, 255, 133);
 }
 
 .cafe {
+    cursor: pointer;
     background-color: rgb(255, 202, 12);
 }
 
 .salon {
+    cursor: pointer;
     background-color: rgb(24, 201, 255);
 }
 
 .gen-store {
+    cursor: pointer;
     background-color: rgb(255, 24, 51);
 }
 
 .groc {
+    cursor: pointer;
     background-color: rgb(188, 255, 31);
 }
 
 .pharmacy {
+    cursor: pointer;
     background-color: rgb(74, 37, 255);
 }
 
 .electronics {
+    cursor: pointer;
     background-color: rgb(255, 37, 193);
 }
 
 .toy {
+    cursor: pointer;
     background-color: rgb(0, 106, 85);
 }
 
 .restaurant {
+    cursor: pointer;
     background-color: rgb(192, 210, 26);
 }
 
 .tailors {
+    cursor: pointer;
     background-color: brown;
 }
 
 .opticians {
+    cursor: pointer;
     background-color: rgb(65, 255, 249);
 }
 
 .ice-cream {
+    cursor: pointer;
     background-color: rgb(184, 203, 255);
 }
 
@@ -252,22 +298,20 @@ img {
     margin-top: 10em;
 }
 
-#third-left > div {
-    margin-top: 2em;
-    position: relative;
+#third-left > a {
+    margin-top: 1em;
 }
 
 #third-left {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
 }
 
 #third-right {
     margin-left: 1.1em;
 }
 
-#third-right > div {
+#third-right > a {
     margin-top: 1em;
 }
 
@@ -283,11 +327,11 @@ img {
     margin-left: 1.1em;
 }
 
-#second-right > div {
-    margin-top: 3em;
+#second-right > a {
+    margin-top: 1em;
 }
 
-#second-left > div {
+#second-left > a {
     margin-top: 2em;
 }
 
@@ -299,12 +343,12 @@ img {
     margin-left: 1.1em;
 }
 
-#first-right > div {
-    margin-top: 4em;
+#first-right > a {
+    margin-top: 2.5em;
 }
 
-#first-left > div {
-    margin-top: 2em;
+#first-left > a {
+    margin-top: 1.5em;
 }
 
 @media (min-width: 768px) {
@@ -349,10 +393,7 @@ img {
         display: flex;
         flex-direction: column;
         overflow-x: hidden;
-    }
-
-    .jShop {
-        margin-top: 1em;
+        align-items: center;
     }
     
     nav {
@@ -375,58 +416,6 @@ img {
         height: 2em;
         position: relative;
         z-index: 3;
-    }
-    
-    .bakery {
-        background-color: rgb(255, 184, 249);
-    }
-    
-    .bank {
-        background-color: rgb(11, 255, 133);
-    }
-    
-    .cafe {
-        background-color: rgb(255, 202, 12);
-    }
-    
-    .salon {
-        background-color: rgb(24, 201, 255);
-    }
-    
-    .gen-store {
-        background-color: rgb(255, 24, 51);
-    }
-    
-    .groc {
-        background-color: rgb(188, 255, 31);
-    }
-    
-    .pharmacy {
-        background-color: rgb(74, 37, 255);
-    }
-    
-    .electronics {
-        background-color: rgb(255, 37, 193);
-    }
-    
-    .toy {
-        background-color: rgb(0, 106, 85);
-    }
-    
-    .restaurant {
-        background-color: rgb(192, 210, 26);
-    }
-    
-    .tailors {
-        background-color: brown;
-    }
-    
-    .opticians {
-        background-color: rgb(65, 255, 249);
-    }
-    
-    .ice-cream {
-        background-color: rgb(184, 203, 255);
     }
     
     .slant {
@@ -544,65 +533,6 @@ img {
     .number-cross-wrap {
         display: flex;
     }
-    
-    #third-cross {
-        margin-top: 10em;
-    }
-    
-    #third-left > div {
-        margin-top: 2em;
-        position: relative;
-    }
-    
-    #third-left {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-evenly;
-    }
-    
-    #third-right {
-        margin-left: 1.1em;
-    }
-    
-    #third-right > div {
-        margin-top: 1em;
-    }
-    
-    #monsoon {
-        margin-top: 9em;
-    }
-    
-    #second-cross {
-        margin-top: 2em;
-    }
-    
-    #second-right {
-        margin-left: 1.1em;
-    }
-    
-    #second-right > div {
-        margin-top: 3em;
-    }
-    
-    #second-left > div {
-        margin-top: 2em;
-    }
-    
-    #first-cross {
-        margin-top: 1em;
-    }
-    
-    #first-right {
-        margin-left: 1.1em;
-    }
-    
-    #first-right > div {
-        margin-top: 4em;
-    }
-    
-    #first-left > div {
-        margin-top: 2em;
-    }
 }
 
 @media (min-width: 960px) {
@@ -647,6 +577,7 @@ img {
         display: flex;
         flex-direction: column;
         overflow-x: hidden;
+        align-items: center;
     }
     
     nav {
@@ -670,58 +601,6 @@ img {
         height: 2em;
         position: relative;
         z-index: 3;
-    }
-    
-    .bakery {
-        background-color: rgb(255, 184, 249);
-    }
-    
-    .bank {
-        background-color: rgb(11, 255, 133);
-    }
-    
-    .cafe {
-        background-color: rgb(255, 202, 12);
-    }
-    
-    .salon {
-        background-color: rgb(24, 201, 255);
-    }
-    
-    .gen-store {
-        background-color: rgb(255, 24, 51);
-    }
-    
-    .groc {
-        background-color: rgb(188, 255, 31);
-    }
-    
-    .pharmacy {
-        background-color: rgb(74, 37, 255);
-    }
-    
-    .electronics {
-        background-color: rgb(255, 37, 193);
-    }
-    
-    .toy {
-        background-color: rgb(0, 106, 85);
-    }
-    
-    .restaurant {
-        background-color: rgb(192, 210, 26);
-    }
-    
-    .tailors {
-        background-color: brown;
-    }
-    
-    .opticians {
-        background-color: rgb(65, 255, 249);
-    }
-    
-    .ice-cream {
-        background-color: rgb(184, 203, 255);
     }
     
     .slant {
@@ -839,65 +718,6 @@ img {
     .number-cross-wrap {
         display: flex;
     }
-    
-    #third-cross {
-        margin-top: 10em;
-    }
-    
-    #third-left > div {
-        margin-top: 2em;
-        position: relative;
-    }
-    
-    #third-left {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-evenly;
-    }
-    
-    #third-right {
-        margin-left: 1.1em;
-    }
-    
-    #third-right > div {
-        margin-top: 1em;
-    }
-    
-    #monsoon {
-        margin-top: 9em;
-    }
-    
-    #second-cross {
-        margin-top: 2em;
-    }
-    
-    #second-right {
-        margin-left: 1.1em;
-    }
-    
-    #second-right > div {
-        margin-top: 3em;
-    }
-    
-    #second-left > div {
-        margin-top: 2em;
-    }
-    
-    #first-cross {
-        margin-top: 1em;
-    }
-    
-    #first-right {
-        margin-left: 1.1em;
-    }
-    
-    #first-right > div {
-        margin-top: 4em;
-    }
-    
-    #first-left > div {
-        margin-top: 2em;
-    }
 }
 
 @media (min-width: 1024px) {
@@ -926,6 +746,7 @@ img {
     }
 
     .map {
+        margin: 0 auto;
         margin-top: 2em;
     }
     
@@ -942,6 +763,7 @@ img {
         display: flex;
         flex-direction: column;
         overflow-x: hidden;
+        align-items: center;
     }
     
     nav {
@@ -965,58 +787,6 @@ img {
         height: 2em;
         position: relative;
         z-index: 3;
-    }
-    
-    .bakery {
-        background-color: rgb(255, 184, 249);
-    }
-    
-    .bank {
-        background-color: rgb(11, 255, 133);
-    }
-    
-    .cafe {
-        background-color: rgb(255, 202, 12);
-    }
-    
-    .salon {
-        background-color: rgb(24, 201, 255);
-    }
-    
-    .gen-store {
-        background-color: rgb(255, 24, 51);
-    }
-    
-    .groc {
-        background-color: rgb(188, 255, 31);
-    }
-    
-    .pharmacy {
-        background-color: rgb(74, 37, 255);
-    }
-    
-    .electronics {
-        background-color: rgb(255, 37, 193);
-    }
-    
-    .toy {
-        background-color: rgb(0, 106, 85);
-    }
-    
-    .restaurant {
-        background-color: rgb(192, 210, 26);
-    }
-    
-    .tailors {
-        background-color: brown;
-    }
-    
-    .opticians {
-        background-color: rgb(65, 255, 249);
-    }
-    
-    .ice-cream {
-        background-color: rgb(184, 203, 255);
     }
     
     .slant {
@@ -1135,65 +905,6 @@ img {
     .number-cross-wrap {
         display: flex;
     }
-    
-    #third-cross {
-        margin-top: 10em;
-    }
-    
-    #third-left > div {
-        margin-top: 2em;
-        position: relative;
-    }
-    
-    #third-left {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-evenly;
-    }
-    
-    #third-right {
-        margin-left: 1.1em;
-    }
-    
-    #third-right > div {
-        margin-top: 1em;
-    }
-    
-    #monsoon {
-        margin-top: 9em;
-    }
-    
-    #second-cross {
-        margin-top: 2em;
-    }
-    
-    #second-right {
-        margin-left: 1.1em;
-    }
-    
-    #second-right > div {
-        margin-top: 3em;
-    }
-    
-    #second-left > div {
-        margin-top: 2em;
-    }
-    
-    #first-cross {
-        margin-top: 1em;
-    }
-    
-    #first-right {
-        margin-left: 1.1em;
-    }
-    
-    #first-right > div {
-        margin-top: 4em;
-    }
-    
-    #first-left > div {
-        margin-top: 2em;
-    }
 }
 
 @media (min-width: 1440px) {
@@ -1202,8 +913,8 @@ img {
         position: relative;
         z-index: 3;
         display: flex;
-        margin-top: 4em;
-        margin-left: 0.5em;
+        margin-top: 3.2em;
+        margin-left: -0.1em;
     }
 
     .past {
@@ -1214,12 +925,74 @@ img {
         text-align: end;
         z-index: 2;
         transform: rotate(40deg);
-        margin-top: 17em;
+        margin-top: 21em;
         margin-left: -6em;
         background-color: white;
     }
 
+    nav {
+        margin-right: 50em;
+    }
+
     #collection {
+        margin: 2em auto;
         margin-top: 3em;
     }
+
+    #third-cross {
+    margin-top: 10em;
+}
+
+#third-left > a {
+    margin-top: 1em;
+}
+
+#third-left {
+    display: flex;
+    flex-direction: column;
+}
+
+#third-right {
+    margin-left: 1.1em;
+}
+
+#third-right > a {
+    margin-top: 1em;
+}
+
+#monsoon {
+    margin-top: 9em;
+}
+
+#second-cross {
+    margin-top: 2em;
+}
+
+#second-right {
+    margin-left: 1.1em;
+}
+
+#second-right > a {
+    margin-top: 0.2em;
+}
+
+#second-left > a {
+    margin-top: 2em;
+}
+
+#first-cross {
+    margin-top: 1em;
+}
+
+#first-right {
+    margin-left: 1.1em;
+}
+
+#first-right > a {
+    margin-top: 1.8em;
+}
+
+#first-left > a {
+    margin-top: 0.5em;
+}
 }

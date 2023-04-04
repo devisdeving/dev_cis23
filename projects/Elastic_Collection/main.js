@@ -7,15 +7,15 @@ function renderItems(collection) {
 	collection.forEach(function(item) {
 		const itemDetails =
 			`
-			<div id="${item.idName}">
-			<div class="shop ${item.type}"></div>
-			<p>${item.placeName}</p>	
+			<div class="card" id="${item.idName}">
+			<h3 class="${item.class}">${item.placeName}</h3>	
 			<img src="${item.img}"/>
+			<div class="tags">
 				<p>Established in <time>${item.yearEstablished}</time></p>
 				<p><em>${item.crossLane}</em></p>
 				<p>${item.type}</p>
 				<p>${item.ownership}</p>
-				<br>
+			</div>
 				</div>
 			
 			`

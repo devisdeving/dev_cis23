@@ -7,15 +7,18 @@ function renderItems(collection) {
 	collection.forEach(function(item) {
 		const itemDetails =
 			`
-			<br>
+			<div>
 			<p>${item.placeName}</p>	
 			<img src="${item.img}"/>
 				<p>Established in <time>${item.yearEstablished}</time></p>
 				<p><em>${item.crossLane}</em></p>
 				<p>${item.type}</p>
 				<p>${item.ownership}</p>
+				<br>
+				</div>
 			`
 			collectionList.insertAdjacentHTML('beforeend', itemDetails) // Which can we then insert
+			// collectionList.classList.add("jShop")
 			
 //			collectionList.classList.add("bakery")
 	})
@@ -35,3 +38,23 @@ fetch('ec_data.json')
 		// And passes the data to the function, above!
 		renderItems(collection.reverse()) // In reverse order
 	})
+
+	// const shop = JSON.parse('ec_data.json');
+	// const firstCross = 'First Cross Lane';
+	// const secondCross = 'Second Cross Lane';
+	// const thirdCross = 'Third Cross Lane';
+	// const fourthCross = 'Fourth Cross Lane';
+	// const sectionFirstCross = [];
+	// const sectionSecondCross = [];
+	// const sectionThirdCross = [];
+	// const sectionFourthCross = [];
+	
+	// if (shop.crossLane === firstCross) {
+	// 	sectionFirstCross.push(shop);
+	//   } else if (shop.crossLane === secondCross) {
+	// 	sectionSecondCross.push(shop);
+	//   } else if (shop.crossLane === thirdCross) {
+	// 	sectionThirdCross.push(shop);
+	//   } else if (shop.crossLane === fourthCross) {
+	// 	sectionFourthCross.push(shop);
+	// }

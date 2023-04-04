@@ -15,6 +15,16 @@ button {
     cursor: pointer;
 }
 
+button:active {
+    background-color: black;
+    color: white;
+}
+
+button:visited {
+    background-color: black;
+    color: white;
+}
+
 .filter {
     display: flex;
     flex-wrap: wrap;
@@ -24,6 +34,7 @@ button {
 
 .map {
     margin-top: 2em;
+    max-width: 928px;
 }
 
 :root {
@@ -33,12 +44,13 @@ button {
 
 body {
     font-family: var(--font);
-    margin: 2em;
+    margin: 2em 3em;
     font-size: var(--size);
     scroll-behavior: smooth;
     display: flex;
     flex-direction: column;
     overflow-x: hidden;
+    align-items: center;
 }
 
 nav {
@@ -334,6 +346,10 @@ img {
         flex-direction: column;
         overflow-x: hidden;
     }
+
+    .jShop {
+        margin-top: 1em;
+    }
     
     nav {
         display: flex;
@@ -453,9 +469,9 @@ img {
     }
     
     #collection {
-        display: flex;
-        flex-direction: column;
-        margin-top: 10em;
+        display: grid;
+        grid-template-columns: 50% 50%;
+        margin-top: 4em;
     }
     
     #roads {
@@ -748,9 +764,9 @@ img {
     }
     
     #collection {
-        display: flex;
-        flex-direction: column;
-        margin-top: 10em;
+        display: grid;
+        grid-template-columns: 33% 33% 34%;
+        margin-top: 4em;
     }
     
     #roads {
@@ -906,7 +922,7 @@ img {
     }
 
     .map {
-        margin-top: 6em;
+        margin-top: 2em;
     }
     
     :root {
@@ -1004,8 +1020,8 @@ img {
         position: relative;
         z-index: 3;
         display: flex;
-        margin-top: 7em;
-        margin-left: -0.5em;
+        margin-top: 6em;
+        margin-left: 2.5em;
     }
     
     #right {
@@ -1043,8 +1059,9 @@ img {
     }
     
     #collection {
-        display: flex;
-        flex-direction: column;
+        display: grid;
+        grid-template-columns: 33% 33% 34%;
+        gap: 0.25em;
         margin-top: 10em;
     }
     
@@ -1083,8 +1100,8 @@ img {
         text-align: end;
         z-index: 2;
         transform: rotate(40deg);
-        margin-top: 16em;
-        margin-left: -18em;
+        margin-top: 0em;
+        margin-left: -6em;
         background-color: white;
     }
     

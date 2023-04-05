@@ -349,6 +349,14 @@ img {
     margin-top: 1.5em;
 }
 
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
 @media (min-width: 768px) {
     @font-face {
         font-family: 'NeueMontreal-Regular';
@@ -362,6 +370,7 @@ img {
     main {
         display: grid;
         grid-template-columns: 50% 50%;
+        width: 80vw;
     }
 
     button {

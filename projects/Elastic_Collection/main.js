@@ -7,7 +7,7 @@ function renderItems(collection) {
 	collection.forEach(function(item) {
 		const itemDetails =
 			`
-			<div class="card" id="${item.idName}">
+			<div class="card" id="${item.idName}" data-item-origin=${item.class}>
 			<h3 class="${item.class}">${item.placeName}</h3>	
 			<img src="${item.img}"/>
 			<div class="tags">
@@ -26,7 +26,21 @@ function renderItems(collection) {
 	})
 }
 
-const shopCat = document.createElement('div');
+// why is below (30-41) wrong? 
+// let filterContainer = document.querySelector(".card");
+// let filterOwnership = document.querySelector(".family-button");
+// filterOwnership.addEventListener("click", function(){
+
+
+//       if ( "${item.ownership} === "Family Owned") {
+//         filterContainer.style.display = "flex";
+
+//       } else {
+//         filterContainer.style.display = "none";
+//       }
+//     })
+
+// const shopCat = document.createElement('div');
 
 
 
@@ -42,9 +56,37 @@ fetch('ec_data.json')
 	})
 	.then(function(collection){
 		// And passes the data to the function, above!
-		renderItems(collection.reverse()) // In reverse order
+		renderItems(collection) // In reverse order
 	})
 
+
+// 1. Add click handler
+const buttons = document.querySelectorAll("button");
+
+buttons.forEach(function(button) {
+button.addEventListener('click', function(event) {
+	// 2. Get clicked button value.
+	const clickedButtonValue = event.target.getAttribute('value');
+  
+	//                |---------- 3a ↓ --------|
+	//.                                                     |-------- 3b ----------|
+	//  |-- 3c ↓ --|
+	let itemsToHide = document.querySelectorAll(`.card:not([data-item-origin='${clickedButtonValue}'])`);
+	let itemsToShow = document.querySelectorAll(`.card[data-item-origin='${clickedButtonValue}']`);
+  
+	// 4a. Apply classes to hide items in `itemsToHide` list.
+	itemsToHide.forEach(function(el) {
+	  el.classList.add('hide');
+	  el.classList.remove('show');
+	});
+  
+	// 4a. Apply classes to show items in `itemsToShow` list.
+	itemsToShow.forEach(function(el) {
+	  el.classList.add('show');
+	  el.classList.remove('hide');
+	});
+  });
+})
 	// const shop = JSON.parse('ec_data.json');
 	// const firstCross = 'First Cross Lane';
 	// const secondCross = 'Second Cross Lane';

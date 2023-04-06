@@ -7,7 +7,7 @@
     font-display: swap;
 }
 
-button {
+input {
     border: solid 2px;
     border-radius: 10em;
     padding: 0.5em 1em;
@@ -46,12 +46,12 @@ h3 {
     flex-flow: dense;
 }
 
-button:active {
+input:active {
     background-color: black;
     color: white;
 }
 
-button:visited {
+input:visited {
     background-color: black;
     color: white;
 }
@@ -373,7 +373,7 @@ img {
         width: 80vw;
     }
 
-    button {
+    input {
         border: solid 2px;
         border-radius: 10em;
         padding: 0.5em;
@@ -550,7 +550,7 @@ img {
         font-display: swap;
     }
     
-    button {
+    input {
         border: solid 2px;
         border-radius: 10em;
         padding: 0.5em;
@@ -735,7 +735,7 @@ img {
         font-display: swap;
     }
     
-    button {
+    input {
         border: solid 2px;
         border-radius: 10em;
         padding: 0.5em;

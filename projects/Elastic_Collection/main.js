@@ -1,13 +1,14 @@
 // Function to render your items
+const collectionList = document.getElementById('collection')
+
 function renderItems(collection) {
 	// The `ul` where the items will be inserted
-	const collectionList = document.getElementById('collection')
 
 	// Loop through each item in the collection array
-	collection.forEach(function(item) {
+	collection.forEach(function(item, index) {
 		const itemDetails =
 			`
-			<div class="card" id="${item.idName}" data-item-origin=${item.class}>
+			<div class="card" id="${item.idName}" data-item-origin=${item.class} data-item-idx=${index}>
 			<h3 class="${item.class}">${item.placeName}</h3>	
 			<img src="${item.img}"/>
 			<div class="tags">
@@ -18,11 +19,30 @@ function renderItems(collection) {
 			</div>
 				</div>
 			
-			`
-			collectionList.insertAdjacentHTML('beforeend', itemDetails) // Which can we then insert
-			// collectionList.classList.add("jShop")
-			
-//			collectionList.classList.add("bakery")
+			`;
+			collectionList.insertAdjacentHTML('beforeend', itemDetails); // Which can we then insert
+	});
+
+	const buttons = document.querySelectorAll("input[type=button][name=origin]");
+
+	buttons.forEach(function(button) {
+	button.addEventListener('click', function(event) {
+
+		const clickedButtonValue = event.target.getAttribute('value');
+
+		let itemsToHide = document.querySelectorAll(`.card:not([data-item-origin='${clickedButtonValue}'])`);
+		let itemsToShow = document.querySelectorAll(`.card[data-item-origin='${clickedButtonValue}']`);
+	  
+		itemsToHide.forEach(el => {
+		  el.classList.add('hide');
+		  el.classList.remove('show');
+		});
+
+		itemsToShow.forEach(el => {
+		  el.classList.add('show');
+		  el.classList.remove('hide');
+		});
+	  });
 	})
 }
 
@@ -58,35 +78,7 @@ fetch('ec_data.json')
 		// And passes the data to the function, above!
 		renderItems(collection) // In reverse order
 	})
-
-
 // 1. Add click handler
-const buttons = document.querySelectorAll("button");
-
-buttons.forEach(function(button) {
-button.addEventListener('click', function(event) {
-	// 2. Get clicked button value.
-	const clickedButtonValue = event.target.getAttribute('value');
-  
-	//                |---------- 3a ↓ --------|
-	//.                                                     |-------- 3b ----------|
-	//  |-- 3c ↓ --|
-	let itemsToHide = document.querySelectorAll(`.card:not([data-item-origin='${clickedButtonValue}'])`);
-	let itemsToShow = document.querySelectorAll(`.card[data-item-origin='${clickedButtonValue}']`);
-  
-	// 4a. Apply classes to hide items in `itemsToHide` list.
-	itemsToHide.forEach(function(el) {
-	  el.classList.add('hide');
-	  el.classList.remove('show');
-	});
-  
-	// 4a. Apply classes to show items in `itemsToShow` list.
-	itemsToShow.forEach(function(el) {
-	  el.classList.add('show');
-	  el.classList.remove('hide');
-	});
-  });
-})
 	// const shop = JSON.parse('ec_data.json');
 	// const firstCross = 'First Cross Lane';
 	// const secondCross = 'Second Cross Lane';

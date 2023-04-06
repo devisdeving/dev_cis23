@@ -8,7 +8,7 @@ function renderItems(collection) {
 	collection.forEach(function(item, index) {
 		const itemDetails =
 			`
-			<div class="card" id="${item.idName}" data-ownership='${item.ownership}' data-item-idx=${index}>
+			<div class="card" class="${item.side}" id="${item.idName}" data-ownership='${item.ownership}' data-item-idx=${index}>
 			<h3 class="${item.class}">${item.placeName}</h3>	
 			<img src="${item.img}"/>
 			<div class="tags">

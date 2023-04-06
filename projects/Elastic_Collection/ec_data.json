@@ -9,6 +9,7 @@
     "hours": "Mon - Sun 8:30 am - 10:00 pm",
     "img": "./Shops/shop_1.png",
     "srNo": 1,
+    "side": "left",
     "class": "gen-store"
   },
   {
@@ -21,6 +22,7 @@
     "hours": "Mon - Sun 8:30 am - 10:00 pm",
     "img": "./Shops/shop_2.png",
     "srNo": 2,
+    "side": "left",
     "class": "groc"
   },
   {
@@ -33,6 +35,7 @@
     "hours": "Mon - Sun Open 24 Hrs",
     "img": "./Shops/shop_3.png",
     "srNo": 3,
+    "side": "right",
     "class": "pharmacy"
   },
   {
@@ -45,6 +48,7 @@
     "hours": "Mon - Sun 7:00 am - 12:00 am",
     "img": "./Shops/shop_5.png",
     "srNo": 4,
+    "side": "left",
     "class": "bakery"
   },
   {
@@ -57,6 +61,7 @@
     "hours": "Mon - Sun 11:00 am - 9:00 pm",
     "img": "./Shops/shop_7.png",
     "srNo": 5,
+    "side": "right",
     "class": "bakery"
   },
   {
@@ -69,6 +74,7 @@
     "hours": "Mon - Sun 10:00 am - 9:00 pm",
     "img": "./Shops/shop_8.png",
     "srNo": 6,
+    "side": "left",
     "class": "salon"
   },
   {
@@ -81,6 +87,7 @@
     "hours": "Mon - Sun 9:45 am - 10:00 pm",
     "img": "./Shops/shop_9.png",
     "srNo": 7,
+    "side": "left",
     "class": "gen-store"
   },
   {
@@ -93,6 +100,7 @@
     "hours": "Mon - Sun 11:00 am - 10:00 pm",
     "img": "./Shops/shop_10.png",
     "srNo": 8,
+    "side": "right",
     "class": "electronics"
   },
   {
@@ -105,6 +113,7 @@
     "hours": "Mon - Sun 9:00 am - 11:00 pm",
     "img": "./Shops/shop_12.png",
     "srNo": 9,
+    "side": "left",
     "class": "bakery"
   },
   {
@@ -117,6 +126,7 @@
     "hours": "Mon - Sun 10:00 am - 10:00 pm",
     "img": "./Shops/shop_13.png",
     "srNo": 10,
+    "side": "right",
     "class": "toy"
   },
   {
@@ -129,6 +139,7 @@
     "hours": "Mon - Sun 9:00 am - 10:00 pm",
     "img": "./Shops/shop_14.png",
     "srNo": 11,
+    "side": "left",
     "class": "gen-store"
   },
   {
@@ -141,6 +152,7 @@
     "hours": "Mon - Sun 11:00 am - 10:00 pm",
     "img": "./Shops/shop_15.png",
     "srNo": 12,
+    "side": "left",
     "class": "opticians"
   },
   {
@@ -153,6 +165,7 @@
     "hours": "Mon - Sun 9:00 am - 11:30 pm",
     "img": "./Shops/shop_16.png",
     "srNo": 13,
+    "side": "right",
     "class": "restaurant"
   },
   {
@@ -165,6 +178,7 @@
     "hours": "Mon - Sun 11:00 am - 9:00 pm",
     "img": "./Shops/shop_17.png",
     "srNo": 14,
+    "side": "left",
     "class": "tailors"
   },
   {
@@ -177,6 +191,7 @@
     "hours": "Mon - Thu 9:30 am - 9:30 pm Fri - Sun 10:30 am - 10:00 pm",
     "img": "./Shops/shop_19.png",
     "srNo": 15,
+    "side": "left",
     "class": "toy"
   },
   {
@@ -189,6 +204,7 @@
     "hours": "Mon - Sun 8:30 am - 12:00 am",
     "img": "./Shops/shop_20.png",
     "srNo": 16,
+    "side": "right",
     "class": "restaurant"
   },
   {
@@ -201,6 +217,7 @@
     "hours": "Mon - Sun Open 24 Hrs",
     "img": "./Shops/shop_21.png",
     "srNo": 17,
+    "side": "left",
     "class": "pharmacy"
   },
   {
@@ -213,6 +230,7 @@
     "hours": "Mon - Sun 9:30 am - 11:00 pm",
     "img": "./Shops/shop_22.png",
     "srNo": 18,
+    "side": "left",
     "class": "bakery"
   },
   {
@@ -225,6 +243,7 @@
     "hours": "Mon - Sun 10:30 am - 10:30 pm",
     "img": "./Shops/shop_23.png",
     "srNo": 19,
+    "side": "right",
     "class": "toy"
   },
   {
@@ -237,6 +256,7 @@
     "hours": "Mon - Sun 10:30 am - 10:30 pm",
     "img": "./Shops/shop_24.png",
     "srNo": 20,
+    "side": "right",
     "class": "bakery"
   },
   {
@@ -249,6 +269,7 @@
     "hours": "Mon - Sun Open 24 Hrs",
     "img": "./Shops/shop_25.png",
     "srNo": 21,
+    "side": "right",
     "class": "ice-cream"
   },
   {
@@ -261,6 +282,7 @@
     "hours": "Mon - Sun 9:00 am - 9:00 pm",
     "img": "./Shops/shop_26.png",
     "srNo": 22,
+    "side": "right",
     "class": "bakery"
   },
   {
@@ -273,6 +295,7 @@
     "hours": "Mon - Sun 9:30 am - 1:00 am",
     "img": "./Shops/shop_27.png",
     "srNo": 23,
+    "side": "right",
     "class": "ice-cream"
   },
   {
@@ -285,6 +308,7 @@
     "hours": "Mon - Sun 12:00 pm - 1:30 am",
     "img": "./Shops/shop_28.png",
     "srNo": 24,
+    "side": "left",
     "class": "restaurant"
   },
   {
@@ -297,6 +321,7 @@
     "hours": "Mon - Sun Open 24 Hrs",
     "img": "./Shops/shop_29.png",
     "srNo": 25,
+    "side": "left",
     "class": "bank"
   },
   {
@@ -309,6 +334,7 @@
     "hours": "Mon - Fri 1:30 am - 4:00 pm Sat - Sun Closed - Closed",
     "img": "./Shops/shop_35.png",
     "srNo": 26,
+    "side": "left",
     "class": "bank"
   },
   {
@@ -321,6 +347,7 @@
     "hours": "Mon - Sun 7:15 am - 12:45 am",
     "img": "./Shops/shop_30.png",
     "srNo": 27,
+    "side": "left",
     "class": "restaurant"
   },
   {
@@ -333,6 +360,7 @@
     "hours": "Mon - Sun 10:30 am - 9:30 pm",
     "img": "./Shops/shop_31.png",
     "srNo": 28,
+    "side": "left",
     "class": "toy"
   },
   {
@@ -345,6 +373,7 @@
     "hours": "Mon 12:00 am - 11:59 pm Tue - Sun Open 24 Hrs",
     "img": "./Shops/shop_32.png",
     "srNo": 29,
+    "side": "right",
     "class": "electronics"
   },
   {
@@ -357,6 +386,7 @@
     "hours": "Mon - Sun 11:00 am - 9:00 pm",
     "img": "./Shops/shop_33.png",
     "srNo": 30,
+    "side": "right",
     "class": "salon"
   },
   {
@@ -369,6 +399,7 @@
     "hours": "Mon - Fri 8:00 am - 4:00 pm Sat 9:00 am - 2:00 pm Sun Closed - Closed",
     "img": "./Shops/shop_34.png",
     "srNo": 31,
+    "side": "right",
     "class": "bank"
   },
   {
@@ -381,6 +412,7 @@
     "hours": "Mon - Sun 10:00 am - 9:00 pm",
     "img": "./Shops/shop_37.png",
     "srNo": 32,
+    "side": "left",
     "class": "bakery"
   },
   {
@@ -393,6 +425,7 @@
     "hours": "Mon - Sun 10:00 am - 12:00 am",
     "img": "./Shops/shop_38.png",
     "srNo": 33,
+    "side": "left",
     "class": "bakery"
   },
   {
@@ -405,6 +438,7 @@
     "hours": "Mon - Sun 9:00 am - 9:00 pm",
     "img": "./Shops/shop_40.png",
     "srNo": 34,
+    "side": "right",
     "class": "toy"
   },
   {
@@ -417,6 +451,7 @@
     "hours": "Mon - Sun 6:00 am - 1:00 am",
     "img": "./Shops/shop_41.png",
     "srNo": 35,
+    "side": "right",
     "class": "ice-cream"
   },
   {
@@ -429,6 +464,7 @@
     "hours": "Mon - Fri 11:00 am - 9:00 pm Sat - Sun 10:00 am - 9:00 pm",
     "img": "./Shops/shop_42.png",
     "srNo": 36,
+    "side": "right",
     "class": "salon"
   },
   {
@@ -441,6 +477,7 @@
     "hours": "Mon - Fri 9:30 am - 4:30 pm Sat 9:30 am - 1:30 pm Sun Closed - Closed",
     "img": "./Shops/shop_43.png",
     "srNo": 37,
+    "side": "right",
     "class": "bank"
   }
 ]

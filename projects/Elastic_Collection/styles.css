@@ -377,8 +377,9 @@ img {
     
     main {
         display: grid;
-        grid-template-columns: 50% 50%;
-        width: 80vw;
+        grid-template-columns: 33% 34% 33%;
+        grid-area: ".left" ".map" ".right";
+        /* width: 80vw; */
     }
 
     .map {

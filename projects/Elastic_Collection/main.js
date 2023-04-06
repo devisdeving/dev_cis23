@@ -8,7 +8,7 @@ function renderItems(collection) {
 	collection.forEach(function(item, index) {
 		const itemDetails =
 			`
-			<div class="card" id="${item.idName}" data-item-filterOne=${item.ownership} data-item-idx=${index}>
+			<div class="card" id="${item.idName}" data-ownership='${item.ownership}' data-item-idx=${index}>
 			<h3 class="${item.class}">${item.placeName}</h3>	
 			<img src="${item.img}"/>
 			<div class="tags">
@@ -23,15 +23,15 @@ function renderItems(collection) {
 			collectionList.insertAdjacentHTML('beforeend', itemDetails); // Which can we then insert
 	});
 
-	const buttons = document.querySelectorAll("input[type=button][name=filterOne]");
+	const buttons = document.querySelectorAll("input[type=button][name=filters]");
 
 	buttons.forEach(function(filterOne) {
 		filterOne.addEventListener('click', function(event) {
-
+		console.log('clicked');
 		const clickedButtonValue = event.target.getAttribute('value');
 
-    let itemsToHide = document.querySelectorAll(`.card:not([data-item-filterOne='${clickedButtonValue}'])`);
-	let itemsToShow = document.querySelectorAll(`.card[data-item-filterOne='${clickedButtonValue}']`);
+    let itemsToHide = document.querySelectorAll(`.card:not([data-ownership='${clickedButtonValue}'])`);
+	let itemsToShow = document.querySelectorAll(`.card[data-ownership='${clickedButtonValue}']`);
 	  
 		itemsToHide.forEach(el => {
 			el.classList.add('hide');

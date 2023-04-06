@@ -59,6 +59,7 @@ input:visited {
 .filter {
     display: flex;
     flex-wrap: wrap;
+    flex-flow: dense;
     margin-top: -3em;
 }
 
@@ -374,20 +375,6 @@ img {
         width: 80vw;
     }
 
-    input {
-        border: solid 2px;
-        border-radius: 10em;
-        padding: 0.5em;
-        margin: 0.2em 0em;
-        cursor: pointer;
-    }
-    
-    .filter {
-        display: flex;
-        flex-wrap: wrap;
-        margin-top: -3em;
-    }
-
     .map {
         margin-top: 2em;
         width: 60%;
@@ -550,14 +537,6 @@ img {
         font-style: normal;
         font-display: swap;
     }
-    
-    input {
-        border: solid 2px;
-        border-radius: 10em;
-        padding: 0.5em;
-        margin: 0.2em 0em;
-        cursor: pointer;
-    }
 
     /* main {
         width: 50%;
@@ -566,12 +545,6 @@ img {
         overflow-x: hidden;
     } */
     
-    .filter {
-        display: flex;
-        flex-wrap: wrap;
-        margin-top: -3em;
-    }
-
     .map {
         margin-top: 4em;
     }
@@ -734,20 +707,6 @@ img {
         font-weight: 900;
         font-style: normal;
         font-display: swap;
-    }
-    
-    input {
-        border: solid 2px;
-        border-radius: 10em;
-        padding: 0.5em;
-        margin: 0.2em 0em;
-        cursor: pointer;
-    }
-    
-    .filter {
-        display: flex;
-        flex-wrap: wrap;
-        margin-top: -3em;
     }
 
     .map {

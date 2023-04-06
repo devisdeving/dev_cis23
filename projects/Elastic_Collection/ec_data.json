@@ -7,7 +7,7 @@
     "ownership": "Family Owned",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun 8:30 am - 10:00 pm",
-    "img": "../Shops/shop_1.png",
+    "img": "./Shops/shop_1.png",
     "srNo": 1,
     "class": "gen-store"
   },
@@ -19,7 +19,7 @@
     "ownership": "Family Owned",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun 8:30 am - 10:00 pm",
-    "img": "../Shops/shop_2.png",
+    "img": "./Shops/shop_2.png",
     "srNo": 2,
     "class": "groc"
   },
@@ -31,7 +31,7 @@
     "ownership": "Family Owned",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun Open 24 Hrs",
-    "img": "../Shops/shop_3.png",
+    "img": "./Shops/shop_3.png",
     "srNo": 3,
     "class": "pharmacy"
   },
@@ -43,7 +43,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun 7:00 am - 12:00 am",
-    "img": "../Shops/shop_5.png",
+    "img": "./Shops/shop_5.png",
     "srNo": 4,
     "class": "bakery"
   },
@@ -55,7 +55,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun 11:00 am - 9:00 pm",
-    "img": "../Shops/shop_7.png",
+    "img": "./Shops/shop_7.png",
     "srNo": 5,
     "class": "bakery"
   },
@@ -67,7 +67,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun 10:00 am - 9:00 pm",
-    "img": "../Shops/shop_8.png",
+    "img": "./Shops/shop_8.png",
     "srNo": 6,
     "class": "salon"
   },
@@ -79,7 +79,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun 9:45 am - 10:00 pm",
-    "img": "../Shops/shop_9.png",
+    "img": "./Shops/shop_9.png",
     "srNo": 7,
     "class": "gen-store"
   },
@@ -91,7 +91,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun 11:00 am - 10:00 pm",
-    "img": "../Shops/shop_10.png",
+    "img": "./Shops/shop_10.png",
     "srNo": 8,
     "class": "electronics"
   },
@@ -103,7 +103,7 @@
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
     "hours": "Mon - Sun 9:00 am - 11:00 pm",
-    "img": "../Shops/shop_12.png",
+    "img": "./Shops/shop_12.png",
     "srNo": 9,
     "class": "bakery"
   },
@@ -115,7 +115,7 @@
     "ownership": "Family Owned",
     "crossLane": "Third Cross",
     "hours": "Mon - Sun 10:00 am - 10:00 pm",
-    "img": "../Shops/shop_13.png",
+    "img": "./Shops/shop_13.png",
     "srNo": 10,
     "class": "toy"
   },
@@ -127,7 +127,7 @@
     "ownership": "Family Owned",
     "crossLane": "Third Cross",
     "hours": "Mon - Sun 9:00 am - 10:00 pm",
-    "img": "../Shops/shop_14.png",
+    "img": "./Shops/shop_14.png",
     "srNo": 11,
     "class": "gen-store"
   },
@@ -139,7 +139,7 @@
     "ownership": "Franchise",
     "crossLane": "Third Cross",
     "hours": "Mon - Sun 11:00 am - 10:00 pm",
-    "img": "../Shops/shop_15.png",
+    "img": "./Shops/shop_15.png",
     "srNo": 12,
     "class": "opticians"
   },
@@ -151,7 +151,7 @@
     "ownership": "Family Owned",
     "crossLane": "Third Cross",
     "hours": "Mon - Sun 9:00 am - 11:30 pm",
-    "img": "../Shops/shop_16.png",
+    "img": "./Shops/shop_16.png",
     "srNo": 13,
     "class": "restaurant"
   },
@@ -163,7 +163,7 @@
     "ownership": "Franchise",
     "crossLane": "Third Cross",
     "hours": "Mon - Sun 11:00 am - 9:00 pm",
-    "img": "../Shops/shop_17.png",
+    "img": "./Shops/shop_17.png",
     "srNo": 14,
     "class": "tailors"
   },
@@ -175,7 +175,7 @@
     "ownership": "Franchise",
     "crossLane": "Third Cross",
     "hours": "Mon - Thu 9:30 am - 9:30 pm Fri - Sun 10:30 am - 10:00 pm",
-    "img": "../Shops/shop_19.png",
+    "img": "./Shops/shop_19.png",
     "srNo": 15,
     "class": "toy"
   },
@@ -187,7 +187,7 @@
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun 8:30 am - 12:00 am",
-    "img": "../Shops/shop_20.png",
+    "img": "./Shops/shop_20.png",
     "srNo": 16,
     "class": "restaurant"
   },
@@ -199,7 +199,7 @@
     "ownership": "Franchise",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun Open 24 Hrs",
-    "img": "../Shops/shop_21.png",
+    "img": "./Shops/shop_21.png",
     "srNo": 17,
     "class": "pharmacy"
   },
@@ -211,7 +211,7 @@
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun 9:30 am - 11:00 pm",
-    "img": "../Shops/shop_22.png",
+    "img": "./Shops/shop_22.png",
     "srNo": 18,
     "class": "bakery"
   },
@@ -223,7 +223,7 @@
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun 10:30 am - 10:30 pm",
-    "img": "../Shops/shop_23.png",
+    "img": "./Shops/shop_23.png",
     "srNo": 19,
     "class": "toy"
   },
@@ -235,7 +235,7 @@
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun 10:30 am - 10:30 pm",
-    "img": "../Shops/shop_24.png",
+    "img": "./Shops/shop_24.png",
     "srNo": 20,
     "class": "bakery"
   },
@@ -247,7 +247,7 @@
     "ownership": "Franchise",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun Open 24 Hrs",
-    "img": "../Shops/shop_25.png",
+    "img": "./Shops/shop_25.png",
     "srNo": 21,
     "class": "ice-cream"
   },
@@ -259,7 +259,7 @@
     "ownership": "Franchise",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun 9:00 am - 9:00 pm",
-    "img": "../Shops/shop_26.png",
+    "img": "./Shops/shop_26.png",
     "srNo": 22,
     "class": "bakery"
   },
@@ -271,7 +271,7 @@
     "ownership": "Franchise",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun 9:30 am - 1:00 am",
-    "img": "../Shops/shop_27.png",
+    "img": "./Shops/shop_27.png",
     "srNo": 23,
     "class": "ice-cream"
   },
@@ -283,7 +283,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun 12:00 pm - 1:30 am",
-    "img": "../Shops/shop_28.png",
+    "img": "./Shops/shop_28.png",
     "srNo": 24,
     "class": "restaurant"
   },
@@ -295,7 +295,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun Open 24 Hrs",
-    "img": "../Shops/shop_29.png",
+    "img": "./Shops/shop_29.png",
     "srNo": 25,
     "class": "bank"
   },
@@ -307,7 +307,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Fri 1:30 am - 4:00 pm Sat - Sun Closed - Closed",
-    "img": "../Shops/shop_35.png",
+    "img": "./Shops/shop_35.png",
     "srNo": 26,
     "class": "bank"
   },
@@ -319,7 +319,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun 7:15 am - 12:45 am",
-    "img": "../Shops/shop_30.png",
+    "img": "./Shops/shop_30.png",
     "srNo": 27,
     "class": "restaurant"
   },
@@ -331,7 +331,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun 10:30 am - 9:30 pm",
-    "img": "../Shops/shop_31.png",
+    "img": "./Shops/shop_31.png",
     "srNo": 28,
     "class": "toy"
   },
@@ -343,7 +343,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon 12:00 am - 11:59 pm Tue - Sun Open 24 Hrs",
-    "img": "../Shops/shop_32.png",
+    "img": "./Shops/shop_32.png",
     "srNo": 29,
     "class": "electronics"
   },
@@ -355,7 +355,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun 11:00 am - 9:00 pm",
-    "img": "../Shops/shop_33.png",
+    "img": "./Shops/shop_33.png",
     "srNo": 30,
     "class": "salon"
   },
@@ -367,7 +367,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Fri 8:00 am - 4:00 pm Sat 9:00 am - 2:00 pm Sun Closed - Closed",
-    "img": "../Shops/shop_34.png",
+    "img": "./Shops/shop_34.png",
     "srNo": 31,
     "class": "bank"
   },
@@ -379,7 +379,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun 10:00 am - 9:00 pm",
-    "img": "../Shops/shop_37.png",
+    "img": "./Shops/shop_37.png",
     "srNo": 32,
     "class": "bakery"
   },
@@ -391,7 +391,7 @@
     "ownership": "Franchise",
     "crossLane": "First Cross",
     "hours": "Mon - Sun 10:00 am - 12:00 am",
-    "img": "../Shops/shop_38.png",
+    "img": "./Shops/shop_38.png",
     "srNo": 33,
     "class": "bakery"
   },
@@ -403,7 +403,7 @@
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
     "hours": "Mon - Sun 9:00 am - 9:00 pm",
-    "img": "../Shops/shop_40.png",
+    "img": "./Shops/shop_40.png",
     "srNo": 34,
     "class": "toy"
   },
@@ -415,7 +415,7 @@
     "ownership": "Franchise",
     "crossLane": "Past Fourth Cross",
     "hours": "Mon - Sun 6:00 am - 1:00 am",
-    "img": "../Shops/shop_41.png",
+    "img": "./Shops/shop_41.png",
     "srNo": 35,
     "class": "ice-cream"
   },
@@ -427,7 +427,7 @@
     "ownership": "Franchise",
     "crossLane": "Past Fourth Cross",
     "hours": "Mon - Fri 11:00 am - 9:00 pm Sat - Sun 10:00 am - 9:00 pm",
-    "img": "../Shops/shop_42.png",
+    "img": "./Shops/shop_42.png",
     "srNo": 36,
     "class": "salon"
   },
@@ -439,7 +439,7 @@
     "ownership": "Franchise",
     "crossLane": "Past Fourth Cross",
     "hours": "Mon - Fri 9:30 am - 4:30 pm Sat 9:30 am - 1:30 pm Sun Closed - Closed",
-    "img": "../Shops/shop_43.png",
+    "img": "./Shops/shop_43.png",
     "srNo": 37,
     "class": "bank"
   }

@@ -25,8 +25,8 @@ function renderItems(collection) {
 
 	const buttons = document.querySelectorAll("input[type=button][name=filters]");
 
-	buttons.forEach(function(filterOne) {
-		filterOne.addEventListener('click', function(event) {
+	buttons.forEach(function(filters) {
+		filters.addEventListener('click', function(event) {
 		console.log('clicked');
 		const clickedButtonValue = event.target.getAttribute('value');
 

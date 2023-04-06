@@ -50,7 +50,7 @@
   {
     "idName": "arome", 
     "placeName": "Arome",
-    "type": "Dry Fruits",
+    "type": "Groceries",
     "yearEstablished": 2018,
     "ownership": "Franchise",
     "crossLane": "Fourth Cross",
@@ -146,7 +146,7 @@
   {
     "idName": "hpoint", 
     "placeName": "High Point",
-    "type": "Restaurant",
+    "type": "Restaurants",
     "yearEstablished": 1987,
     "ownership": "Family Owned",
     "crossLane": "Third Cross",
@@ -182,7 +182,7 @@
   {
     "idName": "monchaat", 
     "placeName": "Monsoon Chaat",
-    "type": "Confectionary",
+    "type": "Restaurants",
     "yearEstablished": 1989,
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
@@ -206,7 +206,7 @@
   {
     "idName": "bkraft", 
     "placeName": "Breadkraft",
-    "type": "Confectionary & Groceries",
+    "type": "Bakery",
     "yearEstablished": "?",
     "ownership": "Family Owned",
     "crossLane": "Second Cross",
@@ -254,7 +254,7 @@
   {
     "idName": "warden", 
     "placeName": "Warden Bakery",
-    "type": "Confectionary & Groceries",
+    "type": "Bakery",
     "yearEstablished": 1979,
     "ownership": "Franchise",
     "crossLane": "Second Cross",
@@ -278,7 +278,7 @@
   {
     "idName": "foodinn", 
     "placeName": "Food Inn",
-    "type": "Restaurant",
+    "type": "Restaurants",
     "yearEstablished": 1987,
     "ownership": "Franchise",
     "crossLane": "First Cross",
@@ -314,7 +314,7 @@
   {
     "idName": "mcd", 
     "placeName": "McDonald's",
-    "type": "Restaurant",
+    "type": "Restaurants",
     "yearEstablished": 1997,
     "ownership": "Franchise",
     "crossLane": "First Cross",

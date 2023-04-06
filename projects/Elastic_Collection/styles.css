@@ -111,6 +111,13 @@ body {
     z-index: 3;
 }
 
+.shop:hover {
+    width: 3em;
+    height: 3em;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) ease-in-out;
+    transition-delay: 10ms;
+}
+
 .bakery {
     cursor: pointer;
     background-color: rgb(255, 184, 249);
@@ -232,8 +239,7 @@ img {
 }
 
 .cross {
-    font-size: 12px;
-    color: grey;
+    font-size: var(--tagSize);
     background-color: white;
     border: solid 2px black;
     padding: 1em;
@@ -466,17 +472,6 @@ img {
         margin-top: -110em;
     }
     
-    .cross {
-        font-size: 12px;
-        color: grey;
-        background-color: white;
-        border: solid 2px black;
-        padding: 1em;
-        text-align: end;
-        z-index: 2;
-        margin-top: 35em;
-    }
-    
     .cross-wrap {
         margin-top: -15em;
         position: relative;
@@ -637,17 +632,6 @@ img {
         margin-top: -110em;
     }
     
-    .cross {
-        font-size: 12px;
-        color: grey;
-        background-color: white;
-        border: solid 2px black;
-        padding: 1em;
-        text-align: end;
-        z-index: 2;
-        margin-top: 35em;
-    }
-    
     .cross-wrap {
         margin-top: -15em;
         position: relative;
@@ -800,17 +784,6 @@ img {
         display: flex;
         flex-direction: column;
         margin-top: -110em;
-    }
-    
-    .cross {
-        font-size: 12px;
-        color: grey;
-        background-color: white;
-        border: solid 2px black;
-        padding: 1em;
-        text-align: end;
-        z-index: 2;
-        margin-top: 35em;
     }
     
     .cross-wrap {

@@ -8,7 +8,7 @@ function renderItems(collection) {
 	collection.forEach(function(item, index) {
 		const itemDetails =
 			`
-			<div class="card" id="${item.idName}" data-item-origin=${item.class} data-item-idx=${index}>
+			<div class="card" id="${item.idName}" data-item-filterOne=${item.ownership} data-item-idx=${index}>
 			<h3 class="${item.class}">${item.placeName}</h3>	
 			<img src="${item.img}"/>
 			<div class="tags">
@@ -23,27 +23,27 @@ function renderItems(collection) {
 			collectionList.insertAdjacentHTML('beforeend', itemDetails); // Which can we then insert
 	});
 
-	const buttons = document.querySelectorAll("input[type=button][name=origin]");
+	const buttons = document.querySelectorAll("input[type=button][name=filterOne]");
 
-	buttons.forEach(function(button) {
-	button.addEventListener('click', function(event) {
+	buttons.forEach(function(filterOne) {
+		filterOne.addEventListener('click', function(event) {
 
 		const clickedButtonValue = event.target.getAttribute('value');
 
-		let itemsToHide = document.querySelectorAll(`.card:not([data-item-origin='${clickedButtonValue}'])`);
-		let itemsToShow = document.querySelectorAll(`.card[data-item-origin='${clickedButtonValue}']`);
+    let itemsToHide = document.querySelectorAll(`.card:not([data-item-filterOne='${clickedButtonValue}'])`);
+	let itemsToShow = document.querySelectorAll(`.card[data-item-filterOne='${clickedButtonValue}']`);
 	  
 		itemsToHide.forEach(el => {
-		  el.classList.add('hide');
-		  el.classList.remove('show');
-		});
+			el.classList.add('hide');
+			el.classList.remove('show');
+		  });
 
 		itemsToShow.forEach(el => {
-		  el.classList.add('show');
-		  el.classList.remove('hide');
+			el.classList.remove('hide');
+			el.classList.add('show'); 
 		});
-	  });
-	})
+	  })
+	});
 }
 
 // why is below (30-41) wrong? 

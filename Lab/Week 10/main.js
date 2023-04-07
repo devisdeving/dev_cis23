@@ -33,7 +33,9 @@ console.log(convertToFEl);
 
 convertToFEl.addEventListener("click", function(){
     const userInputEl = document.querySelector(".userInput");
+
     const inputValue = userInputEl.getAttribute('value');
+    console.log(inputValue);
 
     let convertedValue = cToF(inputValue);
 

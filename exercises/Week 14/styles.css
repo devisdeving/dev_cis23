@@ -1,0 +1,27 @@
+body {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-bar {
+    padding: 1.5em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 2em;
+    background-color: rgb(182, 72, 255);
+    color: rgb(252, 255, 82);
+    position: sticky;
+}
+
+h1, h2 {
+    font-family: 'Inter', sans-serif;
+}
+
+.text {
+    margin: 1em 2em;
+    padding: 3em;
+    width: 50%;
+    font-size: 1.5em;
+}

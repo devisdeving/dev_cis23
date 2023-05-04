@@ -9,8 +9,10 @@ function renderItems(collection) {
 		const itemDetails =
 			`
 			<div id="row">
-			<div id="div1">
+			<div style="width:${item.allCountedUnits * 200}px"; class="div1">
 				<p>${item.houseNumber} ${item.streetName}</p>
+				<div class="rented" width:${item.countedRentalUnits * 200}px"></div>
+				<div class="owned" width:${item.countedHomeownershipUnits * 200}px"></div>
 			</div>
 			<div id="div2">
 				<p>${item.ratio}</p>

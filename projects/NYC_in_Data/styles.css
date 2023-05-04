@@ -77,6 +77,21 @@ footer {
     font-weight: 200;
 }
 
+.div1 {
+    background-color:blue;
+    color:white;
+}
+
+.rented {
+    background-color:red;
+    height:100%;
+}
+
+.owned{
+    background-color:yellow;
+    height:100%;
+}
+
 footer a {
     text-decoration: underline;
 }

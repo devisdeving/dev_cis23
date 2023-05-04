@@ -1,0 +1,89 @@
+/* FONTS */
+@font-face {
+    font-family: 'sunset-gothic-light-trial-webfont';
+    src: url('Fonts/sunset-gothic-light-trial-webfont.woff2') format('woff2'),
+        url('Fonts/sunset-gothic-light-trial-webfont.woff') format('woff');
+        font-style: normal;
+        font-weight: normal;
+        font-display: swap;
+}
+
+@font-face {
+    font-family: 'sunset-gothic-regular-trial-webfont';
+    src: url('Fonts/sunset-gothic-regular-trial-webfont.woff2') format('woff2'),
+        url('Fonts/sunset-gothic-regular-trial-webfont.woff') format('woff');
+        font-style: normal;
+        font-weight: normal;
+        font-display: swap;
+}
+
+@font-face {
+    font-family: 'sunset-gothic-medium-trial-webfont';
+    src: url('Fonts/sunset-gothic-medium-trial-webfont.woff2') format('woff2'),
+        url('Fonts/sunset-gothic-medium-trial-webfont.woff') format('woff');
+        font-style: normal;
+        font-display: swap;
+}
+
+@font-face {
+    font-family: 'sunset-gothic-heavy-trial-webfont';
+    src: url('Fonts/sunset-gothic-heavy-trial-webfont.woff2') format('woff2'),
+        url('Fonts/sunset-gothic-heavy-trial-webfont.woff') format('woff');
+        font-style: normal;
+        font-weight: normal;
+        font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeueMontreal-Regular';
+    src: url('fonts/NeueMontreal-Regular.woff2') format('woff2'),
+        url('NeueMontreal-Regular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* VARIABLES */
+:root {
+    --font: 'sunset-gothic-light-trial-webfont', 'NeueMontreal-Regular', sans-serif;
+    --fontSize: 24px;
+}
+
+/* MOBILE: 375px */
+body {
+    font-family: var(--font);
+    font-size: var(--fontSize);
+}
+
+.topBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1em;
+    text-transform: uppercase;
+}
+
+footer {
+    font-size: 16px;
+    text-align: center;
+    font-weight: 200;
+}
+
+footer a {
+    text-decoration: underline;
+}
+
+/* DESKTOP: 768px */
+@media(min-width:768px) {
+    :root {
+        --fontSize: 36px;
+    }
+    
+    .topBar {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 1em;
+        text-transform: uppercase;
+    }
+}

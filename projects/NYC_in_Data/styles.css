@@ -45,7 +45,7 @@
 
 /* VARIABLES */
 :root {
-    --font: 'sunset-gothic-light-trial-webfont', 'NeueMontreal-Regular', sans-serif;
+    --font: 'sunset-gothic-light-trial-webfont', 'NeueMontreal-Regular', 'Inter', sans-serif;
     --fontSize: 24px;
 }
 
@@ -61,6 +61,14 @@ body {
     justify-content: space-between;
     padding: 1em;
     text-transform: uppercase;
+}
+
+#row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1em;
+    /* border: solid 2px; */
 }
 
 footer {

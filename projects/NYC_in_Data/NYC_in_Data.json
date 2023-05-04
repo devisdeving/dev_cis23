@@ -10,7 +10,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "1:3"
+    "ratio": "1:3"
   },
   {
     "houseNumber": 13,
@@ -23,7 +23,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "1:9"
+    "ratio": "1:9"
   },
   {
     "houseNumber": 21,
@@ -36,7 +36,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "5:11"
+    "ratio": "5:11"
   },
   {
     "houseNumber": 23,
@@ -49,7 +49,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "3:14"
+    "ratio": "3:14"
   },
   {
     "houseNumber": 25,
@@ -62,7 +62,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "2:16"
+    "ratio": "2:16"
   },
   {
     "houseNumber": 27,
@@ -75,7 +75,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "1:12"
+    "ratio": "1:12"
   },
   {
     "houseNumber": 89,
@@ -88,7 +88,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:15"
+    "ratio": "0:15"
   },
   {
     "houseNumber": 9,
@@ -101,7 +101,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:13"
+    "ratio": "0:13"
   },
   {
     "houseNumber": 56,
@@ -114,7 +114,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "2:17"
+    "ratio": "2:17"
   },
   {
     "houseNumber": 57,
@@ -127,7 +127,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "2:15"
+    "ratio": "2:15"
   },
   {
     "houseNumber": 58,
@@ -140,7 +140,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "1:14"
+    "ratio": "1:14"
   },
   {
     "houseNumber": 60,
@@ -153,7 +153,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "3:19"
+    "ratio": "3:19"
   },
   {
     "houseNumber": 63,
@@ -166,7 +166,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "3:15"
+    "ratio": "3:15"
   },
   {
     "houseNumber": 65,
@@ -179,7 +179,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "2:12"
+    "ratio": "2:12"
   },
   {
     "houseNumber": 67,
@@ -192,7 +192,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "4:13"
+    "ratio": "4:13"
   },
   {
     "houseNumber": 69,
@@ -205,7 +205,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "2:20"
+    "ratio": "2:20"
   },
   {
     "houseNumber": 71,
@@ -218,7 +218,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "1:12"
+    "ratio": "1:12"
   },
   {
     "houseNumber": 73,
@@ -231,7 +231,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "1:19"
+    "ratio": "1:19"
   },
   {
     "houseNumber": 75,
@@ -244,7 +244,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "1:18"
+    "ratio": "1:18"
   },
   {
     "houseNumber": 222,
@@ -257,7 +257,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "18:0"
+    "ratio": "18:0"
   },
   {
     "houseNumber": 204,
@@ -270,7 +270,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:10"
+    "ratio": "0:10"
   },
   {
     "houseNumber": 535,
@@ -283,7 +283,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "New Construction",
-    "Ratio": "11:0"
+    "ratio": "11:0"
   },
   {
     "houseNumber": 330,
@@ -296,7 +296,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "33:0"
+    "ratio": "33:0"
   },
   {
     "houseNumber": 335,
@@ -309,7 +309,7 @@
     "councilDistrict": 2,
     "postcode": 10016,
     "reportingConstructionType": "New Construction",
-    "Ratio": "23:0"
+    "ratio": "23:0"
   },
   {
     "houseNumber": 377,
@@ -322,7 +322,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:12"
+    "ratio": "0:12"
   },
   {
     "houseNumber": 544,
@@ -335,7 +335,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:14"
+    "ratio": "0:14"
   },
   {
     "houseNumber": 277,
@@ -348,7 +348,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "24:0"
+    "ratio": "24:0"
   },
   {
     "houseNumber": 635,
@@ -361,7 +361,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "269:0"
+    "ratio": "269:0"
   },
   {
     "houseNumber": 143,
@@ -374,7 +374,7 @@
     "councilDistrict": 2,
     "postcode": 10010,
     "reportingConstructionType": "Preservation",
-    "Ratio": "327:0"
+    "ratio": "327:0"
   },
   {
     "houseNumber": 139,
@@ -387,7 +387,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "45:0"
+    "ratio": "45:0"
   },
   {
     "houseNumber": 54,
@@ -400,7 +400,7 @@
     "councilDistrict": 2,
     "postcode": 10010,
     "reportingConstructionType": "Preservation",
-    "Ratio": "50:0"
+    "ratio": "50:0"
   },
   {
     "houseNumber": 147,
@@ -413,7 +413,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 37,
@@ -426,7 +426,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "6:0"
+    "ratio": "6:0"
   },
   {
     "houseNumber": 77,
@@ -439,7 +439,7 @@
     "councilDistrict": 2,
     "postcode": 10003,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:15"
+    "ratio": "0:15"
   },
   {
     "houseNumber": 195,
@@ -452,7 +452,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:9"
+    "ratio": "0:9"
   },
   {
     "houseNumber": 406,
@@ -465,7 +465,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:21"
+    "ratio": "0:21"
   },
   {
     "houseNumber": 533,
@@ -478,7 +478,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:14"
+    "ratio": "0:14"
   },
   {
     "houseNumber": 302,
@@ -491,7 +491,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "New Construction",
-    "Ratio": "45:0"
+    "ratio": "45:0"
   },
   {
     "houseNumber": 276,
@@ -504,7 +504,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:17"
+    "ratio": "0:17"
   },
   {
     "houseNumber": 195,
@@ -517,7 +517,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "16:0"
+    "ratio": "16:0"
   },
   {
     "houseNumber": 199,
@@ -530,7 +530,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "23:0"
+    "ratio": "23:0"
   },
   {
     "houseNumber": 627,
@@ -543,7 +543,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "35:0"
+    "ratio": "35:0"
   },
   {
     "houseNumber": 374,
@@ -556,7 +556,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "17:0"
+    "ratio": "17:0"
   },
   {
     "houseNumber": 368,
@@ -569,7 +569,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "2:27"
+    "ratio": "2:27"
   },
   {
     "houseNumber": 460,
@@ -582,7 +582,7 @@
     "councilDistrict": 1,
     "postcode": 10013,
     "reportingConstructionType": "New Construction",
-    "Ratio": "22:0"
+    "ratio": "22:0"
   },
   {
     "houseNumber": 145,
@@ -595,7 +595,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "New Construction",
-    "Ratio": "104:0"
+    "ratio": "104:0"
   },
   {
     "houseNumber": 115,
@@ -608,7 +608,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "New Construction",
-    "Ratio": "98:0"
+    "ratio": "98:0"
   },
   {
     "houseNumber": 164,
@@ -621,7 +621,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "New Construction",
-    "Ratio": "100:0"
+    "ratio": "100:0"
   },
   {
     "houseNumber": 351,
@@ -634,7 +634,7 @@
     "councilDistrict": 3,
     "postcode": 10036,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 315,
@@ -647,7 +647,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 363,
@@ -660,7 +660,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 350,
@@ -673,7 +673,7 @@
     "councilDistrict": 3,
     "postcode": 10011,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 365,
@@ -686,7 +686,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 270,
@@ -699,7 +699,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 311,
@@ -712,7 +712,7 @@
     "councilDistrict": 3,
     "postcode": 10011,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 345,
@@ -725,7 +725,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 341,
@@ -738,7 +738,7 @@
     "councilDistrict": 3,
     "postcode": 10011,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 330,
@@ -751,7 +751,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 365,
@@ -764,7 +764,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 244,
@@ -777,7 +777,7 @@
     "councilDistrict": 1,
     "postcode": 10012,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 176,
@@ -790,7 +790,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "29:0"
+    "ratio": "29:0"
   },
   {
     "houseNumber": 180,
@@ -803,7 +803,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "25:0"
+    "ratio": "25:0"
   },
   {
     "houseNumber": 257,
@@ -816,7 +816,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 733,
@@ -829,7 +829,7 @@
     "councilDistrict": 3,
     "postcode": 10036,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 1850,
@@ -842,7 +842,7 @@
     "councilDistrict": 5,
     "postcode": 10128,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 81,
@@ -855,7 +855,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "20:0"
+    "ratio": "20:0"
   },
   {
     "houseNumber": 194,
@@ -868,7 +868,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "New Construction",
-    "Ratio": "121:0"
+    "ratio": "121:0"
   },
   {
     "houseNumber": 140,
@@ -881,7 +881,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "New Construction",
-    "Ratio": "93:0"
+    "ratio": "93:0"
   },
   {
     "houseNumber": 424,
@@ -894,7 +894,7 @@
     "councilDistrict": 3,
     "postcode": 10019,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 303,
@@ -907,7 +907,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 217,
@@ -920,7 +920,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 165,
@@ -933,7 +933,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 167,
@@ -946,7 +946,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 169,
@@ -959,7 +959,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 77,
@@ -972,7 +972,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 134,
@@ -985,7 +985,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 391,
@@ -998,7 +998,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 327,
@@ -1011,7 +1011,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 171,
@@ -1024,7 +1024,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 218,
@@ -1037,7 +1037,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 531,
@@ -1050,7 +1050,7 @@
     "councilDistrict": 3,
     "postcode": 10011,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 169,
@@ -1063,7 +1063,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 334,
@@ -1076,7 +1076,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 173,
@@ -1089,7 +1089,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 330,
@@ -1102,7 +1102,7 @@
     "councilDistrict": 3,
     "postcode": 10013,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 155,
@@ -1115,7 +1115,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 248,
@@ -1128,7 +1128,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 412,
@@ -1141,7 +1141,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 13,
@@ -1154,7 +1154,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:10"
+    "ratio": "0:10"
   },
   {
     "houseNumber": 2,
@@ -1167,7 +1167,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 1,
@@ -1180,7 +1180,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 700,
@@ -1193,7 +1193,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 236,
@@ -1206,7 +1206,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 238,
@@ -1219,7 +1219,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 445,
@@ -1232,7 +1232,7 @@
     "councilDistrict": 3,
     "postcode": 10014,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 628,
@@ -1245,7 +1245,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 614,
@@ -1258,7 +1258,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 17,
@@ -1271,7 +1271,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 315,
@@ -1284,7 +1284,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 363,
@@ -1297,7 +1297,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 350,
@@ -1310,7 +1310,7 @@
     "councilDistrict": 3,
     "postcode": 10011,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 365,
@@ -1323,7 +1323,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 270,
@@ -1336,7 +1336,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 311,
@@ -1349,7 +1349,7 @@
     "councilDistrict": 3,
     "postcode": 10011,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 345,
@@ -1362,7 +1362,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 341,
@@ -1375,7 +1375,7 @@
     "councilDistrict": 3,
     "postcode": 10011,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 330,
@@ -1388,7 +1388,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 365,
@@ -1401,7 +1401,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 64,
@@ -1414,7 +1414,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "New Construction",
-    "Ratio": "115:0"
+    "ratio": "115:0"
   },
   {
     "houseNumber": 10,
@@ -1427,7 +1427,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 30,
@@ -1440,7 +1440,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 82,
@@ -1453,7 +1453,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "198:0"
+    "ratio": "198:0"
   },
   {
     "houseNumber": 25,
@@ -1466,7 +1466,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:141"
+    "ratio": "0:141"
   },
   {
     "houseNumber": 54,
@@ -1479,7 +1479,7 @@
     "councilDistrict": 2,
     "postcode": 10010,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 35,
@@ -1492,7 +1492,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:145"
+    "ratio": "0:145"
   },
   {
     "houseNumber": 220,
@@ -1505,7 +1505,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 621,
@@ -1518,7 +1518,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 75,
@@ -1531,7 +1531,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:124"
+    "ratio": "0:124"
   },
   {
     "houseNumber": 605,
@@ -1544,7 +1544,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:124"
+    "ratio": "0:124"
   },
   {
     "houseNumber": 645,
@@ -1557,7 +1557,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:124"
+    "ratio": "0:124"
   },
   {
     "houseNumber": 675,
@@ -1570,7 +1570,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:124"
+    "ratio": "0:124"
   },
   {
     "houseNumber": 165,
@@ -1583,7 +1583,7 @@
     "councilDistrict": 1,
     "postcode": 10002,
     "reportingConstructionType": "New Construction",
-    "Ratio": "232:0"
+    "ratio": "232:0"
   },
   {
     "houseNumber": 96,
@@ -1596,7 +1596,7 @@
     "councilDistrict": 1,
     "postcode": 10013,
     "reportingConstructionType": "Preservation",
-    "Ratio": "88:0"
+    "ratio": "88:0"
   },
   {
     "houseNumber": 425,
@@ -1609,7 +1609,7 @@
     "councilDistrict": 3,
     "postcode": 10011,
     "reportingConstructionType": "New Construction",
-    "Ratio": "160:0"
+    "ratio": "160:0"
   },
   {
     "houseNumber": 525,
@@ -1622,7 +1622,7 @@
     "councilDistrict": 3,
     "postcode": 10019,
     "reportingConstructionType": "New Construction",
-    "Ratio": "103:0"
+    "ratio": "103:0"
   },
   {
     "houseNumber": 330,
@@ -1635,7 +1635,7 @@
     "councilDistrict": 3,
     "postcode": 10019,
     "reportingConstructionType": "Preservation",
-    "Ratio": "109:0"
+    "ratio": "109:0"
   },
   {
     "houseNumber": 207,
@@ -1648,7 +1648,7 @@
     "councilDistrict": 3,
     "postcode": 10011,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:26"
+    "ratio": "0:26"
   },
   {
     "houseNumber": 261,
@@ -1661,7 +1661,7 @@
     "councilDistrict": 3,
     "postcode": 10013,
     "reportingConstructionType": "New Construction",
-    "Ratio": "41:0"
+    "ratio": "41:0"
   },
   {
     "houseNumber": 748,
@@ -1674,7 +1674,7 @@
     "councilDistrict": 3,
     "postcode": 10019,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:3"
+    "ratio": "0:3"
   },
   {
     "houseNumber": 464,
@@ -1687,7 +1687,7 @@
     "councilDistrict": 3,
     "postcode": 10019,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:8"
+    "ratio": "0:8"
   },
   {
     "houseNumber": 105,
@@ -1700,7 +1700,7 @@
     "councilDistrict": 3,
     "postcode": 10011,
     "reportingConstructionType": "Preservation",
-    "Ratio": "18:0"
+    "ratio": "18:0"
   },
   {
     "houseNumber": 414,
@@ -1713,7 +1713,7 @@
     "councilDistrict": 3,
     "postcode": 10036,
     "reportingConstructionType": "Preservation",
-    "Ratio": "54:0"
+    "ratio": "54:0"
   },
   {
     "houseNumber": 546,
@@ -1726,7 +1726,7 @@
     "councilDistrict": 3,
     "postcode": 10036,
     "reportingConstructionType": "New Construction",
-    "Ratio": "62:0"
+    "ratio": "62:0"
   },
   {
     "houseNumber": 127,
@@ -1739,7 +1739,7 @@
     "councilDistrict": 4,
     "postcode": 10036,
     "reportingConstructionType": "Preservation",
-    "Ratio": "291:0"
+    "ratio": "291:0"
   },
   {
     "houseNumber": 626,
@@ -1752,7 +1752,7 @@
     "councilDistrict": 4,
     "postcode": 10016,
     "reportingConstructionType": "New Construction",
-    "Ratio": "160:0"
+    "ratio": "160:0"
   },
   {
     "houseNumber": 200,
@@ -1765,7 +1765,7 @@
     "councilDistrict": 5,
     "postcode": 10128,
     "reportingConstructionType": "Preservation",
-    "Ratio": "92:0"
+    "ratio": "92:0"
   },
   {
     "houseNumber": 1553,
@@ -1778,7 +1778,7 @@
     "councilDistrict": 5,
     "postcode": 10029,
     "reportingConstructionType": "Preservation",
-    "Ratio": "9:0"
+    "ratio": "9:0"
   },
   {
     "houseNumber": 1850,
@@ -1791,7 +1791,7 @@
     "councilDistrict": 5,
     "postcode": 10128,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 162,
@@ -1804,7 +1804,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 411,
@@ -1817,7 +1817,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 710,
@@ -1830,7 +1830,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 711,
@@ -1843,7 +1843,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 1555,
@@ -1856,7 +1856,7 @@
     "councilDistrict": 5,
     "postcode": 10029,
     "reportingConstructionType": "Preservation",
-    "Ratio": "9:0"
+    "ratio": "9:0"
   },
   {
     "houseNumber": 330,
@@ -1869,7 +1869,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 310,
@@ -1882,7 +1882,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 507,
@@ -1895,7 +1895,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 202,
@@ -1908,7 +1908,7 @@
     "councilDistrict": 4,
     "postcode": 10016,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 331,
@@ -1921,7 +1921,7 @@
     "councilDistrict": 2,
     "postcode": 10002,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 855,
@@ -1934,7 +1934,7 @@
     "councilDistrict": 3,
     "postcode": 10001,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 160,
@@ -1947,7 +1947,7 @@
     "councilDistrict": 4,
     "postcode": 10016,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 1265,
@@ -1960,7 +1960,7 @@
     "councilDistrict": 5,
     "postcode": 10029,
     "reportingConstructionType": "Preservation",
-    "Ratio": "10:0"
+    "ratio": "10:0"
   },
   {
     "houseNumber": 203,
@@ -1973,7 +1973,7 @@
     "councilDistrict": 5,
     "postcode": 10128,
     "reportingConstructionType": "New Construction",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 460,
@@ -1986,7 +1986,7 @@
     "councilDistrict": 5,
     "postcode": 10044,
     "reportingConstructionType": "New Construction",
-    "Ratio": "341:0"
+    "ratio": "341:0"
   },
   {
     "houseNumber": 710,
@@ -1999,7 +1999,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 162,
@@ -2012,7 +2012,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 711,
@@ -2025,7 +2025,7 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   },
   {
     "houseNumber": 411,
@@ -2038,6 +2038,6 @@
     "councilDistrict": 2,
     "postcode": 10009,
     "reportingConstructionType": "Preservation",
-    "Ratio": "0:0"
+    "ratio": "0:0"
   }
 ]

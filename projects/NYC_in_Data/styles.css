@@ -46,7 +46,7 @@
 /* VARIABLES */
 :root {
     --font: 'sunset-gothic-light-trial-webfont', 'NeueMontreal-Regular', 'Inter', sans-serif;
-    --fontSize: 2rem;
+    --fontSize: 1rem;
     --gradient1: linear-gradient(90deg, #ABC600, #313800);
     --gradient2: linear-gradient(90deg, #EA6CFF, #313800);
     --gradient3: linear-gradient(90deg, #005F31, #313800);
@@ -60,6 +60,9 @@
 body {
     font-family: var(--font);
     font-size: var(--fontSize);
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
 }
 
 svg {
@@ -119,18 +122,20 @@ footer {
 
 .all {
     background:var(--gradient1);
-    display: flex;
-    flex-direction: row;
 }
 
 .rented {
     background:var(--gradient6);
     height:100%;
+    display: flex;
+    align-items: center;
 }
 
 .owned{
     background:var(--gradient3);
     height:100%;
+    display: flex;
+    align-items: center;
 }
 
 footer a {
@@ -140,7 +145,7 @@ footer a {
 /* DESKTOP: 768px */
 @media(min-width:768px) {
     :root {
-        --fontSize: 36px;
+        --fontSize: 120%;
     }
     
     .topBar {

@@ -46,13 +46,41 @@
 /* VARIABLES */
 :root {
     --font: 'sunset-gothic-light-trial-webfont', 'NeueMontreal-Regular', 'Inter', sans-serif;
-    --fontSize: 24px;
+    --fontSize: 2rem;
+    --gradient1: linear-gradient(90deg, #ABC600, #313800);
+    --gradient2: linear-gradient(90deg, #EA6CFF, #313800);
+    --gradient3: linear-gradient(90deg, #005F31, #313800);
+    --gradient4: linear-gradient(90deg, #D1ACFF, #313800);
+    --gradient5: linear-gradient(90deg, #734132, #313800);
+    --gradient6: linear-gradient(90deg, #6F8EFF, #313800);
+
 }
 
 /* MOBILE: 375px */
 body {
     font-family: var(--font);
     font-size: var(--fontSize);
+}
+
+svg {
+    height: 0px;
+}
+
+#set:before,
+#set:after {
+position: absolute;
+left: 0;
+top: 0;
+content: '';
+width: 1000%;
+height: 1000%;
+z-index: 9999;
+opacity: 50%;
+}
+
+#set:before {
+background: #000000;
+filter: url(#grainy);
 }
 
 .topBar {
@@ -63,12 +91,24 @@ body {
     text-transform: uppercase;
 }
 
+#set {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color:white;
+}
+
 #row {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    padding: 1em;
-    /* border: solid 2px; */
+}
+
+.rowText {
+    font-size: var(--fontSize);
+}
+
+#row p {
+    margin: 0.5em;
 }
 
 footer {
@@ -77,18 +117,19 @@ footer {
     font-weight: 200;
 }
 
-.div1 {
-    background-color:blue;
-    color:white;
+.all {
+    background:var(--gradient1);
+    display: flex;
+    flex-direction: row;
 }
 
 .rented {
-    background-color:red;
+    background:var(--gradient6);
     height:100%;
 }
 
 .owned{
-    background-color:yellow;
+    background:var(--gradient3);
     height:100%;
 }
 

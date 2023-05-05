@@ -1,0 +1,15 @@
+.psMain {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+
+.ps1 {
+    background-color: aqua;
+    width: 34%;
+}
+
+.ps2 {
+    background-color: yellow;
+    width: 66%;
+}

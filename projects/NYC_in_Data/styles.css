@@ -116,7 +116,7 @@ filter: url(#grainy);
     display: flex;
     flex-direction: row;
     position: relative; 
-    animation: oscillate 2s ease-in-out infinite;
+    animation: oscillate 5s infinite;
     animation-delay: calc(var(--delay) * 1ms);
     overflow: hidden;
 }

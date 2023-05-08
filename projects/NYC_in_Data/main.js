@@ -1,24 +1,24 @@
 const collectionList = document.getElementById('set')
 
 const rentedGradients = [
-	'linear-gradient(90deg, #000000, #ABC600)',
-	'linear-gradient(90deg, #000000, #EA6CFF)',
-	'linear-gradient(90deg, #000000, #00703a)',
-	'linear-gradient(90deg, #000000, #D1ACFF)',
-	'linear-gradient(90deg, #000000, #734132)',
-	'linear-gradient(90deg, #000000, #436cff)'
+	'linear-gradient(90deg, #000000 5%, #436cff, #ABC600)',
+	'linear-gradient(90deg, #000000 5%, #CAFFD2, #EA6CFF)',
+	'linear-gradient(90deg, #000000 5%, #D1ACFF, #00703a)',
+	'linear-gradient(90deg, #000000 5%, ,#00703a, #D1ACFF)',
+	'linear-gradient(90deg, #000000 5%, #00703a, #CAFFD2)',
+	'linear-gradient(90deg, #000000 5%, #ABC600, #436cff)'
   ];
   const ownedGradients = [
-'linear-gradient(90deg, #000000, #ABC600)',
-'linear-gradient(90deg, #000000, #EA6CFF)',
-'linear-gradient(90deg, #000000, #00703a)',
-'linear-gradient(90deg, #000000, #D1ACFF)',
-'linear-gradient(90deg, #000000, #734132)',
-'linear-gradient(90deg, #000000, #436cff)'
+	'linear-gradient(-90deg, #000000 5%, #436cff, #ABC600)',
+	'linear-gradient(-90deg, #000000 5%, #CAFFD2, #EA6CFF)',
+	'linear-gradient(-90deg, #000000 5%, #D1ACFF, #00703a)',
+	'linear-gradient(-90deg, #000000 5%, ,#00703a, #D1ACFF)',
+	'linear-gradient(-90deg, #000000 5%, #00703a, #CAFFD2)',
+	'linear-gradient(-90deg, #000000 5%, #ABC600, #436cff)'
   ];
-  
-  let lastRentedGradient = null;
-  let lastOwnedGradient = null;
+
+	let lastRentedGradient = null;
+	let lastOwnedGradient = null;
   
   function getRandomGradient(gradients, lastGradient) {
 	let gradient = lastGradient;
@@ -29,9 +29,10 @@ const rentedGradients = [
   }
 
 function renderItems(collection) {
+
 	collection.forEach(function(item, index) {
-	  const rentedGradient = getRandomGradient(rentedGradients);
-	  const ownedGradient = getRandomGradient(ownedGradients);
+	  const rentedGradient = getRandomGradient(rentedGradients, lastRentedGradient);
+	  const ownedGradient = getRandomGradient(ownedGradients, lastOwnedGradient);
 		// if (item.countedHomeownershipUnits === 0) {
 		// 	return;
 		// } 
@@ -43,22 +44,34 @@ function renderItems(collection) {
 
 		const itemDetails =
 			`
-			<div id="row"  class="${emptyClass}"
+			<div id="row" class="${emptyClass}"
 			style="
 			height:${item.baseSquareFootage/20}px; 
 			width: 100vw;
-			--delay:${Math.random() * 2000}">
-			<!--<p  class="rowText">${item.ratio}</p>-->
-			<div class="rowText">${item.houseNumber} ${item.streetName} ${item.postcode}</div>
+			--delay:${Math.random() * 2000};
+			.rowText {
+				display: none;
+				color: white;
+				font-size: var(--fontSize);
+			}
+			
+			.rowText:hover {
+				display: block;
+			}">
+			<div class="rowText">
+			<p>${item.houseNumber} ${item.streetName} ${item.postcode}</p>
+			<p>${item.ratio}</p>
+			</div>
 			<div class="rented" style="width:${item.countedRentalUnits / item.allCountedUnits * 100}%; background-image:${rentedGradient}">
 				</div>
 				<div class="owned" style="width:${item.countedHomeownershipUnits / item.allCountedUnits * 100}%; background-image:${ownedGradient}"">
 				</div>
-				<!--<p  class="rowText">${item.houseNumber} ${item.streetName} ${item.postcode}</p>-->
-
 			</div>
 			`;
 			collectionList.insertAdjacentHTML('beforeend', itemDetails);
+
+			lastRentedGradient = rentedGradient;
+			lastOwnedGradient = ownedGradient;
 	});
 
 	collection.forEach

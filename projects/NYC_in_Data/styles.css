@@ -122,18 +122,22 @@ filter: url(#grainy);
 }
 
 #row:hover {
-    animation-play-state: paused;
+    -webkit-animation-play-state:paused;
+    -moz-animation-play-state:paused;
+    -o-animation-play-state:paused;
+    animation-play-state:paused;
+    cursor: pointer;
   }
 
 @keyframes oscillate {
         0% {
-          left: 0; /* start at the left edge */
+          left: 0;
         }
         50% {
-          left: 30px; /* move 20px to the right */
+          left: 60px;
         }
         100% {
-          left: 0; /* return to the starting position */
+          left: 0;
         }
     }
 
@@ -141,14 +145,19 @@ filter: url(#grainy);
     /* display: none; */
     color: white;
     font-size: var(--fontSize);
+    position: relative;
+    z-index: 10001;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
-#row:hover .rowText {
+/* .rowText:hover {
     display: block;
-}
+} */
 
 #row p {
-    margin: 0.5em;
+    margin: 1em;
 }
 
 footer {

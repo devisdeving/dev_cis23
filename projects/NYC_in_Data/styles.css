@@ -71,7 +71,7 @@ svg {
     height: 0px;
 }
 
-#set:before,
+/* #set:before,
 #set:after {
 position: fixed;
 left: 0;
@@ -87,7 +87,7 @@ mix-blend-mode: overlay;
 #set:before {
 background: #000000;
 filter: url(#grainy);
-}
+} */
 
 #set {
     width: 100vw;
@@ -130,7 +130,7 @@ filter: url(#grainy);
 }
 
 #row:not(.rowText) {
-    animation: oscillate 5s ease-in-out infinite;
+    animation: oscillate 7s ease-in-out infinite;
     animation-delay: calc(var(--delay) * 1ms);
 }
 
@@ -217,10 +217,7 @@ a:hover {
 #row:hover {
     animation-play-state: paused;
     cursor: pointer;
-}
-
-.rowText:hover {
-    animation-play-state: paused;
+    animation-delay: 100ms;
 }
 
 /* DESKTOP: 768px */

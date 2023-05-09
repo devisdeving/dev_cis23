@@ -64,6 +64,11 @@ function renderItems(collection) {
 			height:${heightCalc}px; 
 			width: ${item.allCountedUnits * 100}px;
 			--delay:${Math.random() * 2000};">
+			<svg id="grainy">
+                    <feTurbulence
+                        type="turbulence"
+                        baseFrequency="10.95"/>
+            </svg> 
 				<div class="rowText" style="height:${heightCalc}px">
 					<p>${item.ratio}</p>
 					<p>${item.houseNumber} ${item.streetName} ${item.postcode}</p>

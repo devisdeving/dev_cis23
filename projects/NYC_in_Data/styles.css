@@ -92,6 +92,7 @@ filter: url(#grainy);
 #set {
     width: 100vw;
     margin-top: 50px;
+    position: relative;
 }
 
 .topBar {
@@ -127,6 +128,15 @@ filter: url(#grainy);
     justify-content: space-between;
     position: relative; 
     z-index: 9999;
+}
+
+#grainy {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10003;
 }
 
 #row:not(.rowText) {

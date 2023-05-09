@@ -48,12 +48,12 @@
     --h1Font: 'sunset-gothic-regular-trial-webfont', 'NeueMontreal-Regular', 'Inter', sans-serif;
     --font: 'sunset-gothic-light-trial-webfont', 'NeueMontreal-Regular', 'Inter', sans-serif;
     --fontSize: 1rem;
-    --gradient1: linear-gradient(90deg, #000000, #ABC600);
-    --gradient2: linear-gradient(90deg, #000000, #EA6CFF);
-    --gradient3: linear-gradient(90deg, #000000, #00703a);
-    --gradient4: linear-gradient(90deg, #000000, #D1ACFF);
-    --gradient5: linear-gradient(90deg, #000000, #734132);
-    --gradient6: linear-gradient(90deg, #000000, #436cff);
+    --gradient1: linear-gradient(90deg, #000000, #436cff, #ABC600);
+    --gradient2: linear-gradient(90deg, #000000, #CAFFD2, #EA6CFF);
+    --gradient3: linear-gradient(90deg, #000000, #D1ACFF, #00703a);
+    --gradient4: linear-gradient(90deg, #000000, #00703a, #EA6CFF);
+    --gradient5: linear-gradient(90deg, #000000, #00703a, #CAFFD2);
+    --gradient6: linear-gradient(90deg, #000000, #ABC600, #436cff);
 
 }
 
@@ -62,6 +62,7 @@ body {
     font-family: var(--font);
     font-size: var(--fontSize);
     background-color: #000000;
+    color: white;
     /* display: flex;
     flex-direction: column;
     overflow-x: hidden; */
@@ -95,9 +96,10 @@ filter: url(#grainy);
     padding: 1em;
     text-transform: uppercase;
     font-family: var(--h1Font);
-    background-color: white;
+    background-color: #0b0b0b;
     position: relative;
     z-index: 10000;
+    color: white;
 }
 
 .empty {
@@ -182,6 +184,11 @@ footer {
     height:100%;
     display: flex;
     align-items: center;
+}
+
+.bio {
+    padding: 2em;
+    line-height: 25px;
 }
 
 footer a {

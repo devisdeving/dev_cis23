@@ -4,7 +4,7 @@ const rentedGradients = [
 	'linear-gradient(90deg, #000000 5%, #436cff, #ABC600)',
 	'linear-gradient(90deg, #000000 5%, #CAFFD2, #EA6CFF)',
 	'linear-gradient(90deg, #000000 5%, #D1ACFF, #00703a)',
-	'linear-gradient(90deg, #000000 5%, ,#00703a, #D1ACFF)',
+	'linear-gradient(90deg, #000000 5%, #00703a, #EA6CFF)',
 	'linear-gradient(90deg, #000000 5%, #00703a, #CAFFD2)',
 	'linear-gradient(90deg, #000000 5%, #ABC600, #436cff)'
   ];
@@ -12,7 +12,7 @@ const rentedGradients = [
 	'linear-gradient(-90deg, #000000 5%, #436cff, #ABC600)',
 	'linear-gradient(-90deg, #000000 5%, #CAFFD2, #EA6CFF)',
 	'linear-gradient(-90deg, #000000 5%, #D1ACFF, #00703a)',
-	'linear-gradient(-90deg, #000000 5%, ,#00703a, #D1ACFF)',
+	'linear-gradient(-90deg, #000000 5%, ,#00703a, #EA6CFF)',
 	'linear-gradient(-90deg, #000000 5%, #00703a, #CAFFD2)',
 	'linear-gradient(-90deg, #000000 5%, #ABC600, #436cff)'
   ];

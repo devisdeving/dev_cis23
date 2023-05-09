@@ -31,40 +31,46 @@ const rentedGradients = [
 function renderItems(collection) {
 
 	collection.forEach(function(item, index) {
+
+		const rentalCalc = item.countedRentalUnits / item.allCountedUnits * 100;
+		const ownedCalc = item.countedHomeownershipUnits / item.allCountedUnits * 100;
+		const heightCalc = item.baseSquareFootage/20;
+		const zeroZero = item.ratio;
+  
+		// if (rentalCalc == 0) {
+		//   return;
+		// }
+
+		// if (ownedCalc == 0) {
+		// 	return;
+		//   }
+
+		  if (zeroZero === '0:0') {
+			return;
+		  }
+
+		  if (item === 0) {
+			return;
+		  }
+
 	  const rentedGradient = getRandomGradient(rentedGradients, lastRentedGradient);
 	  const ownedGradient = getRandomGradient(ownedGradients, lastOwnedGradient);
-		// if (item.countedHomeownershipUnits === 0) {
-		// 	return;
-		// } 
-		
-		// if (item.countedRentalUnits === 0) {
-		// 	return;
-		// }  
-		const emptyClass = item.allCountedUnits === 0 ? 'empty' : '';
+	  const ghostClass = heightCalc === 0.1 ? 'ghost' : '';
 
 		const itemDetails =
 			`
-			<div id="row" class="${emptyClass}"
+			<div id="row" class="${ghostClass}"
 			style="
-			height:${item.baseSquareFootage/10}px; 
-			width: 100vw;
-			--delay:${Math.random() * 2000};
-			.rowText {
-				display: none;
-				color: white;
-				font-size: var(--fontSize);
-			}
-			
-			.rowText:hover {
-				display: block;
-			}">
-			<div class="rowText">
-			<p>${item.houseNumber} ${item.streetName} ${item.postcode}</p>
-			<p>${item.ratio}</p>
-			</div>
-			<div class="rented" style="width:${item.countedRentalUnits / item.allCountedUnits * 100}%; background-image:${rentedGradient}">
+			height:${heightCalc}px; 
+			width: ${item.allCountedUnits * 100}px;
+			--delay:${Math.random() * 2000};">
+				<div class="rowText" style="height:${heightCalc}px">
+					<p>${item.ratio}</p>
+					<p>${item.houseNumber} ${item.streetName} ${item.postcode}</p>
 				</div>
-				<div class="owned" style="width:${item.countedHomeownershipUnits / item.allCountedUnits * 100}%; background-image:${ownedGradient}; opacity:">
+				<div class="rented ${ghostClass}" style="width: ${rentalCalc}%; background-image:${rentedGradient}">
+				</div>
+				<div class="owned ${ghostClass}" style="width:${ownedCalc}%; background-image:${ownedGradient}">
 				</div>
 			</div>
 			`;
@@ -87,16 +93,4 @@ fetch('NYC_in_Data.json')
 		renderItems(collection)
 	})
 
-	// <div id="row"
-	// style="
-	// height:${item.baseSquareFootage/20}px; 
-	// width: ${item.allCountedUnits * 50}px;">
-	// <p  class="rowText">${item.ratio}</p>
-	// <div class="rented" style="width:${item.countedRentalUnits / item.allCountedUnits * 100}%">
-	// 	</div>
-	// 	<div class="owned" style="width:${item.countedHomeownershipUnits * 50}px">
-	// 	</div>
-	// 	<p  class="rowText">${item.houseNumber} ${item.streetName} ${item.postcode}</p>
-
-	// </div>
 	

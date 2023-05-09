@@ -80,7 +80,8 @@ content: '';
 width: 100vw;
 height: 100vh;
 z-index: 10001;
-opacity: 50%;
+opacity: 75%;
+mix-blend-mode: overlay;
 }
 
 #set:before {
@@ -90,7 +91,7 @@ filter: url(#grainy);
 
 #set {
     width: 100vw;
-    margin-top: 60px;
+    margin-top: 50px;
 }
 
 .topBar {
@@ -135,13 +136,13 @@ filter: url(#grainy);
 
 @keyframes oscillate {
         0% {
-          left: 100vw;
+          left: 400vw;
         }
         50% {
             left: 0vw;
           }
         100% {
-            left: -100vw;
+            left: -400vw;
           }
     }
 
@@ -213,6 +214,15 @@ a:hover {
     margin-top: 2em;
 }
 
+#row:hover {
+    animation-play-state: paused;
+    cursor: pointer;
+}
+
+.rowText:hover {
+    animation-play-state: paused;
+}
+
 /* DESKTOP: 768px */
 @media(min-width:768px) {
     :root {
@@ -234,7 +244,7 @@ a:hover {
         background-color: #0b0b0b;
         position: fixed;
         width: 100vw;
-        z-index: 10000;
+        z-index: 10002;
         color: white;
     }
 

@@ -55,7 +55,7 @@ function renderItems(collection) {
 
 	  const rentedGradient = getRandomGradient(rentedGradients, lastRentedGradient);
 	  const ownedGradient = getRandomGradient(ownedGradients, lastOwnedGradient);
-	  const ghostClass = heightCalc === 0.1 ? 'ghost' : '';
+	  const ghostClass = heightCalc === 0.1 ? 'ghost' : '#';
 
 		const itemDetails =
 			`

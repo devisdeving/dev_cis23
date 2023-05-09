@@ -48,12 +48,12 @@
     --h1Font: 'sunset-gothic-regular-trial-webfont', 'NeueMontreal-Regular', 'Inter', sans-serif;
     --font: 'sunset-gothic-light-trial-webfont', 'NeueMontreal-Regular', 'Inter', sans-serif;
     --fontSize: 1rem;
-    --gradient1: linear-gradient(90deg, #000000, #436cff, #ABC600);
-    --gradient2: linear-gradient(90deg, #000000, #CAFFD2, #EA6CFF);
-    --gradient3: linear-gradient(90deg, #000000, #D1ACFF, #00703a);
-    --gradient4: linear-gradient(90deg, #000000, #00703a, #EA6CFF);
-    --gradient5: linear-gradient(90deg, #000000, #00703a, #CAFFD2);
-    --gradient6: linear-gradient(90deg, #000000, #ABC600, #436cff);
+    /* --gradient1: linear-gradient(90deg, #00703a, #436cff, #ABC600);
+    --gradient2: linear-gradient(90deg, #436cff, #CAFFD2, #EA6CFF);
+    --gradient3: linear-gradient(90deg, #ABC600, #D1ACFF, #00703a);
+    --gradient4: linear-gradient(90deg, #D1ACFF, #00703a, #EA6CFF);
+    --gradient5: linear-gradient(90deg, #00703a, #EA6CFF, #CAFFD2);
+    --gradient6: linear-gradient(90deg, #CAFFD2, #ABC600, #436cff); */
 
 }
 
@@ -103,7 +103,9 @@ filter: url(#grainy);
 }
 
 .empty {
-    background: var(--gradient4);
+    display: none;
+    /* background: var(--gradient4); */
+    display: none;
 }
 
 #set {
@@ -191,8 +193,13 @@ footer {
     line-height: 25px;
 }
 
-footer a {
+a {
+    text-decoration: none;
+}
+
+a:hover {
     text-decoration: underline;
+    cursor: alias;
 }
 
 /* DESKTOP: 768px */
@@ -208,9 +215,10 @@ footer a {
         padding: 1em;
         text-transform: uppercase;
         font-size: var(--fontSize);
+        margin: auto 8em;
     }
 
     #set {
-        max-width: 100vw;
+        max-width: 80vw;
     }
 }

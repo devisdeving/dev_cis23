@@ -1,20 +1,20 @@
 const collectionList = document.getElementById('set')
 
 const rentedGradients = [
-	'linear-gradient(90deg, #000000 5%, #436cff, #ABC600)',
-	'linear-gradient(90deg, #000000 5%, #CAFFD2, #EA6CFF)',
-	'linear-gradient(90deg, #000000 5%, #D1ACFF, #00703a)',
-	'linear-gradient(90deg, #000000 5%, #00703a, #EA6CFF)',
-	'linear-gradient(90deg, #000000 5%, #00703a, #CAFFD2)',
-	'linear-gradient(90deg, #000000 5%, #ABC600, #436cff)'
+	'linear-gradient(90deg, #00703a, #436cff, #ABC600)',
+	'linear-gradient(90deg, #436cff, #CAFFD2, #EA6CFF)',
+	'linear-gradient(90deg, #ABC600, #D1ACFF, #00703a)',
+	'linear-gradient(90deg, #D1ACFF, #00703a, #EA6CFF)',
+	'linear-gradient(90deg, #00703a, #EA6CFF, #CAFFD2)',
+	'linear-gradient(90deg, #CAFFD2, #ABC600, #436cff)'
   ];
   const ownedGradients = [
-	'linear-gradient(-90deg, #000000 5%, #436cff, #ABC600)',
-	'linear-gradient(-90deg, #000000 5%, #CAFFD2, #EA6CFF)',
-	'linear-gradient(-90deg, #000000 5%, #D1ACFF, #00703a)',
-	'linear-gradient(-90deg, #000000 5%, ,#00703a, #EA6CFF)',
-	'linear-gradient(-90deg, #000000 5%, #00703a, #CAFFD2)',
-	'linear-gradient(-90deg, #000000 5%, #ABC600, #436cff)'
+	'linear-gradient(-90deg, #00703a, #436cff, #ABC600)',
+	'linear-gradient(270deg, #436cff, #CAFFD2, #EA6CFF)',
+	'linear-gradient(-90deg, #ABC600, #D1ACFF, #00703a)',
+	'linear-gradient(270deg, #D1ACFF, #00703a, #EA6CFF)',
+	'linear-gradient(-90deg, #00703a, #EA6CFF, #CAFFD2)',
+	'linear-gradient(270deg, #CAFFD2, #ABC600, #436cff)'
   ];
 
 	let lastRentedGradient = null;
@@ -46,7 +46,7 @@ function renderItems(collection) {
 			`
 			<div id="row" class="${emptyClass}"
 			style="
-			height:${item.baseSquareFootage/20}px; 
+			height:${item.baseSquareFootage/10}px; 
 			width: 100vw;
 			--delay:${Math.random() * 2000};
 			.rowText {
@@ -64,7 +64,7 @@ function renderItems(collection) {
 			</div>
 			<div class="rented" style="width:${item.countedRentalUnits / item.allCountedUnits * 100}%; background-image:${rentedGradient}">
 				</div>
-				<div class="owned" style="width:${item.countedHomeownershipUnits / item.allCountedUnits * 100}%; background-image:${ownedGradient}"">
+				<div class="owned" style="width:${item.countedHomeownershipUnits / item.allCountedUnits * 100}%; background-image:${ownedGradient}; opacity:">
 				</div>
 			</div>
 			`;

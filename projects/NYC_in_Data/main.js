@@ -27,14 +27,20 @@ const rentedGradients = [
 	}
 	return gradient;
   }
-
+let heightCalc;
 function renderItems(collection) {
 
 	collection.forEach(function(item, index) {
 
 		const rentalCalc = item.countedRentalUnits / item.allCountedUnits * 100;
 		const ownedCalc = item.countedHomeownershipUnits / item.allCountedUnits * 100;
-		const heightCalc = item.baseSquareFootage/20;
+		
+		if(item.baseSquareFootage/20<20){
+			heightCalc = '40';
+
+		}else{
+			heightCalc = item.baseSquareFootage/20;
+		}
 		const zeroZero = item.ratio;
   
 		// if (rentalCalc == 0) {
@@ -55,11 +61,18 @@ function renderItems(collection) {
 
 	  const rentedGradient = getRandomGradient(rentedGradients, lastRentedGradient);
 	  const ownedGradient = getRandomGradient(ownedGradients, lastOwnedGradient);
-	  const ghostClass = heightCalc === 0.1 ? 'ghost' : '#';
+	function ghostClass(){
+			if(heightCalc === '40'){
+				return "ghost"
+			}else{
+				return "null"
+			}
+		}
+		console.log(heightCalc)
 
 		const itemDetails =
 			`
-			<div id="row" class="${ghostClass}"
+			<div id="row" class="${ghostClass()}"
 			style="
 			height:${heightCalc}px; 
 			width: ${item.allCountedUnits * 100}px;
@@ -73,9 +86,9 @@ function renderItems(collection) {
 					<p>${item.ratio}</p>
 					<p>${item.houseNumber} ${item.streetName} ${item.postcode}</p>
 				</div>
-				<div class="rented ${ghostClass}" style="width: ${rentalCalc}%; background-image:${rentedGradient}">
+				<div class="rented ${ghostClass()}" style="width: ${rentalCalc}%; background-image:${rentedGradient}">
 				</div>
-				<div class="owned ${ghostClass}" style="width:${ownedCalc}%; background-image:${ownedGradient}">
+				<div class="owned ${ghostClass()}" style="width:${ownedCalc}%; background-image:${ownedGradient}">
 				</div>
 			</div>
 			`;

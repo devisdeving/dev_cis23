@@ -166,6 +166,19 @@ filter: url(#grainy);
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    animation: opacity 5s ease-in;
+}
+
+@keyframes opacity {
+    0% {
+      opacity: 0%;
+    }
+    50% {
+        opacity: 0%;
+      }
+    100% {
+        opacity: 100%;
+      }
 }
 
 /* .rowText p {
@@ -227,7 +240,7 @@ a:hover {
 #row:hover {
     animation-play-state: paused;
     cursor: pointer;
-    animation-delay: 100ms;
+    animation-delay: 200ms;
 }
 
 /* DESKTOP: 768px */

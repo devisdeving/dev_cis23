@@ -51,9 +51,9 @@ function renderItems(collection) {
 		// 	return;
 		//   }
 
-		  if (zeroZero === '0:0') {
-			return;
-		  }
+		//   if (zeroZero === '0:0') {
+		// 	return;
+		//   }
 
 		  if (item === 0) {
 			return;
@@ -62,12 +62,29 @@ function renderItems(collection) {
 	  const rentedGradient = getRandomGradient(rentedGradients, lastRentedGradient);
 	  const ownedGradient = getRandomGradient(ownedGradients, lastOwnedGradient);
 	function ghostClass(){
-			if(heightCalc === '40'){
+			if(heightCalc === '40' || zeroZero === '0:0'){
 				return "ghost"
-			}else{
+			} else {
 				return "null"
 			}
 		}
+
+		function rentGreyBg(){
+			if(heightCalc === '40'){
+				return "linear-gradient(90deg, #242424, #a2a2a2)"
+			} else {
+				return rentedGradient
+			}
+		}
+
+		function ownGreyBg(){
+			if(heightCalc === '40'){
+				return "linear-gradient(90deg, #242424, #a2a2a2)"
+			} else {
+				return ownedGradient
+			}
+		}
+
 		console.log(heightCalc)
 
 		const itemDetails =
@@ -77,18 +94,13 @@ function renderItems(collection) {
 			height:${heightCalc}px; 
 			width: ${item.allCountedUnits * 100}px;
 			--delay:${Math.random() * 2000};">
-			<svg id="grainy">
-                    <feTurbulence
-                        type="turbulence"
-                        baseFrequency="10.95"/>
-            </svg> 
 				<div class="rowText" style="height:${heightCalc}px">
 					<p>${item.ratio}</p>
 					<p>${item.houseNumber} ${item.streetName} ${item.postcode}</p>
 				</div>
-				<div class="rented ${ghostClass()}" style="width: ${rentalCalc}%; background-image:${rentedGradient}">
+				<div class="rented ${ghostClass()}" style="width: ${rentalCalc}%; background-image:${rentGreyBg()}">
 				</div>
-				<div class="owned ${ghostClass()}" style="width:${ownedCalc}%; background-image:${ownedGradient}">
+				<div class="owned ${ghostClass()}" style="width:${ownedCalc}%; background-image:${ownGreyBg()}">
 				</div>
 			</div>
 			`;

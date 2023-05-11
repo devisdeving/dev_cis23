@@ -165,8 +165,8 @@ button:hover {
 }
 
 .animate-row {
-    animation: oscillate 10s ease-in-out infinite;
-    animation-delay: calc(var(--delay) * 5ms);
+    animation: oscillate 6s ease-in-out infinite;
+    animation-delay: calc(var(--delay) * 1ms);
 }
 
 .animate-row:hover {

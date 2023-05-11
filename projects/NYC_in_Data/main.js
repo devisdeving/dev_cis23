@@ -51,9 +51,9 @@ function renderItems(collection) {
 		// 	return;
 		//   }
 
-		//   if (zeroZero === '0:0') {
-		// 	return;
-		//   }
+		  if (zeroZero === '0:0') {
+			return;
+		  }
 
 		  if (item === 0) {
 			return;
@@ -62,7 +62,7 @@ function renderItems(collection) {
 	  const rentedGradient = getRandomGradient(rentedGradients, lastRentedGradient);
 	  const ownedGradient = getRandomGradient(ownedGradients, lastOwnedGradient);
 	function ghostClass(){
-			if(heightCalc === '40' || zeroZero === '0:0'){
+			if(heightCalc === '40'){
 				return "ghost"
 			} else {
 				return "null"
@@ -89,7 +89,7 @@ function renderItems(collection) {
 
 		const itemDetails =
 			`
-			<div id="row" class="${ghostClass()}"
+			<div class="row ${ghostClass()}"
 			style="
 			height:${heightCalc}px; 
 			width: ${item.allCountedUnits * 100}px;
@@ -124,3 +124,26 @@ fetch('NYC_in_Data.json')
 	})
 
 	
+
+let displayModeDynamic = false;	
+// On space bar
+
+const toggleModeEl = document.querySelector('#toggleMode');
+
+toggleModeEl.addEventListener('click', function() {
+	console.log('click')
+	displayModeDynamic = !displayModeDynamic;
+
+	const rowEls = document.querySelectorAll('.row');
+	if (displayModeDynamic) {
+		console.log('add');
+		rowEls.forEach(function(el) {
+			el.classList.add('animate-row');
+		});
+	} else {
+		console.log('remove');
+		rowEls.forEach(function(el) {
+			el.classList.remove('animate-row');
+		});	
+	}
+})

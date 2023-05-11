@@ -58,6 +58,14 @@
 }
 
 /* MOBILE: 375px */
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
 body {
     font-family: var(--font);
     font-size: var(--fontSize);
@@ -109,6 +117,7 @@ pointer-events: none;
     width: 100vw;
     z-index: 10002;
     color: white;
+    align-items: center;
 } 
 
 .empty {
@@ -122,14 +131,28 @@ pointer-events: none;
     align-items: left;
     color:white;
     background-color: #000000;
+    margin-top: 76px;
 }
 
-#row {
+.row {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     position: relative; 
     z-index: 9999;
+}
+
+button {
+    cursor: pointer;
+    border-radius: 3em;
+    background-color: white;
+    color: #000000;
+    padding: 0.8em 1.2em;
+}
+
+button:hover {
+    padding: 1.2em 1.6em;
+    transition: 60ms ease-in-out;
 }
 
 #grainy {
@@ -141,12 +164,12 @@ pointer-events: none;
     z-index: 10003;
 }
 
-#row {
-    animation: oscillate 15s ease-in-out infinite;
-    animation-delay: calc(var(--delay) * 10ms);
+.animate-row {
+    animation: oscillate 10s ease-in-out infinite;
+    animation-delay: calc(var(--delay) * 5ms);
 }
 
-#row:hover {
+.animate-row:hover {
     animation-play-state: paused;
     cursor: pointer;
     left: 0;
@@ -195,7 +218,7 @@ pointer-events: none;
     padding: 0.5em;
 } */
 
-#row p {
+.row p {
     margin: 1em;
 }
 
@@ -223,7 +246,7 @@ footer {
     align-items: center;
 }
 
-.bio {
+#bio {
     padding: 2em;
     line-height: 25px;
 }
@@ -241,7 +264,7 @@ a:hover {
     background-image: linear-gradient(90deg, #242424, #a2a2a2);
 }
 /* 
-#row:hover::after {
+.row:hover::after {
     content: '';
     position: absolute;
     left: 0;
@@ -263,7 +286,7 @@ a:hover {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        padding: 2em;
+        padding: 1em;
         text-transform: uppercase;
         font-family: var(--h1Font);
         background-color: #0b0b0b;

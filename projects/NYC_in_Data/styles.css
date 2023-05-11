@@ -278,7 +278,7 @@ a:hover {
     }
 
     #set {
-        margin-top: 120px;
+        margin-top: 80px;
     }
     
     .topBar {
@@ -286,7 +286,7 @@ a:hover {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        padding: 1em;
+        padding: 0.4em;
         text-transform: uppercase;
         font-family: var(--h1Font);
         background-color: #0b0b0b;

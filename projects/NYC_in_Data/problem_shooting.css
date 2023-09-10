@@ -1,15 +1,27 @@
-.psMain {
-    display: flex;
-    flex-direction: row;
-    background-color: black;
-}
+body {
+    --background: red;
+    background-color: var(--background);
+    }
 
-.ps1 {
-    background-color: aqua;
-    width: 34%;
-}
+    @media (min-width: 800px) {
+    body { --background: green; }
+    }
+    
+    @media (max-width: 600px) {
+    body { --background: blue; }
+    }
 
-.ps2 {
-    background-color: yellow;
-    width: 66%;
-}
+    li { 
+        color: red; 
+    }
+
+    li:hover { 
+        color: green; 
+    }
+    li p {
+        color: blue;
+        opacity: 0;
+    }
+    li p:hover { 
+        opacity: 1;
+    }
